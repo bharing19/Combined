@@ -1234,47 +1234,6 @@ https://wrestlingspotlight-live.localnowlive.com/v1/master/385c85a93929f94966d0f
 
 #EXTINF:-1 tvg-id="localnow_Boxing TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621e674713d7fc75966a54f4" group-title="🟢LocalNow: Sports",Boxing TV
 https://boxingtv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_620c0103b876637a7d0c2ee8_boxingtv-live/BOXINGTV_SCTE.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=11315687967618176&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-wrestling-spotlight&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=620c0103b876637a7d0c2ee8&ads.channel_title=EPG-Boxing_TV&ads.channel_contenttype=Shows&ads.channel_name=EPG-Boxing_TV&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=boxing-tv&ads.content_provider=boxing-tv&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
-#EXTINF:-1 tvg-id="jungoplus_blackbelt" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/black_belt_tv_1920x1080.jpg" group-title="Jungo+",Black Belt
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=749&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_combatgo" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/combatgo_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",Combat Go
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=671&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_es24" tvg-logo="https://img3.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/es24_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",ES24
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=667&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_frontrowinternational" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/frontrowchannel_channelthumbnail_livetvhomepage_1920x1080_1.jpg" group-title="Jungo+",Front Row International
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=837&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_frontrowusa" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/frontrowchannel_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",Front Row USA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=668&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_hallypopusa" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hallypop_channelthumbnail_livetvhomepage_1920x1080_0.jpg" group-title="Jungo+",Hallypop USA
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=670&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_hkopentv" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hkopentv_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",HK OpenTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=746&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_hoypinoy" tvg-logo="https://img3.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hoypinoy_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",Hoy Pinoy
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=709&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_onbiz" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/onbiz_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",ON Biz
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_onsports" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/onsports_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",ON Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1363&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_phimviet" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/phimviet_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",Phim Viet
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_planetout" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/planetout_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",Planet Out
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=669&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_screamflix" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/screamflix_channelthumbnail_livetvhomepage_1920x1080_0.jpg" group-title="Jungo+",Scream Flix
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=864&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
-
-#EXTINF:-1 tvg-id="jungoplus_torotv" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/torotvinternational_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="Jungo+",Toro TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=793&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Bazaar of All Nations" tvg-name="TVS Bazaar of All Nations" tvg-logo="https://www.watchyour.tv/epg/channellogos/consumer.png" group-title="🔴WatchYour.TV",TVS Bazaar of All Nations
 https://rpn1.bozztv.com/36bay2/gusa-tvsbazaar/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Boxing Network" tvg-name="TVS Boxing Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-boxing-network.png" group-title="🔴WatchYour.TV",TVS Boxing Network
@@ -1356,34 +1315,6 @@ https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGPet Parade Network" tvg-name="Pet Parade Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/pet-parade-network.png" group-title="🔴WatchYour.TV",Pet Parade Network
 https://rpn1.bozztv.com/36bay2/gusa-petparadenetwork/index.m3u8
 
-#EXTINF:-1 tvg-id="as_rickandmorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" group-title="[adult swim]",Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="as_lsotl" tvg-logo="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155293333720514.jpg" group-title="[adult swim]",Last Stream on the Left
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF:-1 tvg-id="as_otasmalls" tvg-logo="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130053723479.jpg" group-title="[adult swim]",Off The Air / Smalls
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="as_metalocalypse" tvg-logo="https://media.cdn.adultswim.com/uploads/20200430/204301254477-metasite.jpg" group-title="[adult swim]",Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:-1 tvg-id="as_robotchicken" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" group-title="[adult swim]",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-id="as_samuraijack" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/samurai-jack/sjMarathonchannlel_maraThumbS05finale1080.jpg" group-title="[adult swim]",Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id="as_athf" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="[adult swim]",Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-id="as_theericandreshow" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/03/28/eamarathon.jpg" group-title="[adult swim]",The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-id="as_theventurebros" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/vbSearch.jpg" group-title="[adult swim]",The Venture Bros.
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-id="as_channel5" tvg-logo="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg" group-title="[adult swim]",Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-#EXTINF:-1 tvg-id="as_infomercials" tvg-logo="https://media.cdn.adultswim.com/uploads/20200325/thumbnails/2_203251736258-marathonStream_infomercials.jpg" group-title="[adult swim]",Infomercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-#EXTINF:-1 tvg-id="as_blackjesus" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/black-jesus-marathon/marathonStream_blackjesus.jpg" group-title="[adult swim]",Black Jesus
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:-1 tvg-id="as_ypfigth" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg" group-title="[adult swim]",Your Pretty Face is Going to Hell
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
-#EXTINF:-1 tvg-id="as_dreamcorpllc" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/Image_dreamcorpllc2.jpg" group-title="[adult swim]",Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
 #EXTINF:-1: tvg-id="galxytv_EPGCinepride" tvg-name="CinePride" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/hAWYM7F3QL1eYpn53UYdlLRXTjMUVKrB001poodr.png" group-title="🟤galxyTV: Entertainment",CinePride
 https://content.uplynk.com/channel/e54d7e92a0154d67ae0770c9d4210e77.m3u8
 #EXTINF:-1: tvg-id="galxytv_EPGDUNGEON TV" tvg-name="Dungeon" tvg-logo="https://s3.amazonaws.com/mtdb.galxy.prod/storage/live-tv/channel-logos/uofebYTFJ0XtmiC8OG7MW4eZvAZrobmOyLDxdtTu.png" group-title="🟤galxyTV: Entertainment",Dungeon
@@ -1757,3 +1688,72 @@ https://287cc759e7ea47bd87f67326f2c3c295.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="sportstribal_SPORTSGRID" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/208db9b3_D0CF72b/posters/52f3173a4c888ce3544472913e6b18a2/52f3173a4c888ce3544472913e6b18a2.png" group-title="🟩SportsTribal.tv",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="jungoplus_blackbelt" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/black_belt_tv_1920x1080.jpg" group-title="🟦Jungo+",Black Belt
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_combatgo" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/combatgo_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Combat Go
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_es24" tvg-logo="https://img3.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/es24_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",ES24
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=667&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_frontrowinternational" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/frontrowchannel_channelthumbnail_livetvhomepage_1920x1080_1.jpg" group-title="🟦Jungo+",Front Row International
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=837&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_frontrowusa" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/frontrowchannel_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Front Row USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=668&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_hallypopusa" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hallypop_channelthumbnail_livetvhomepage_1920x1080_0.jpg" group-title="🟦Jungo+",Hallypop USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=670&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_hkopentv" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hkopentv_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",HK OpenTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=746&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_hoypinoy" tvg-logo="https://img3.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hoypinoy_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Hoy Pinoy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=709&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_onbiz" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/onbiz_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",ON Biz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_onsports" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/onsports_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",ON Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1363&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_phimviet" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/phimviet_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Phim Viet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_planetout" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/planetout_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Planet Out
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=669&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_screamflix" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/screamflix_channelthumbnail_livetvhomepage_1920x1080_0.jpg" group-title="🟦Jungo+",Scream Flix
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=864&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_torotv" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/torotvinternational_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Toro TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=793&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+#EXTINF:-1 tvg-id="as_rickandmorty" tvg-logo="https://media.cdn.adultswim.com/uploads/20210914/219141616186-1910281358343-RAM.jpg" group-title="🟥[adult swim]",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="as_lsotl" tvg-logo="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155293333720514.jpg" group-title="🟥[adult swim]",Last Stream on the Left
+https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
+#EXTINF:-1 tvg-id="as_otasmalls" tvg-logo="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15130053723479.jpg" group-title="🟥[adult swim]",Off The Air / Smalls
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-id="as_metalocalypse" tvg-logo="https://media.cdn.adultswim.com/uploads/20200430/204301254477-metasite.jpg" group-title="🟥[adult swim]",Metalocalypse
+https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:-1 tvg-id="as_robotchicken" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/robot-chicken-marathon/marathonStream_robotchicken5.jpg" group-title="🟥[adult swim]",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-id="as_samuraijack" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/samurai-jack/sjMarathonchannlel_maraThumbS05finale1080.jpg" group-title="🟥[adult swim]",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-id="as_athf" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/aqua-teen-hunger-force-marathon/marathonStream_athf10.jpg" group-title="🟥[adult swim]",Aqua Teen Hunger Force
+https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
+#EXTINF:-1 tvg-id="as_theericandreshow" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2018/03/28/eamarathon.jpg" group-title="🟥[adult swim]",The Eric Andre Show
+https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:-1 tvg-id="as_theventurebros" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/vbSearch.jpg" group-title="🟥[adult swim]",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
+#EXTINF:-1 tvg-id="as_channel5" tvg-logo="https://media.cdn.adultswim.com/uploads/20190710/197101518217-channel5thumb.jpg" group-title="🟥[adult swim]",Channel 5
+https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
+#EXTINF:-1 tvg-id="as_infomercials" tvg-logo="https://media.cdn.adultswim.com/uploads/20200325/thumbnails/2_203251736258-marathonStream_infomercials.jpg" group-title="🟥[adult swim]",Infomercials
+https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
+#EXTINF:-1 tvg-id="as_blackjesus" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/black-jesus-marathon/marathonStream_blackjesus.jpg" group-title="🟥[adult swim]",Black Jesus
+https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-id="as_ypfigth" tvg-logo="https://i.cdn.turner.com/adultswim/big/video/your-pretty-face-is-going-to-hell-marathon/marathonStream_ypf6.jpg" group-title="🟥[adult swim]",Your Pretty Face is Going to Hell
+https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
+#EXTINF:-1 tvg-id="as_dreamcorpllc" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/Image_dreamcorpllc2.jpg" group-title="🟥[adult swim]",Dream Corp LLC
+https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
