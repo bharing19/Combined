@@ -1,10 +1,3 @@
-#       ___      ____       ____      ___  __          ___    __    
-#      / _ \___ / / /____ _/ __/___  / _ \/ /__ ___ __/ (_)__/ /____
-#     / // / -_) / __/ _ `/\ \/ __/ / ___/ / _ `/ // / / (_-< __(_-<
-#    /____/\__/_/\__/\_,_/___/_/   /_/  /_/\_,_/\_, /_/_/___|__/___/
-#                                              /___/                                               
-#                                                              COMBINED!!!!
-#
 #EXTM3U x-tvg-url="https://cutt.ly/DSr95Combinedepg"
 #EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="🔵DistroTV: Entertainment",Ace
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8
