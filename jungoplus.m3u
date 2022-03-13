@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="jungoplus_blackbelt" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/black_belt_tv_1920x1080.jpg" group-title="🟦Jungo+",Black Belt
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=749&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_combatgo" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/combatgo_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Combat Go
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=671&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_es24" tvg-logo="https://img3.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/es24_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",ES24
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=667&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_frontrowinternational" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/frontrowchannel_channelthumbnail_livetvhomepage_1920x1080_1.jpg" group-title="🟦Jungo+",Front Row International
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=837&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_frontrowusa" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/frontrowchannel_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Front Row USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=668&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_hallypopusa" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hallypop_channelthumbnail_livetvhomepage_1920x1080_0.jpg" group-title="🟦Jungo+",Hallypop USA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=670&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_hkopentv" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hkopentv_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",HK OpenTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=746&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_hoypinoy" tvg-logo="https://img3.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/hoypinoy_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Hoy Pinoy
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=709&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_onbiz" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/onbiz_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",ON Biz
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1364&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_onsports" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/onsports_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",ON Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1363&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_phimviet" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/phimviet_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Phim Viet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1362&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_planetout" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/planetout_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Planet Out
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=669&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_screamflix" tvg-logo="https://img2.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/screamflix_channelthumbnail_livetvhomepage_1920x1080_0.jpg" group-title="🟦Jungo+",Scream Flix
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=864&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
+
+#EXTINF:-1 tvg-id="jungoplus_torotv" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/torotvinternational_channelthumbnail_livetvhomepage_1920x1080.jpg" group-title="🟦Jungo+",Toro TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=793&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
