@@ -1519,7 +1519,7 @@ https://hls.airy.tv/stream/17/airy.m3u8
 https://live-mcl.cdn01.net/web/y93dkd4zr/playlist.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGLegend_Films" tvg-name="Legend Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Legend_Films_Logo.png" group-title="🟡Airy.tv",Legend Films
 https://hls.airy.tv/stream/24/airy.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGMomCaveTV" tvg-name="MomCaveTV" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="🟡Airy.tv",MomCaveTV
+#EXTINF:-1 tvg-id="airytv_EPGMomCaveTV" tvg-name="MomCaveTV" tvg-logo="https://scontent.fyqt1-1.fna.fbcdn.net/v/t1.6435-1/202617333_337421741077029_6353810467609533022_n.jpg?stp=cp0_dst-jpg_p80x80&_nc_cat=103&ccb=1-5&_nc_sid=dbb9e7&_nc_ohc=Fytb-fVtZ8YAX-rz6lG&_nc_ht=scontent.fyqt1-1.fna&oh=00_AT_FhR_6SgwCFjfaPzcphXTULcb8aUUmdWFlkLOUiRwgxg&oe=6256BC20" group-title="🟡Airy.tv",MomCaveTV
 https://hls.airy.tv/stream/48/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGMovie_Giants" tvg-name="Movie Giants" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/movies/movies1.png" group-title="🟡Airy.tv",Movie Giants
 https://hls.airy.tv/stream/30/airy.m3u8
