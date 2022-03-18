@@ -359,7 +359,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="localnow_Local Now Chicago" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61803d30a3e55f4e79688ba2" group-title="🟢LocalNow: Local",Local Now Chicago
 https://localnowchicago-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6180398e5e5ccd71b63878a4_localnowchicago-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e69e4ce772d65f31e24d5/" group-title="🟢LocalNow: Local",Local Now Anchorage
+#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e69e4ce772d65f31e24d5" group-title="🟢LocalNow: Local",Local Now Anchorage
 https://localnowanchorage-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e60f4ac16d76928185b5b_localnowanchorage-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182ac26fb563932a8374678" group-title="🟢LocalNow: Local",Local Now Boston
