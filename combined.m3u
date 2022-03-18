@@ -374,6 +374,9 @@ https://localnowhouston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6180305f920ef27e52772ec2" group-title="🟢LocalNow: Local",Local Now Los Angeles
 https://localnowlosangeles-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61802cf3afb1fd562878e862_localnowlosangeles-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e708d36796c441f715a94" group-title="🟢LocalNow: Local",Local Now Lincoln
+https://localnowlincoln-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e6fa06129a44d14657415_localnowlincoln-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619c181ca8105e72ac403002" group-title="🟢LocalNow: Local",Local Now Manhattan
 https://localnowmanhattan-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619beb0f01e4470cbe55c812_localnowmanhattan-live/playlist.m3u8
 
