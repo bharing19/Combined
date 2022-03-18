@@ -386,6 +386,9 @@ https://localnowmiami-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186f
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182a5324ad3160499095ae3" group-title="🟢LocalNow: Local",Local Now Minneapolis
 https://localnowminneapolis-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182a3e133e03a04ef19b643_localnowminneapolis-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618045828bc94f1aeb1b1202" group-title="🟢LocalNow: Local",Local Now New York
+https://localnownewyorkcity-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6180446cd34aba7e0a3dbca2_localnownewyorkcity-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182aaa2faed574bcb7bc6b4" group-title="🟢LocalNow: Local",Local Now Seattle
 https://localnowseattle-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182a973a3459a094106f502_localnowseattle-live/playlist.m3u8
 
