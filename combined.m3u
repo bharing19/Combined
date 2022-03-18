@@ -362,6 +362,9 @@ https://localnowchicago-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e69e4ce772d65f31e24d5/" group-title="🟢LocalNow: Local",Local Now Anchorage
 https://localnowanchorage-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e60f4ac16d76928185b5b_localnowanchorage-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182ac26fb563932a8374678" group-title="🟢LocalNow: Local",Local Now Boston
+https://localnowboston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182ab178c45932f6a65e284_localnowboston-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e5dd8649ef543f1496e56" group-title="🟢LocalNow: Local",Local Now Duluth
 https://localnowduluth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e5cde3efc7b153f5c0e14_localnowduluth-live/playlist.m3u8
 
