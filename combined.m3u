@@ -368,6 +368,9 @@ https://localnowboston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e5dd8649ef543f1496e56" group-title="🟢LocalNow: Local",Local Now Duluth
 https://localnowduluth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e5cde3efc7b153f5c0e14_localnowduluth-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6189c3604c0ea8193d728cd2" group-title="🟢LocalNow: Local",Local Now Fort Myers
+https://localnowfort-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6189bfe02930c0021e6dcd34_localnowfort-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618043fe6cec266854099b14" group-title="🟢LocalNow: Local",Local Now Houston
 https://localnowhouston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_618042bf03ada82238166b88_localnowhouston-live/playlist.m3u8
 
