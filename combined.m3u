@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://cutt.ly/DSr95Combinedepg"
 
-#EXTINF:-1 tvg-id="DeltaSr95_information" group-title="📰Information",Information
+#EXTINF:-1 tvg-id="DeltaSr95_information" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/info.png" group-title="📰Information",Information
 http://127.0.0.1/fakelink.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="🔵DistroTV: Entertainment",Ace
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8
