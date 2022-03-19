@@ -359,40 +359,40 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="localnow_Local Now Chicago" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61803d30a3e55f4e79688ba2" group-title="🟢LocalNow: Local",Local Now Chicago
 https://localnowchicago-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6180398e5e5ccd71b63878a4_localnowchicago-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e69e4ce772d65f31e24d5" group-title="🟢LocalNow: Local",Local Now Anchorage
+#EXTINF:-1 tvg-id="localnow_localanchorage" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e69e4ce772d65f31e24d5" group-title="🟢LocalNow: Local",Local Now Anchorage
 https://localnowanchorage-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e60f4ac16d76928185b5b_localnowanchorage-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182ac26fb563932a8374678" group-title="🟢LocalNow: Local",Local Now Boston
+#EXTINF:-1 tvg-id="localnow_localboston" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182ac26fb563932a8374678" group-title="🟢LocalNow: Local",Local Now Boston
 https://localnowboston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182ab178c45932f6a65e284_localnowboston-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e5dd8649ef543f1496e56" group-title="🟢LocalNow: Local",Local Now Duluth
+#EXTINF:-1 tvg-id="localnow_localduluth" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e5dd8649ef543f1496e56" group-title="🟢LocalNow: Local",Local Now Duluth
 https://localnowduluth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e5cde3efc7b153f5c0e14_localnowduluth-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6189c3604c0ea8193d728cd2" group-title="🟢LocalNow: Local",Local Now Fort Myers
+#EXTINF:-1 tvg-id="localnow_localfortmyers" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6189c3604c0ea8193d728cd2" group-title="🟢LocalNow: Local",Local Now Fort Myers
 https://localnowfort-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6189bfe02930c0021e6dcd34_localnowfort-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618043fe6cec266854099b14" group-title="🟢LocalNow: Local",Local Now Houston
+#EXTINF:-1 tvg-id="localnow_localhouston" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618043fe6cec266854099b14" group-title="🟢LocalNow: Local",Local Now Houston
 https://localnowhouston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_618042bf03ada82238166b88_localnowhouston-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6180305f920ef27e52772ec2" group-title="🟢LocalNow: Local",Local Now Los Angeles
+#EXTINF:-1 tvg-id="localnow_locallosangeles" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6180305f920ef27e52772ec2" group-title="🟢LocalNow: Local",Local Now Los Angeles
 https://localnowlosangeles-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61802cf3afb1fd562878e862_localnowlosangeles-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e708d36796c441f715a94" group-title="🟢LocalNow: Local",Local Now Lincoln
+#EXTINF:-1 tvg-id="localnow_locallincoln" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e708d36796c441f715a94" group-title="🟢LocalNow: Local",Local Now Lincoln
 https://localnowlincoln-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e6fa06129a44d14657415_localnowlincoln-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619c181ca8105e72ac403002" group-title="🟢LocalNow: Local",Local Now Manhattan
+#EXTINF:-1 tvg-id="localnow_localmanhattan" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619c181ca8105e72ac403002" group-title="🟢LocalNow: Local",Local Now Manhattan
 https://localnowmanhattan-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619beb0f01e4470cbe55c812_localnowmanhattan-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182e5e222021249e610473a" group-title="🟢LocalNow: Local",Local Now Miami
+#EXTINF:-1 tvg-id="localnow_localmiami" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182e5e222021249e610473a" group-title="🟢LocalNow: Local",Local Now Miami
 https://localnowmiami-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182e25adb0e552378053067_localnowmiami-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182a5324ad3160499095ae3" group-title="🟢LocalNow: Local",Local Now Minneapolis
 https://localnowminneapolis-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182a3e133e03a04ef19b643_localnowminneapolis-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618045828bc94f1aeb1b1202" group-title="🟢LocalNow: Local",Local Now New York
+#EXTINF:-1 tvg-id="localnow_localnewyork" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618045828bc94f1aeb1b1202" group-title="🟢LocalNow: Local",Local Now New York
 https://localnownewyorkcity-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6180446cd34aba7e0a3dbca2_localnownewyorkcity-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182aaa2faed574bcb7bc6b4" group-title="🟢LocalNow: Local",Local Now Seattle
+#EXTINF:-1 tvg-id="localnow_localseattle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182aaa2faed574bcb7bc6b4" group-title="🟢LocalNow: Local",Local Now Seattle
 https://localnowseattle-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182a973a3459a094106f502_localnowseattle-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_KSHB 41 Kansas City" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b684904fcc8c629d172d36" tvg-name="KSHB 41 Kansas City" group-title="🟢LocalNow: Local",KSHB 41 Kansas City
@@ -461,7 +461,7 @@ https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4
 #EXTINF:-1 tvg-id="localnow_WSB Now Atlanta" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015626ae54e0a6732b715" tvg-name="WSB Now Atlanta" group-title="🟢LocalNow: Local",WSB Now Atlanta
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Florida24" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61323c58c5379746bb1a5f03" tvg-name="Florida24" group-title="🟢LocalNow: Local",Florida24 Network
+#EXTINF:-1 tvg-id="localnow_noepg" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61323c58c5379746bb1a5f03" tvg-name="Florida24" group-title="🟢LocalNow: Local",Florida24 Network
 https://florida24network-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6205b2afcfe9587c2e2fdcf5_florida24network-live-1/playlist.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=14554559646497794&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-fl24&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F99.0.4844.74%20Safari%2F537.36&ads.channel_id=6205b2afcfe9587c2e2fdcf5&ads.channel_title=EPG-Florida_24_Network&ads.channel_contenttype=Shows&ads.channel_name=EPG-Florida_24_Network&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=florida-24-network&ads.content_provider=florida-24-network&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=b2c5de31-47c8-4791-a5eb-e38c110e6359&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1
 
 #EXTINF:-1 tvg-id="localnow_WAAY" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61687973def9912f866507ed" tvg-name="WAAY" group-title="🟢LocalNow: Local",WAAY
