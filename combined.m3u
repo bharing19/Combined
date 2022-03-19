@@ -1,4 +1,7 @@
 #EXTM3U x-tvg-url="https://cutt.ly/DSr95Combinedepg"
+
+#EXTINF:-1 tvg-id="DeltaSr95_information" group-title="📰Information",Information
+http://127.0.0.1/fakelink.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGACE TV" tvg-name="Ace" tvg-logo="https://a.jsrdn.com/hls/22990/ace-tv/logo_20210924_174145_68.png" group-title="🔵DistroTV: Entertainment",Ace
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGBest of British TV" tvg-name="Best Of British TV" tvg-logo="https://a.jsrdn.com/hls/22913/best-of-british/logo_20210119_204821_70.png" group-title="🔵DistroTV: Entertainment",Best Of British TV
@@ -374,6 +377,9 @@ https://localnowfort-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc
 #EXTINF:-1 tvg-id="localnow_localhouston" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618043fe6cec266854099b14" group-title="🟢LocalNow: Local",Local Now Houston
 https://localnowhouston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_618042bf03ada82238166b88_localnowhouston-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_locallacrosse" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61c20c81912e2260615f91dd" group-title="🟢LocalNow: Local",Local Now La Crosse
+https://localnowlacrosse-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619eb8e5093f036ca50263f2_localnowlacrosse-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_locallosangeles" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6180305f920ef27e52772ec2" group-title="🟢LocalNow: Local",Local Now Los Angeles
 https://localnowlosangeles-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61802cf3afb1fd562878e862_localnowlosangeles-live/playlist.m3u8
 
@@ -391,6 +397,9 @@ https://localnowminneapolis-live.localnowlive.com/v1/master/385c85a93929f94966d0
 
 #EXTINF:-1 tvg-id="localnow_localnewyork" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618045828bc94f1aeb1b1202" group-title="🟢LocalNow: Local",Local Now New York
 https://localnownewyorkcity-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6180446cd34aba7e0a3dbca2_localnownewyorkcity-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localphoenix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61804249fc8d6e205d6389f3" group-title="🟢LocalNow: Local",Local Now Phoenix
+https://localnowphoenix-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61804129fc8d6e205d6389f2_localnowphoenix-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_localseattle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182aaa2faed574bcb7bc6b4" group-title="🟢LocalNow: Local",Local Now Seattle
 https://localnowseattle-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182a973a3459a094106f502_localnowseattle-live/playlist.m3u8
@@ -452,7 +461,7 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
 #EXTINF:-1 tvg-id="localnow_KIRO 7 Seattle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612013fb763d7a427b16ef73" tvg-name="KIRO 7 Seattle" group-title="🟢LocalNow: Local",KIRO 7 Seattle
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WXYZ Detroit 7 Action News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ae93026d17532db90a7992" tvg-name="WXYZ Detroit 7 Action News"  group-title="🟢LocalNow: Local",WXYZ Detroit 7 Action News
+#EXTINF:-1 tvg-id="localnow_WXYZ Detroit 7 Action News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ae93026d17532db90a7992" tvg-name="WX	YZ Detroit 7 Action News"  group-title="🟢LocalNow: Local",WXYZ Detroit 7 Action News
 https://wxyz-syndication.ewscloud.com/out/v1/459e356d18be4af88bfd34140d590ada/index.m3u8
 
 #EXTINF:-1 tvg-id="localnow_KULR" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f97bc2865b7eb86296ab" tvg-name="KULR" group-title="🟢LocalNow: Local",KULR Billings MT
