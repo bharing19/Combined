@@ -395,6 +395,9 @@ https://localnowkc-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 #EXTINF:-1 tvg-id="localnow_locallacrosse" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61c20c81912e2260615f91dd" group-title="🟢LocalNow: Local",Local Now La Crosse
 https://localnowlacrosse-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619eb8e5093f036ca50263f2_localnowlacrosse-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_locallasvegas" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6184036aec37d347b3572ca5" group-title="🟢LocalNow: Local",Local Now Las Vegas
+https://localnowvegas-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6184026d7050223a735c2ba2_localnowvegas-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_locallosangeles" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6180305f920ef27e52772ec2" group-title="🟢LocalNow: Local",Local Now Los Angeles
 https://localnowlosangeles-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61802cf3afb1fd562878e862_localnowlosangeles-live/playlist.m3u8
 
@@ -403,6 +406,9 @@ https://localnowlincoln-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 
 #EXTINF:-1 tvg-id="localnow_localmanhattan" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619c181ca8105e72ac403002" group-title="🟢LocalNow: Local",Local Now Manhattan
 https://localnowmanhattan-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619beb0f01e4470cbe55c812_localnowmanhattan-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localmarquette" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61baa848ad24f76a4b055942" group-title="🟢LocalNow: Local",Local Now Marquette
+https://localnowmarquette-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61ba784f006eb41b5d78c112_localnowmarquette-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_localmiami" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182e5e222021249e610473a" group-title="🟢LocalNow: Local",Local Now Miami
 https://localnowmiami-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182e25adb0e552378053067_localnowmiami-live/playlist.m3u8
@@ -427,6 +433,9 @@ https://localnowseattle-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 
 #EXTINF:-1 tvg-id="localnow_localsyracuse" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619d1880774f372fac24ccaa" group-title="🟢LocalNow: Local",Local Now Syracuse
 https://localnowsyracuse-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619d16f5b8255776233419b8_localnowsyracuse-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localwashingtonpark" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61ba36d439c2b075a07d6132" group-title="🟢LocalNow: Local",Local Now Washington Park
+https://localnowwashingtonpark-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61ba338a5806832f845aa582_localnowwashingtonpark-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_KSHB 41 Kansas City" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b684904fcc8c629d172d36" tvg-name="KSHB 41 Kansas City" group-title="🟢LocalNow: Local",KSHB 41 Kansas City
 https://kshb-syndication.ewscloud.com/out/v1/4368cbfbec0541f8b78f762adbb6fccd/index.m3u8
