@@ -368,6 +368,12 @@ https://localnowanchorage-live.localnowlive.com/v1/master/385c85a93929f94966d0fb
 #EXTINF:-1 tvg-id="localnow_localatlanta" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61b94484f191ed0a556d4767" group-title="🟢LocalNow: Local",Local Now Atlanta
 https://localnowatlanta-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b9435902ac500c7f5f7d39_localnowatlanta-live-1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_localbangor" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e693d36796c441f715a93" group-title="🟢LocalNow: Local",Local Now Bangor
+https://localnowbangor-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e60936129a44d14657414_localnowbangor-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localbillings" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61ba86eca69a46306d1a0509" group-title="🟢LocalNow: Local",Local Now Billings
+https://localnowbillings-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61ba859d7e4d0100331044f1_localnowbillings-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_localboston" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182ac26fb563932a8374678" group-title="🟢LocalNow: Local",Local Now Boston
 https://localnowboston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182ab178c45932f6a65e284_localnowboston-live/playlist.m3u8
 
@@ -385,6 +391,9 @@ https://localnowdetroit-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 
 #EXTINF:-1 tvg-id="localnow_localduluth" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e5dd8649ef543f1496e56" group-title="🟢LocalNow: Local",Local Now Duluth
 https://localnowduluth-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e5cde3efc7b153f5c0e14_localnowduluth-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localfargo" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e6d47f34a9a6d0e4dbec1" group-title="🟢LocalNow: Local",Local Now Fargo
+https://localnowfargo-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e688efcdc944e734ac002_localnowfargo-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_localfortmyers" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6189c3604c0ea8193d728cd2" group-title="🟢LocalNow: Local",Local Now Fort Myers
 https://localnowfort-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6189bfe02930c0021e6dcd34_localnowfort-live/playlist.m3u8
