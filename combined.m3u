@@ -374,6 +374,12 @@ https://localnowboston-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186
 #EXTINF:-1 tvg-id="localnow_localbuffalo" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619c1a02f0c6fd2ea569f482" group-title="🟢LocalNow: Local",Local Now Buffalo
 https://localnowbuffalo-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619bebbbde69c2681556fe82_localnowbuffalo-live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="localnow_localcharlotte" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182a917faed574bcb7bc6b3" group-title="🟢LocalNow: Local",Local Now Charlotte
+https://localnowcharlotte-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182a7d4d5663c3a647d1d74_localnowcharlotte-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localcleveland" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182b0997c23c315045551d2" group-title="🟢LocalNow: Local",Local Now Cleveland
+https://localnowcleveland-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6182ade785ef0338a90cd7e3_localnowcleveland-live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="localnow_localdetroit" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6182a195184ed24d087e6ad5" group-title="🟢LocalNow: Local",Local Now Detroit
 https://localnowdetroit-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61829fc55472e04a35241272_localnowdetroit-live/playlist.m3u8
 
@@ -424,6 +430,9 @@ https://localnownewyorkcity-live.localnowlive.com/v1/master/385c85a93929f94966d0
 
 #EXTINF:-1 tvg-id="localnow_localphoenix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61804249fc8d6e205d6389f3" group-title="🟢LocalNow: Local",Local Now Phoenix
 https://localnowphoenix-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61804129fc8d6e205d6389f2_localnowphoenix-live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="localnow_localpittsburgh" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6185521173f3a426447a6639" group-title="🟢LocalNow: Local",Local Now Pittsburgh
+https://localnowpittsburgh-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6185510a69d8d8731e205f02_localnowpittsburgh-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_localportland" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6183fb4d4e284037ba5d954b" group-title="🟢LocalNow: Local",Local Now Portland
 https://localnowportland-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6183fa2fcd8a28718e0067a2_localnowportland-live/playlist.m3u8
