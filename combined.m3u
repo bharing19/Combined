@@ -1597,8 +1597,6 @@ https://hls.airy.tv/stream/16/airy.m3u8
 https://30a-tv.com/feeds/airytv/fishingoffshore.m3u8
 #EXTINF:-1 tvg-id="airy2_EPGGFNTV" tvg-name="GFNTV" tvg-logo="https://gfntv.com/wp-content/uploads/2021/09/Logo-GFNTV.png" group-title="🟡Airy.tv",GFNTV
 https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-AiryTV/169.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGGiddy_Up" tvg-name="Giddy Up" tvg-logo="https://pbs.twimg.com/profile_images/1094582351/twitter_photo_400x400.jpg" group-title="🟡Airy.tv",Giddy Up
-https://hls.airy.tv/stream/36/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGHappy_Holidays" tvg-name="Happy Holidays" tvg-logo="https://logodix.com/logo/881916.png" group-title="🟡Airy.tv",Happy Holidays
 https://hls.airy.tv/stream/37/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGHard_Knocks" tvg-name="Hard Knocks" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png" group-title="🟡Airy.tv",Hard Knocks
@@ -1625,8 +1623,12 @@ https://hls.airy.tv/stream/24/airy.m3u8
 https://hls.airy.tv/stream/48/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGMovie_Giants" tvg-name="Movie Giants" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/movies/movies1.png" group-title="🟡Airy.tv",Movie Giants
 https://hls.airy.tv/stream/30/airy.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGMovie_Max_4" tvg-name="Movie Max 4" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/movies/movies1.png" group-title="🟡Airy.tv",Movie Max 4
+#EXTINF:-1 tvg-id="airytv_EPGMovie_Max_1" tvg-name="Movie Max 1" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/moviemax.png" group-title="🟡Airy.tv",Movie Max 1
+https://hls.airy.tv/stream/51/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGMovie_Max_3" tvg-name="Movie Max 3" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/moviemax.png" group-title="🟡Airy.tv",Movie Max 3
 https://hls.airy.tv/stream/38/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGMovie_Max_4" tvg-name="Movie Max 4" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/moviemax.png" group-title="🟡Airy.tv",Movie Max 4
+https://hls.airy.tv/stream/55/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGNashville_Country_TV" tvg-name="Nashville Country TV" tvg-logo="https://static.wixstatic.com/media/9746b6_cce8d64036984d2b86706168884f6232~mv2.jpg" group-title="🟡Airy.tv",Nashville Country TV
 https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGNothing_Scripted_TV" tvg-name="Nothing Scripted TV" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/nothingscripted.jpg" group-title="🟡Airy.tv",Nothing Scripted TV
@@ -1657,12 +1659,16 @@ https://30a-tv.com/feeds/airytv/beachshow.m3u8
 https://hls.airy.tv/stream/34/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGThought_Network_TV" tvg-name="Thought Network TV" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/misc/movies/movies1.png" group-title="🟡Airy.tv",Thought Network TV
 https://hls.airy.tv/stream/29/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGTV_Max_1" tvg-name="TV Max 1" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/tvmax.png" group-title="🟡Airy.tv",TV Max 1
+https://hls.airy.tv/stream/35/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGTV_Max_3" tvg-name="TV Max 3" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/tvmax.png" group-title="🟡Airy.tv",TV Max 3
+https://hls.airy.tv/stream/36/airy.m3u8
+#EXTINF:-1 tvg-id="airytv_EPGTV_Max_4" tvg-name="TV Max 4" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/tvmax.png" group-title="🟡Airy.tv",TV Max 4
+https://hls.airy.tv/stream/50/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGTV_Nuts" tvg-name="TV Nuts" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="🟡Airy.tv",TV Nuts
 https://hls.airy.tv/stream/47/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGVeteran_Success_TV" tvg-name="Veteran Success TV" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="🟡Airy.tv",Veteran Success TV
 https://hls.airy.tv/stream/44/airy.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGWarzone" tvg-name="Warzone" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/warzone.png" group-title="🟡Airy.tv",Warzone
-https://hls.airy.tv/stream/35/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGWild_America_TV" tvg-name="Wild America TV" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/wildamerica.jpg" group-title="🟡Airy.tv",Wild America TV
 https://hls.airy.tv/stream/19/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGWinnies_World_TV" tvg-name="Winnies World TV" tvg-logo="https://static.wixstatic.com/media/ae61b4_c8a9593ee99a4b72a0079e696371730c~mv2.png" group-title="🟡Airy.tv",Winnies World TV
