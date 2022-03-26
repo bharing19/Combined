@@ -1617,7 +1617,7 @@ https://hls.airy.tv/stream/31/airy.m3u8
 https://hls.airy.tv/stream/39/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGJSP" tvg-name="JSP" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="🟡Airy.tv",JSP
 https://hls.airy.tv/stream/17/airy.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGKingdom_Purpose_TV" tvg-name="Kingdom Purpose TV" tvg-logo="https://static.wixstatic.com/media/3594b8_62496a8a0ac146a2a9d5b06dd018e44c~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3594b8_62496a8a0ac146a2a9d5b06dd018e44c~mv2.png" group-title="🟡Airy.tv",Kingdom Purpose TV
+#EXTINF:-1 tvg-id="DUMMYKingdomPurposeTV" tvg-name="Kingdom Purpose TV" tvg-logo="https://static.wixstatic.com/media/3594b8_62496a8a0ac146a2a9d5b06dd018e44c~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/3594b8_62496a8a0ac146a2a9d5b06dd018e44c~mv2.png" group-title="🟡Airy.tv",Kingdom Purpose TV
 https://live-mcl.cdn01.net/web/y93dkd4zr/playlist.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGLegend_Films" tvg-name="Legend Films" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/23/Legend_Films_Logo.png" group-title="🟡Airy.tv",Legend Films
 https://hls.airy.tv/stream/24/airy.m3u8
