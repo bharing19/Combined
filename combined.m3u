@@ -1969,7 +1969,7 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1455
 #EXTINF:-1 tvg-id="simultv_PrimeTimeDrama" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2283-960x540-000000.jpg" group-title="🟫VivaLiveTV",PrimeTime Drama
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1421
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2726-960x540-000000.jpg" group-title="🟫VivaLiveTV",FOXD Network
+#EXTINF:-1 tvg-id="simultv_FOXDNetwork" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2726-960x540-000000.jpg" group-title="🟫VivaLiveTV",FOXD Network
 https://edge1.tikilive.com/unrestricted_tikilive/57563/amlst:RgJez0ZDk9l7/playlist.m3u8?ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
 
 #EXTINF:-1 tvg-id="simultv_FrightmareTheater" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2291-960x540-000000.jpg" group-title="🟫VivaLiveTV",Thrillerz
