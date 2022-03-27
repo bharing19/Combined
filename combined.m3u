@@ -2022,7 +2022,7 @@ https://simultv.s.llnwi.net/n4s4/Atari/BP/interlink.m3u8
 #EXTINF:-1 tvg-id="simultv_KartoonCircus" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/3.PNG" group-title="🟨SimulTV World",Kartoon Circus
 https://simultv.s.llnwi.net/n4s4/Atari/KartC/interlink.m3u8
 
-#EXTINF:-1 tvg-id="simultv_MyGen" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633050285816.jpg" 
+#EXTINF:-1 tvg-id="simultv_MyGen" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633050285816.jpg" group-title="🟨SimulTV World",My Gen
 https://simultv.s.llnwi.net/n4s4/Atari/YS/MyGen/interlink_3200.m3u8
 
 #EXTINF:-1 tvg-id="simultv_ESTV" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/5.PNG" group-title="🟨SimulTV World",ESTV
@@ -2031,7 +2031,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=522&avod=1&coppa=0&is_lat=
 #EXTINF:-1 tvg-id="simultv_FunnyBone" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/24.PNG" group-title="🟨SimulTV World",Funny Bone
 https://simultv.s.llnwi.net/n4s4/Atari/FB/interlink.m3u8
 
-#EXTINF:-1 tvg-id="simultv_SmallTownLife" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633061308801.png" 
+#EXTINF:-1 tvg-id="simultv_SmallTownLife" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633061308801.png"group-title="🟨SimulTV World",Small Town Life
 https://simultv.s.llnwi.net/n4s4/Atari/RFTV/interlink.m3u8
 
 #EXTINF:-1 tvg-id="simultv_MozzieTV" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633047031086.jpg" group-title="🟨SimulTV World",Mozzie TV
