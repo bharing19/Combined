@@ -2058,7 +2058,7 @@ https://simultv.s.llnwi.net/n4s4/Atari/Thrill/interlink.m3u8
 #EXTINF:-1 tvg-id="simultv_AthenaTV" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1632981598536.png" group-title="🟨SimulTV World",Athena TV / iSHE TV
 https://simultv.s.llnwi.net/n4s4/Atari/iSTV/interlink.m3u8
 
-#EXTINF:-1 tvg-id="airytv_EPGiHolyfield_TV" tvg-name="iHolyfield TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2279-960x540-000000.jpg" group-title="🟨SimulTV World",iHolyfield TV
+#EXTINF:-1 tvg-id="simultv_Radix" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1632980214668.png" group-title="SimulTV",Radix
 https://simultv.s.llnwi.net/n4s4/Atari/iH/interlink.m3u8
 
 #EXTINF:-1 tvg-id="simultv_CowboyTheater" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1599808786661.png" group-title="🟨SimulTV World",Cowboy Theater
