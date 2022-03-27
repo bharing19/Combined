@@ -2013,3 +2013,65 @@ https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="vivalive_AfoRevo2" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2746-960x540-000000.jpg" group-title="🟫VivaLiveTV",AforEvo 2
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/M116BHMUPCVMAFEWOV2K/hls3/now_-1m_15s/m.m3u8?ads.vast_id=655049&ads.content_page_url=https%253A%252F%252Fwww.vivalivetv.com%252Fwatch%252Flive
+#EXTINF:-1 tvg-id="simultv_KidCentral" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/1.PNG" group-title="🟨SimulTV World",Kid Central
+https://simultv.s.llnwi.net/n4s4/Atari/KC/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_BatteryPop" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/2.PNG" group-title="🟨SimulTV World",Battery Pop
+https://simultv.s.llnwi.net/n4s4/Atari/BP/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_KartoonCircus" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/3.PNG" group-title="🟨SimulTV World",Kartoon Circus
+https://simultv.s.llnwi.net/n4s4/Atari/KartC/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_MyGen" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633050285816.jpg" 
+https://simultv.s.llnwi.net/n4s4/Atari/YS/MyGen/interlink_3200.m3u8
+
+#EXTINF:-1 tvg-id="simultv_ESTV" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/5.PNG" group-title="🟨SimulTV World",ESTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=522&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=bcd7fc5899e231d9268c19af460f9d73&app_bundle=com.estv.ott&app_store_url=https://www.estvplus.co/devices&app_domain=estv.co&app_name=estv&custom_targeting=html5&custom_4=simultv&h=720&w=1280&content_channel=estv&content_dist_name=simultv&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1
+
+#EXTINF:-1 tvg-id="simultv_FunnyBone" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/24.PNG" group-title="🟨SimulTV World",Funny Bone
+https://simultv.s.llnwi.net/n4s4/Atari/FB/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_SmallTownLife" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633061308801.png" 
+https://simultv.s.llnwi.net/n4s4/Atari/RFTV/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_MozzieTV" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1633047031086.jpg" group-title="🟨SimulTV World",Mozzie TV
+https://simultv.s.llnwi.net/n4s4/Atari/CT/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_Spydar" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/41.PNG" group-title="🟨SimulTV World",Spydar
+https://simultv.s.llnwi.net/n4s4/Atari/Spy/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_Mythos" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/16.PNG" group-title="🟨SimulTV World",Mythos
+https://simultv.s.llnwi.net/n4s4/Atari/Myth/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_Dimensions" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/17.PNG" group-title="🟨SimulTV World",Dimensions
+https://simultv.s.llnwi.net/n4s4/Atari/Dime/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_Switch" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/27.PNG" group-title="🟨SimulTV World",Switch
+https://simultv.s.llnwi.net/n4s4/Atari/Swit/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_TheSyndicate" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/36.PNG" group-title="🟨SimulTV World",The Syndicate
+https://simultv.s.llnwi.net/n4s4/Atari/TS/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_FrightmareTheater" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1632982132709.png" group-title="🟨SimulTV World",Frightmare Theater
+https://simultv.s.llnwi.net/n4s4/Atari/Thrill/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_AthenaTV" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1632981598536.png" group-title="🟨SimulTV World",Athena TV / iSHE TV
+https://simultv.s.llnwi.net/n4s4/Atari/iSTV/interlink.m3u8
+
+#EXTINF:-1 tvg-id="airytv_EPGiHolyfield_TV" tvg-name="iHolyfield TV" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2279-960x540-000000.jpg"
+https://simultv.s.llnwi.net/n4s4/Atari/iH/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_CowboyTheater" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1599808786661.png" 
+https://simultv.s.llnwi.net/n4s4/Atari/CowT/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_C3" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/38.PNG" group-title="🟨SimulTV World",C3
+https://simultv.s.llnwi.net/n4s4/Atari/C3/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_SlapTech" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/25.PNG" group-title="🟨SimulTV World",Slap Tech
+https://simultv.s.llnwi.net/n4s4/Atari/ST/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_CutUpNCook" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1616035390067.png" group-title="🟨SimulTV World",Cut Up N Cook
+https://simultv.s.llnwi.net/n4s4/Atari/CUNC/interlink.m3u8
+
+#EXTINF:-1 tvg-id="simultv_XZone" tvg-logo="https://platform.simultv.com:1400/nodeapi/channels/file-1599809026030.png" group-title="🟨SimulTV World",XZone
+https://simultv.s.llnwi.net/n4s4/Atari/XZ/interlink.m3u8
