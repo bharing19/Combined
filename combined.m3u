@@ -76,8 +76,6 @@ https://dai.google.com/linear/hls/event/K8txaErSS0SeRG-_Xr_vhQ/master.m3u8
 https://dai.google.com/linear/hls/event/i98gkOy4R6GGN_j-P3wZvw/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMovie Kingdom" tvg-name="Movie Kingdom" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22731/movie-kingdom/logo_20191212_225355.png" group-title="🔵DistroTV: Movies",Movie Kingdom
 https://dai.google.com/linear/hls/event/UV7iuUDxT9qD9iNioJD4kw/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYMovieTrailersPlus" tvg-name="Movie Trailers" tvg-logo="https://a.jsrdn.com/hls/22895/trailer-channel/logo_20210428_182209_68.png" group-title="🔵DistroTV: Movies",Movie Trailers+
-https://d56df2242ea24505817ed81fff0e7281.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trailer_channel_distrotv/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGThe Film Detective" tvg-name="The Film Detective" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22759/the-film-detective/logo_20191212_230936.png" group-title="🔵DistroTV: Movies",The Film Detective
 https://dai.google.com/linear/hls/event/4AnZ0ohQTfiOq80TxFGb0Q/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYWatchItScream" tvg-name="Watchit Scream!" tvg-logo="https://a.jsrdn.com/hls/22915/watchit-scream/logo_20201029_015604_68.png" group-title="🔵DistroTV: Movies",Watchit Scream!
@@ -93,7 +91,7 @@ https://dai.google.com/linear/hls/event/EtSqIE0FTbGZ4q_TcAMR1g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGOperation Repo" tvg-name="Operation Repo" tvg-logo="https://a.jsrdn.com/hls/22932/operation-repo-1/logo_20210203_192421_68.png" group-title="🔵DistroTV: Reality TV",Operation Repo
 https://dai.google.com/linear/hls/event/xGNfbotAS-udiLwMCteGiA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGZoomer TV" tvg-name="Zoomer TV (US-Geo)" tvg-logo="https://a.jsrdn.com/hls/22923/zoomer/logo_20210330_190607_70.png" group-title="🔵DistroTV: Reality TV",Zoomer TV (US-Geo)
-https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g/d8bmaster.m3u8
+https://dai.google.com/linear/hls/event/9NDKAFrTQY6_sNImg4cv5g//master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocumentary+" tvg-name="Documentary" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/logo_20210316_230446_68.png" group-title="🔵DistroTV: Documentaries",Documentary+
 https://dai.google.com/linear/hls/event/Fw4LxyUeSguJOatToVIt4g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGDocurama" tvg-name="Docurama" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22787/docurama/logo_20191213_195601.png" group-title="🔵DistroTV: Documentaries",Docurama
@@ -267,7 +265,7 @@ https://dai.google.com/linear/hls/event/Zpe90okCQ5Wk7RKuyShE8g/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGEuronews" tvg-name="Euronews" tvg-logo="https://a.jsrdn.com/hls/22886/euronews/logo_20201208_214101_68.png" group-title="🔵DistroTV: News & Opinion",Euronews
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=216.26.210.76&ads.width=840&ads.height=473&ads.deviceId=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=0&ads.aid=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.contentid=22886&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Fdove-channel%2F&ads.rnd=0xd9&ads.content_duration=18000&ads.episode_id=45143&ads.show_id=1244&ads.showtitle=Euronews&ads.episodetitle=Euronews&ads.geo=CA&ads.lat=48.370201&ads.long=-89.281197&ads.app_version=202105131041&ads.deviceMake=Web&ads.env_i=5d3fe24c-8e0a-45ec-b2c1-187d5aea3bfb&ads.env_u=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=0&ads.geoType=2&ads.keywords=euronnews&ads.showCategories=undefined&ads.episodeCategories=
 #EXTINF:-1 tvg-id="dtv_EPGMirror Now" tvg-name="Mirror Now" tvg-logo="https://a.jsrdn.com/hls/22979/mirror-now/logo_20210726_175013_68.png" group-title="🔵DistroTV: News & Opinion",Mirror Now
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/dBNl1weRZj/c.m3u8?ads.name=DistroTV&ads.bundle=&ads.storeurl=&ads.client_ip=172.93.207.220&ads.width=890&ads.height=501&ads.deviceId=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceDNT=0&ads.gdpr=0&ads.appCategory=entertainment&ads.us_privacy=1&ads.aid=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.contentid=22979&ads.contenturl=https%3A%2F%2Fwww.distro.tv%2Flive%2Face-tv%2F&ads.rnd=9wsp&ads.content_duration=18000&ads.episode_id=58240&ads.show_id=1791&ads.showtitle=Mirror%20Now&ads.episodetitle=Mirror%20Now&ads.geo=US&ads.lat=41.887901&ads.long=-88.199501&ads.app_version=202105131041&ads.deviceMake=Web&ads.env_i=91be11fa-f1d6-49a1-895d-08173005c2d4&ads.env_u=af56109e-ef74-4f31-b201-55dcce3b60d1&ads.deviceIdType=cookie&ads.deviceConnectionType=2&ads.dma=602&ads.geoType=2&ads.keywords=mirror%20now&ads.showCategories=undefined&ads.episodeCategories=
+https://dai.google.com/linear/hls/event/qrYFUZKKTbqxmpwjypmGYQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGNewsmax TV" tvg-name="Newsmax" tvg-logo="https://a.jsrdn.com/hls/22819/newsmax-tv/logo_20210609_203037_38.png" group-title="🔵DistroTV: News & Opinion",Newsmax
 https://dai.google.com/linear/hls/event/Yl7vtVj3Qoy0G74M13ffoA/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGNewsy" tvg-name="Newsy" tvg-logo="https://a.jsrdn.com/hls/22850/newsy/logo_20210930_191910_68.png" group-title="🔵DistroTV: News & Opinion",Newsy
@@ -308,8 +306,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereal-distro/pla
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="El Conflicto TV" tvg-logo="https://a.jsrdn.com/hls/22915/el-conflicto-tv/logo_20201029_012436_68.png" group-title="🔵DistroTV: Spanish & International",El Conflicto TV
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGEuronews Español" tvg-name="Euronews Espanol" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20201208_233556_68.png" group-title="🔵DistroTV: Spanish & International",Euronews Espanol
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/ewnsabres_spa.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGFlash" tvg-name="Flash" tvg-logo="https://a.jsrdn.com/hls/23008/flash-1/logo_20211119_205104_68.png" group-title="🔵DistroTV: Spanish & International",Flash
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGGlewed TV Spanish" tvg-name="GlewedTV Spanish" tvg-logo="https://a.jsrdn.com/hls/22864/glewedtv-spanish/logo_20200917_223052_70.png" group-title="🔵DistroTV: Spanish & International",GlewedTV Spanish
@@ -318,8 +314,6 @@ https://dai.google.com/linear/hls/event/9ssgEjm4SM6kdOdByUsmRA/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-horrorfy-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGJuntos" tvg-name="Juntos" tvg-logo="https://a.jsrdn.com/hls/23008/juntos/logo_20211119_205416_68.png" group-title="🔵DistroTV: Spanish & International",Juntos
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-juntos-distro/playlist.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGLatido Music" tvg-name="Latido Music" tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22782/latido-music/logo_20191212_200115.png" group-title="🔵DistroTV: Spanish & International",Latido Music
-https://dai.google.com/linear/hls/event/aPiz7a7gSxmsTO1cZ1DHeQ/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGMooviMex" tvg-name="MooviMex" tvg-logo="https://a.jsrdn.com/hls/22922/moovimex/logo_20201120_235617_26.png" group-title="🔵DistroTV: Spanish & International",MooviMex
 https://dai.google.com/linear/hls/event/lj5QQH_5RX-yR2kwvxaiNg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGPinoy Box Office" tvg-name="Pinoy Box Office" tvg-logo="https://a.jsrdn.com/hls/22913/pinoy-box-office/logo_20210119_204719_70.png" group-title="🔵DistroTV: Spanish & International",Pinoy Box Office
@@ -332,6 +326,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcine-distro/play
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucineus-distro/playlist.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGWappTV" tvg-name="WappTV" tvg-logo="https://a.jsrdn.com/hls/22963/wapptv/logo_20210805_160400_68.png" group-title="🔵DistroTV: Spanish & International",WappTV
 https://dai.google.com/linear/hls/event/5Pqo1pb3QbGsAUyajQFxQQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Euronews Espanol" tvg-logo="https://a.jsrdn.com/hls/22886/euronews-spa/logo_20201208_233556_68.png" group-title="🔵DistroTV: Spanish & International",Euronews Espanol
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/ewnsabres_spa.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGAkaal Channel" tvg-name="Akaal" tvg-logo="https://a.jsrdn.com/hls/22958/akaal-channel/logo_20210608_181512_68.png" group-title="🔵DistroTV: Desi - Indian & South Asian",Akaal
 https://dai.google.com/linear/hls/event/61oV2ruhTtqpPJ3BFpNtWg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGArré" tvg-name="Arre" tvg-logo="https://a.jsrdn.com/hls/22982/arre/logo_20210827_071720_68.png" group-title="🔵DistroTV: Desi - Indian & South Asian",Arre
@@ -356,8 +352,6 @@ https://dai.google.com/linear/hls/event/6A5etnrBSBuB5SaqhUFWBw/master.m3u8
 https://dai.google.com/linear/hls/event/buVDRAFXSy-cIVXRd8XwZg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGSwar Shree" tvg-name="Swar Shree" tvg-logo="https://a.jsrdn.com/hls/22994/swar-shree/logo_20210928_174621_68.png" group-title="🔵DistroTV: Desi - Indian & South Asian",Swar Shree
 https://dai.google.com/linear/hls/event/jyAhWsXeQjKtvXWsYd2vHA/master.m3u8
-#EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="Times Now Navbharat" tvg-logo="https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20210727_192118_68.png" group-title="🔵DistroTV: Desi - Indian & South Asian",Times Now Navbharat
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/WICioQJ2FO/c.m3u8
 
 #EXTINF:-1 tvg-id="localnow_localanchorage" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e69e4ce772d65f31e24d5" group-title="🟢LocalNow: Local",Local Now Anchorage
 https://localnowanchorage-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619e60f4ac16d76928185b5b_localnowanchorage-live/playlist.m3u8
@@ -1456,8 +1450,6 @@ http://n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 http://n1.klowdtv.net/live2/france24sp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGTicker News" tvg-name="Ticker News (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/tickerNews/logo_small.png" group-title="🟠KlowdTV",Ticker News (GEO USA)
 https://tickernews-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KlowdTV_EPGLaw And Crime" tvg-name="Law & Crime Trial Network" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/lawAndCrime/logo_small.png" group-title="🟠KlowdTV",Law & Crime Trial Network
-https://cdn.klowdtv.net/803B48A/nimble_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/nimble_fast_channels/1ae5c302-3537-48d5-95ed-e2a5bc91f949/0.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGWion" tvg-name="WION (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/wion/logo_small.png" group-title="🟠KlowdTV",WION (GEO USA)
 https://wion-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGEuronews" tvg-name="Euronews" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/euroNews/logo_small.png" group-title="🟠KlowdTV",Euronews
@@ -1486,6 +1478,8 @@ https://nosey-intl-klowdtv.amagi.tv/playlist.m3u8
 https://muxip-24hoursmovies-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-muxip-24hoursmovies/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGAction Hollywood" tvg-name="Action Hollywood Movies (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/actionHollywood/logo_small.png" group-title="🟠KlowdTV",Action Hollywood Movies (GEO USA)
 https://actionhollywood-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGMOB TV" tvg-name="MOB TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/mobTV/logo_small.png" group-title="🟠KlowdTV",MOB TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-klowdtv/playlist.m3u8?&ads.ssid=be11f938-c42a-45be-8579-864454fd8c63&ads.us_privacy=1---&ads.ip=89.187.177.148&ads.c_live=1&ads.c_lang=eng&ads.c_producer=KlowdTV&ads.w=1920&ads.h=1020&ads.app=KlowdTV%20-%20MOB%20TV&ads.bundle=com.klowdtv.mobTV.web&ads.channelname=mobtv&ads.page=http%3A%2F%2Fwww.klowdtv.com%2Fmobtv&ads.ic=IAB1-7
 #EXTINF:-1 tvg-id="KlowdTV_EPGPopStar" tvg-name="Popstar (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/popStar/logo_small.png" group-title="🟠KlowdTV",Popstar (GEO USA)
 https://popstar-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGDocuStream" tvg-name="DocuStream" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/docubox/logo_small.png" group-title="🟠KlowdTV",DocuStream
@@ -1494,14 +1488,10 @@ https://docubox-english-klowdtv.amagi.tv/playlist.m3u8
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGLove Nature" tvg-name="LoveNature (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/loveNature/logo_small.png" group-title="🟠KlowdTV",LoveNature (GEO USA)
 https://bamus-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KlowdTV_EPGAXS TV Now" tvg-name="AXStv Now" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/axsTV/logo_small.png" group-title="🟠KlowdTV",AXStv Now
-https://anthem-axstvnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGQVC Live" tvg-name="QVC" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/qvcLive/logo_small.png" group-title="🟠KlowdTV",QVC
 http://n1.klowdtv.net/live2/qvclive_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGFido TV " tvg-name="Fido TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/Fido/logo_small.png" group-title="🟠KlowdTV",Fido TV
 http://n1.klowdtv.net/live3/fido_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="KlowdTV_EPGImpact" tvg-name="Impact!" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/impact/logo_small.png" group-title="🟠KlowdTV",Impact!
-https://anthem-impactwrestling.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGBeIN Sports Xtra" tvg-name="Bein Sports Xtra (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/beinSportXtra/logo_small.png" group-title="🟠KlowdTV",Bein Sports Xtra (GEO USA)
 https://beinxtra-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGBeIN Sports Xtra En Espanol" tvg-name="Bein Sports Xtra en Espanol (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/beinSportsXtraEspanol/logo_small.png" group-title="🟠KlowdTV",Bein Sports Xtra en Espanol (GEO USA)
@@ -1518,8 +1508,6 @@ http://n1.klowdtv.net/live2/fite247_720p/chunks.m3u8
 https://naviofrequency-sightline-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGCampus Lore" tvg-name="Campuslore (GEO-USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/campusLore/logo_small.png" group-title="🟠KlowdTV",Campuslore (GEO-USA)
 https://naviofequency-campusloresports.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KlowdTV_EPGHunt Channel" tvg-name="Hunt Channel (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/huntChannel/logo_small.png" group-title="🟠KlowdTV",Hunt Channel (GEO USA)
-https://cdn.klowdtv.net/803B48A/aws_fast_channels/v1/manifest/d138761b0916ee5f222129c594a33677627df5e3/AWS_Fast_Channels/585bf2e2-b01b-4308-b5a1-1b498030448e/0.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGWire2Fish" tvg-name="Wired2Fish (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/wire2fish/logo_small.png" group-title="🟠KlowdTV",Wired2Fish (GEO USA)
 https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGBilliardTV" tvg-name="Billiard TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/billiardTV/logo_small.png" group-title="🟠KlowdTV",Billiard TV
@@ -1542,8 +1530,6 @@ http://n1.klowdtv.net/live3/nasa_720p/chunks.m3u8
 https://circle-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGNashville Country TV" tvg-name="Nashville Country TV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/nashvilleTV/logo_small.png" group-title="🟠KlowdTV",Nashville Country TV
 https://d2w1tfvqo2ceap.cloudfront.net/hls/hls.m3u8
-#EXTINF:-1 tvg-id="KlowdTV_EPGShopLC" tvg-name="ShopLC" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/shopLC/logo_small.png" group-title="🟠KlowdTV",ShopLC
-https://shoplc-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGFeva TV" tvg-name="Feva TV (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/fevaTV/logo_small.png" group-title="🟠KlowdTV",Feva TV (GEO USA)
 https://feva-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGBusiness Rockstars" tvg-name="Business Rockstars" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/businessRockstars/logo_small.png" group-title="🟠KlowdTV",Business Rockstars
@@ -1570,6 +1556,16 @@ https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
 https://cinedigm-fantawild-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="KlowdTV_EPGHappiTV" tvg-name="HappiTV" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/happitv/logo_small.png" group-title="🟠KlowdTV",HappiTV
 https://globecastna-happi-tv-klowdtv.amagi.tv/hls/amagi_hls_data_klowdtvAA-happi-tv-klowdtv/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGLaw And Crime" tvg-name="Law & Crime Trial Network" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/lawAndCrime/logo_small.png" group-title="🟠KlowdTV",Law & Crime Trial Network
+https://cdn.klowdtv.net/803B48A/pub_us_east_1/playlist.m3u8?SOkGALeRpgAvPXtf1U2Gi8hyHXbJWlYGBI_jjfUc4OALUxIVg0wuwRZvNHMRbsqVS70hlC24uK3djZQq7l4XgpLUnbHYwrdlvVZA&network_id=1074&live=1&avod=1&hls_marker=1&content_cat=IAB11-2&content_channel=Law%20and%20Crime&content_context=1&content_genre=&content_language=en&content_network=Law%20and%20Crime&content_prodqual=1&content_producer=Law%20and%20Crime&us_privacy=1---&consent=&coppa=&device_type=web&gdpr=&position=midroll&ssai_enabled=1&ssai_vendor=publica&ip=89.187.177.148&ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F99.0.4844.82+Safari%2F537.36&player_height=1080&player_width=1920&site_page=http%3A%2F%2Fwww.klowdtv.com%2FlawAndCrime&site_name=KlowdTV&ads.app=KlowdTV%20-%20Law%20And%20Crime&ads.bundle=com.klowdtv.lawAndCrime.web&ads.channelname=lawandcrime&ads.page=http%3A%2F%2Fwww.klowdtv.com%2Flawandcrime&ads.ic=IAB11-2
+#EXTINF:-1 tvg-id="KlowdTV_EPGAXS TV Now" tvg-name="AXStv Now" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/axsTV/logo_small.png" group-title="🟠KlowdTV",AXStv Now
+https://anthem-axstvnow.amagi.tv/amRdirect/ads.ssid=be11f938-c42a-45be-8579-864454fd8c63&ads.us_privacy=1---&ads.ip=89.187.177.148&ads.c_lang=eng&ads.h=1020&ads.c_live=1&ads.ic=IAB1-7&ads.c_producer=KlowdTV&ads.bundle=com.klowdtv.axsTV.web&ads.channelname=axstv&ads.w=1920&ads.app=KlowdTV%20-%20AXS%20TV%20Now&ads.page=http%3A%2F%2Fwww.klowdtv.com%2Faxstv&uid=1fvbh71r8-libk-bd-1hj4-3pw1gwe9ws/hls/amagi_hls_data_klowdtvAA-anthem-axstvnow/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGImpact" tvg-name="Impact!" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/impact/logo_small.png" group-title="🟠KlowdTV",Impact!
+https://anthem-impactwrestling.amagi.tv/amRdirect/ads.ssid=be11f938-c42a-45be-8579-864454fd8c63&ads.us_privacy=1---&ads.ip=89.187.177.148&ads.c_lang=eng&ads.h=1020&ads.c_live=1&ads.ic=IAB1-7&ads.c_producer=KlowdTV&ads.bundle=com.klowdtv.impact.web&ads.channelname=impact&ads.w=1920&ads.app=KlowdTV%20-%20Impact&ads.page=http%3A%2F%2Fwww.klowdtv.com%2Fimpact&uid=1fvbh8era-f3q3-tp8-fzzs-rpld21hmf6k/hls/amagi_hls_data_klowdtvAA-anthem-impactwrestling/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="KlowdTV_EPGHunt Channel" tvg-name="Hunt Channel (GEO USA)" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/huntChannel/logo_small.png" group-title="🟠KlowdTV",Hunt Channel (GEO USA)
+https://www.klowdtv.com/PlaylistServlet.m3u8?station=108&ktv=i2Dw8YzyfqoewD1PSBQuu3XnQC9GGYmJ_qc6_tnzsvW6yxHf9yaie8MOk3RiMEvQ6dmbM3aYz1exlzeaHuCcT_bSvamTC0X9CIKN_ClFLWwafpOoOOr6mfp7CSOeRSzavxW-_8SAW1jq18GoV2fyf5BWeMMh86pEdlNrTjtdFe_r07icTfKTDx5wEFrot0ifl8L0Au935yIXb4i9pjW5
+#EXTINF:-1 tvg-id="KlowdTV_EPGShopLC" tvg-name="ShopLC" tvg-logo="https://s3-us-west-2.amazonaws.com/klowdtvstorage/herring/images/channels/shopLC/logo_small.png" group-title="🟠KlowdTV",ShopLC
+https://shoplc-klowdtv.amagi.tv/amRdirect/ads.ssid=be11f938-c42a-45be-8579-864454fd8c63&ads.us_privacy=1---&ads.ip=89.187.177.148&ads.c_lang=eng&ads.h=1020&ads.c_live=1&ads.ic=IAB22&ads.c_producer=KlowdTV&ads.bundle=com.klowdtv.shopLC.web&ads.channelname=shoplc&ads.w=1920&ads.app=KlowdTV%20-%20ShopLC&ads.page=http%3A%2F%2Fwww.klowdtv.com%2Fshoplc&uid=1fvbhbodj-m82u-c8g-rsln-sd5loxd2sul/hls/amagi_hls_data_klowdtvAA-shoplc-klowdtvA/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="airytv_EPGComfy_TV" tvg-name="Airy Fitness" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="🟡Airy.tv",Airy Fitness
 https://hls.airy.tv/stream/40/airy.m3u8
