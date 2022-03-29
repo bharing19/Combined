@@ -1774,6 +1774,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2010&avod=1&coppa=0&is_lat
 https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
 #EXTINF:-1 tvg-id="sportstribal_AUTOALLSTARS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/e70a6ac2_D0CF72b/posters/5848b0854d38144d22de8a5dadcb49ce/5848b0854d38144d22de8a5dadcb49ce.png" group-title="🟩SportsTribal.tv",Auto Allstars
 https://d33yv8yb2ds4q1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AutoAllstars-SportsTribal/playlist.m3u8
+#EXTINF:-1 tvg-id="sportstribal_MOTORVISION" tvg-logo="
+https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/118ceed2_D0CF72b/posters/6de3ac5c1d1174c6c09aa4dbf12af148/6de3ac5c1d1174c6c09aa4dbf12af148.png
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2020&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=253dae20e8909270262c91df35426b49&app_bundle=com.motorvision.ott&app_store_url=https://www.motorvision.tv/devices&app_domain=motorvision.tv&app_name=motorvision.tv&custom_targeting=html5&custom_4=sportstribal&h=720&w=1280&content_channel=motorvision.tv&content_dist_name=sportstribal&device_make=&device_model=&preferred_language=EN&gender=not_specified&yob=0&livestream=1
 #EXTINF:-1 tvg-id="sportstribal_VOLTY" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/ae048c61_D0CF72b/posters/05d7ef37f07e0173f04c18ee2240ef44/05d7ef37f07e0173f04c18ee2240ef44.png" group-title="🟩SportsTribal.tv",Volty
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1867&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=684aeed8c05cccc77f30497eddf6d3d4&app_bundle=com.volty.live&app_store_url=https://www.volty.tv/devices&app_domain=volty.tv&app_name=volty
 
