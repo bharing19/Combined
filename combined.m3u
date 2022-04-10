@@ -1571,7 +1571,7 @@ https://shoplc-klowdtv.amagi.tv/amRdirect/ads.ssid=be11f938-c42a-45be-8579-86445
 https://hls.airy.tv/stream/40/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGAllied_Esports" tvg-name="Allied Esports" tvg-logo="https://images.squarespace-cdn.com/content/v1/603bfff9fc57820778ee28a6/1614563918101-UT7XGR7QD9GJWCNQGNH9/AE2021_MASTER_HORIZONTAL%3B+WHITE+TEXT.png" group-title="🟡Airy.tv",Allied Esports
 https://d1lvmtqnqngsrn.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/AlliedESports-SportsTribal/213.m3u8
-#EXTINF:-1 tvg-id="airytv_EPGAPTV_Live" tvg-name="APTV Live" tvg-logo="https://i0.wp.com/airy.tv/wp-content/uploads/2020/11/playstore-icon.png" group-title="🟡Airy.tv",APTV Live
+#EXTINF:-1 tvg-id="airytv_EPGAPTV_Live" tvg-name="APTV Live" tvg-logo="https://github.com/DeltaSr95/logos/raw/main/aptvlive.png" group-title="🟡Airy.tv",APTV Live
 https://hls.airy.tv/stream/49/airy.m3u8
 #EXTINF:-1 tvg-id="airytv_EPGAruba_Channel" tvg-name="Aruba TV Plus" tvg-logo="https://aruba.tv/wp-content/uploads/2020/07/cropped-ArubaTV_Logo-Cable-TV_V3.png" group-title="🟡Airy.tv",Aruba TV Plus
 https://hls.airy.tv/stream/22/airy.m3u8
