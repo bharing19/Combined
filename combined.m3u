@@ -2608,6 +2608,7 @@ https://16464fe910f94d65ab9b9255101d7fc7.mediatailor.us-east-1.amazonaws.com/v1/
 https://8f72400044c842498436abd352ba487b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenActionMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_2-comedy-uk-rakuten-tv" tvg-logo="https://images-2.wuaki.tv/system/artworks/125/original/comedy-movies-rakuten-tv-1621612440.png" group-title="⬜Rakuten: Movies",Comedy Movies - Rakuten TV
 https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
+https://3b860eeb37fb4f4fa78a0848dd060893.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenComedyMovies/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_3-drama-uk-rakuten-tv" tvg-logo="https://images-1.wuaki.tv/system/artworks/123/original/drama-movies-rakuten-tv-1621612518.jpeg" group-title="⬜Rakuten: Movies",Drama Movies - Rakuten TV
 https://db44ab650bce44a59112e74420f2af4e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_RakutenTVShows/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_4-rakuten-stories-uk" tvg-logo="https://images-1.wuaki.tv/system/artworks/122/original/rakuten-stories-1626245259.jpeg" group-title="⬜Rakuten: Movies",Rakuten Stories
@@ -2802,8 +2803,6 @@ https://b26093b7415b4630bfe93ab276aa23fb.mediatailor.us-east-1.amazonaws.com/v1/
 https://b20a340953e24055b6a4736ab4605f23.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RadicalDocs/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_730-euronews-live-uk" tvg-logo="https://images-0.wuaki.tv/system/artworks/273/original/euronews-live-1625048119.jpeg" group-title="⬜Rakuten: News",Euronews Live
 https://3b6e2112ee2d490a93b95c9d130c46aa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-gb_EuroNewsLive/playlist.m3u8
-#EXTINF:-1 tvg-id="Rakuten_731-cnni" tvg-logo="https://images-1.wuaki.tv/system/artworks/67/original/cnn-international-1604995794.jpeg" group-title="⬜Rakuten: News",CNN International
-https://a1a8ed5e13cf415eb687cf44e87b0c95.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_CNN/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_732-africanews-en" tvg-logo="https://images-0.wuaki.tv/system/artworks/222/original/africanews-1622018107.jpeg" group-title="⬜Rakuten: News",Africanews
 https://37c774660687468c821a51190046facf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_AfricaNews/playlist.m3u8
 #EXTINF:-1 tvg-id="Rakuten_733-reuters" tvg-logo="https://images-1.wuaki.tv/system/artworks/20/original/reuters-1613633843.jpeg" group-title="⬜Rakuten: News",Reuters
