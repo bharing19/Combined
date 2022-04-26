@@ -4927,3 +4927,7 @@ http://64.91.244.153:1935/roku/roku/playlist.m3u8
 https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711eb99623595db260c33/index.m3u8
 #EXTINF:-1 tvg-id="TVTVUS_KTOO33" tvg-logo="https://media.ktoo.org/2020/10/KTOO-Logo-color-bars.png" group-title="🇺🇸 Webstreams",KTOO 3.3 Juneau AK KTOODT3
 https://api.v3.invintus.com/StreamURI/persis/2147483647/360tv/media.m3u8
+#EXTINF:-1 tvg-id="TVTV_WFMZDT1" tvg-logo="https://cdn.titantv.com/MibqDw00e2c0vXzcVqKJBX3k2CgYEw73d8rLNXXMI7M.png" group-title="🇺🇸 Webstreams",WFMZ 69.1 Allentown PA WFMZDT1
+https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
+#EXTINF:-1 tvg-id="TVTV_WFMZDT2" tvg-logo="https://tvtv.us/pa/allentown/18101/luUSA-OTA18101/stn35859" group-title="🇺🇸 Webstreams",WFMZ Weather 69.2 Allentown PA WFMZDT2
+https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
