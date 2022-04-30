@@ -4959,3 +4959,80 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="D_wpptdt2" tvg-logo="https://tvtv.us/gn/i/assets/s56725_ll_h9_aa.png" group-title="🇺🇸 Webstreams",PBS World 35.2 Philadelphia PA WPPT-DT2
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇨🇦 Locals",CHCO-TV St. Andrews NB
+https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
+#EXTINF:-1 tvg-logo="CityTV_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇨🇦 Locals",CityNews 57.1 Toronto ON
+https://citynewsregional-i.akamaihd.net/hls/live/1024052/Regional_Live_7/master.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Bathurst" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Bathurst NB Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_BathurstFrancais" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Bathurst NB Cable 9 Francais
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_EdmundstonFrancais" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Edmundston NB Cable 10 Francais
+https://5e7c60955a878.streamlock.net/rtv_live/m28_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Fredericton" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Fredericton NB Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Miramichi" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Miramichi NB Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Moncton" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Moncton NB Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m28_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_MonctonFrancais" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Moncton NB Cable 9 Francais
+https://5e7c60955a878.streamlock.net/rtv_live/m21_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_SaintJohn" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Saint John NB Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m28_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_CornerBrook" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Corner Brook NF Cable 9
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Gander" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Gander NF Cable 9
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_GrandFallsWindsor" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Grand Falls-Windsor NF Cable 9
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_StJohns" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV St. John's NF Cable 9
+https://5e7c60955a878.streamlock.net/rtv_live/m37_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Barrie" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Barrie ON Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m32_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_BordenAlliston" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Borden-Alliston ON Cable 65
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Brantford" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Brantford ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Cambridge" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Cambridge ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Collingwood" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Collingwood ON Cable 53
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_DufferinCaledon" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Dufferin-Caledon ON Cable 63
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_DurhamRegion" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Durham Region ON Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Georgina" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Georgina ON Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m26_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_GreyCounty" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Grey County ON Cable 53
+https://5e7c60955a878.streamlock.net/rtv_live/m24_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Guelph" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Guelph ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Kincardine" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Kincardine ON Cable 6
+https://5e7c60955a878.streamlock.net/rtv_live/m19_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Kitchener" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Kitchener ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_London" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV London ON Cable 13
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m20_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Midland" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Midland ON Cable 53
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card2/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Orillia" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Orillia ON Cable 10
+https://5e7c60955a878.streamlock.net/rtv_live/m30_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Ottawa" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Ottawa ON Cable 22
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_OttawaFrancais" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Ottawa ON Cable 23 Francais
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m31_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_StThomas" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV St. Thomas ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Stratford" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Stratford ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_StrathroyCaradoc" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Strathroy-Caradoc ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card3/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Tillsonburg" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Tillsonburg ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_UxbridgeScugog" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Uxbridge-Scugog ON Cable 10
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_WaterlooRegion" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Waterloo Region ON Cable 20
+https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
+#EXTINF:-1 tvg-id="RogersTV_Woodstock" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Woodstock Region ON Cable 13
+https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
