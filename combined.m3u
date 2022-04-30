@@ -1797,11 +1797,15 @@ https://linear-11.frequency.stream/dist/sportstribaltv/11/hls/master/playlist.m3
 #EXTINF:-1 tvg-id="sportstribal_HARD KNOCKS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/1a906a22_D0CF72b/posters/95bffcb90321e163a045a5e3540c9f7a/95bffcb90321e163a045a5e3540c9f7a.png" group-title="🟩SportsTribal.tv",Hard Knocks
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
 
-#EXTINF:-1 tvg-id="sportstribal_MMA-TV" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/e7235819_D0CF72b/posters/e4f567e55ba7fdafde7adf40f7f7cd7c/e4f567e55ba7fdafde7adf40f7f7cd7c.png" group-title="🟩SportsTribal.tv",MMA-TV (GEO UK)
-https://287cc759e7ea47bd87f67326f2c3c295.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MMATV/playlist.m3u8?t=2022-02-14T21%3A00%3A00.000&content_id=e7235819_20220214210000-1_D0CF72b&ads.channel_partner=MMA+TV&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F98.0.4758.82+Safari%2F537.36&ip=94.46.195.152&zoid=sport&ads.user_consent=CPUXf1BPUXf1BAcABBENCCCsAP_AAH_AAChQIltf_X__b3_j-_5_f_t0eY1P9_7_v-0zjhfdt-8N3f_X_L8X42M7vF36pq4KuR4Eu3LBIQdlHOHcTUmw6okVrzPsbk2cr7NKJ7PEmnMbO2dYGH9_n93TuZKY7______z_v-v_v____f_7-3_3__5_3---_e_V_99zLv9____39nP___9v-_9_____4IhgEmGpeQBdmWODJtGlUKIEYVhIdAKACigGFoisIHVwU7K4CfUELABCagJwIgQYgowYBAAIJAEhEQEgB4IBEARAIAAQAqQEIACNgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQFSLRQT2ViCUHexphCGWeBFAo_oqEBGs0QLAyEhYOY4AkBLxZIHmKF8gAAAAA.f_gAD_gAAAAA&mute=false&ads.channel_name=MMA+TV&gdpr=1
-
 #EXTINF:-1 tvg-id="sportstribal_SPORTSGRID" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/208db9b3_D0CF72b/posters/52f3173a4c888ce3544472913e6b18a2/52f3173a4c888ce3544472913e6b18a2.png" group-title="🟩SportsTribal.tv",SportsGrid
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sportstribal_GRAPPLINGNETWORK" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/4f4ac772_D0CF72b/posters/3d66f20e0a0cf64128d81f4f5b35c0a4/3d66f20e0a0cf64128d81f4f5b35c0a4.png" group-title="🟩SportsTribal.tv",Grappling Network
+https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
+#EXTINF:-1 tvg-id="sportstribal_ORIGINSPORTS" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/3eb37992_D0CF72b/posters/46a5cf72f3d60e1503db7460aa7f7efe/46a5cf72f3d60e1503db7460aa7f7efe.png" group-title="🟩SportsTribal.tv",Origin Sports
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-raycomsports-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="sportstribal_STRONGMANCHAMPIONSLEAGUE" tvg-logo="https://redbee.ctl.cdn.ebsd.ericsson.net/imagescaler002/sportstribal/prod/assets/20b970c1_D0CF72b/posters/c3daaca8a93d087bb3d12921d9e2f9fa/c3daaca8a93d087bb3d12921d9e2f9fa.png" group-title="🟩SportsTribal.tv",Strongman Champions League
+https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
 #EXTINF:-1 tvg-id="jungoplus_blackbelt" tvg-logo="https://img1.static-ottera.com/prod/jun/linear_channel/thumbnails/widescreen/366x206/black_belt_tv_1920x1080.jpg" group-title="🟦Jungo+",Black Belt
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=749&avod=1&coppa=0&is_lat=0&us_privacy=1YN-&did=00000000-0000-0000-0000-000000000000
 
