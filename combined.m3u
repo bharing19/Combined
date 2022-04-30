@@ -4939,5 +4939,5 @@ https://api.v3.invintus.com/StreamURI/persis/2147483647/360tv/media.m3u8
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
 #EXTINF:-1 tvg-id="TVTV_WFMZDT2" tvg-logo="https://tvtv.us/gn/i/assets/s35859_ll_h8_aa.png?w=180&h=135" group-title="🇺🇸 Webstreams",WFMZ Weather 69.2 Allentown PA WFMZDT2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
-#EXTINF:-1 tvg-id="D_lmgtv244" tvg-logo="https://static.wixstatic.com/media/914a33_4b27c2866034466597a3fdeff323b553~mv2.png" group-title="USA 🇺🇲",LMG-TV Victor Valley CA K24LS-D4
+#EXTINF:-1 tvg-id="D_lmgtv244" tvg-logo="https://static.wixstatic.com/media/914a33_4b27c2866034466597a3fdeff323b553~mv2.png" group-title="🇺🇸 Webstreams",LMG-TV Victor Valley CA K24LS-D4
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
