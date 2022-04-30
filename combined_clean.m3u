@@ -4932,32 +4932,32 @@ https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 #EXTINF:-1 tvg-id="as_dreamcorpllc" tvg-logo="https://i.cdn.turner.com/adultswim/big/img/2019/03/26/Image_dreamcorpllc2.jpg" group-title="[adult swim]",Dream Corp LLC
 https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 tvg-id="TVTVUS_KOOL211" tvg-logo="https://www.kooltv-mn.com/images/KOOL-TV_Logo-small.png" group-title="US Webstreams",KOOL-TV 21.1 Alexandria MN K21GND
+#EXTINF:-1 tvg-id="TVTVUS_KOOL211" tvg-logo="https://www.kooltv-mn.com/images/KOOL-TV_Logo-small.png" group-title="US Locals",KOOL-TV 21.1 Alexandria MN K21GND
 http://64.91.244.153:1935/roku/roku/playlist.m3u8
-#EXTINF:-1 tvg-id="TVTVUS_VPOD593" tvg-logo="https://vpodtv.com/wp-content/uploads/2020/10/vpod-icon-75.png" group-title="US Webstreams",VPOD-TV 59.3 Chicago IL WCHULD3
+#EXTINF:-1 tvg-id="TVTVUS_VPOD593" tvg-logo="https://vpodtv.com/wp-content/uploads/2020/10/vpod-icon-75.png" group-title="US Locals",VPOD-TV 59.3 Chicago IL WCHULD3
 https://81988.global.ssl.fastly.net/6054f2db9a679c037cbbb2b2/live_7749cbc088e711eb99623595db260c33/index.m3u8
-#EXTINF:-1 tvg-id="TVTVUS_KTOO33" tvg-logo="https://media.ktoo.org/2020/10/KTOO-Logo-color-bars.png" group-title="US Webstreams",KTOO 3.3 Juneau AK KTOODT3
+#EXTINF:-1 tvg-id="TVTVUS_KTOO33" tvg-logo="https://media.ktoo.org/2020/10/KTOO-Logo-color-bars.png" group-title="US Locals",KTOO 3.3 Juneau AK KTOODT3
 https://api.v3.invintus.com/StreamURI/persis/2147483647/360tv/media.m3u8
-#EXTINF:-1 tvg-id="TVTV_WFMZDT1" tvg-logo="https://cdn.titantv.com/MibqDw00e2c0vXzcVqKJBX3k2CgYEw73d8rLNXXMI7M.png" group-title="US Webstreams",WFMZ 69.1 Allentown PA WFMZDT1
+#EXTINF:-1 tvg-id="TVTV_WFMZDT1" tvg-logo="https://cdn.titantv.com/MibqDw00e2c0vXzcVqKJBX3k2CgYEw73d8rLNXXMI7M.png" group-title="US Locals",WFMZ 69.1 Allentown PA WFMZDT1
 https://cdn.jaybirdtv.com/wfmz/channel/1/master.m3u8
-#EXTINF:-1 tvg-id="TVTV_WFMZDT2" tvg-logo="https://tvtv.us/gn/i/assets/s35859_ll_h8_aa.png?w=180&h=135" group-title="US Webstreams",WFMZ Weather 69.2 Allentown PA WFMZDT2
+#EXTINF:-1 tvg-id="TVTV_WFMZDT2" tvg-logo="https://tvtv.us/gn/i/assets/s35859_ll_h8_aa.png?w=180&h=135" group-title="US Locals",WFMZ Weather 69.2 Allentown PA WFMZDT2
 https://cdn.jaybirdtv.com/wfmz/channel/2/master.m3u8
-#EXTINF:-1 tvg-id="D_lmgtv244" tvg-logo="https://static.wixstatic.com/media/914a33_4b27c2866034466597a3fdeff323b553~mv2.png" group-title="US Webstreams",LMG-TV 24.4 Victor Valley CA K24LS-D4
+#EXTINF:-1 tvg-id="D_lmgtv244" tvg-logo="https://static.wixstatic.com/media/914a33_4b27c2866034466597a3fdeff323b553~mv2.png" group-title="US Locals",LMG-TV 24.4 Victor Valley CA K24LS-D4
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="D_w14dkd1" tvg-logo="https://i0.wp.com/tvdelmarva.com/wp-content/uploads/2021/11/cropped-cropped-cropped-cropped-cropped-TVDelmarva-TV-Button-1.png" group-title="US Webstreams",TV Delmarva 14.1 Seaford DE W14DK-D1
+#EXTINF:-1 tvg-id="D_w14dkd1" tvg-logo="https://i0.wp.com/tvdelmarva.com/wp-content/uploads/2021/11/cropped-cropped-cropped-cropped-cropped-TVDelmarva-TV-Button-1.png" group-title="US Locals",TV Delmarva 14.1 Seaford DE W14DK-D1
 https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/playlist.m3u8
-#EXTINF:-1 tvg-id="D_w14dkd2" tvg-logo="https://cdn.titantv.com/xqfSNVwO9Ri7L1I1Rg54ZccoIDZ6hESK0sYTncfg-yY.png" group-title="US Webstreams",Newsnet 14.2 Seaford DE W14DK-LD2
+#EXTINF:-1 tvg-id="D_w14dkd2" tvg-logo="https://cdn.titantv.com/xqfSNVwO9Ri7L1I1Rg54ZccoIDZ6hESK0sYTncfg-yY.png" group-title="US Locals",Newsnet 14.2 Seaford DE W14DK-LD2
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
-#EXTINF:-1 tvg-id="D_w14dkd3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="US Webstreams",RetroTV 14.3 Seaford DE W14DK-D3
+#EXTINF:-1 tvg-id="D_w14dkd3" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/retro_tv.png" group-title="US Locals",RetroTV 14.3 Seaford DE W14DK-D3
 https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="D_w14dk4" tvg-logo="https://cdn.titantv.com/xqfSNVwO9RiAIWLQefMDtNvBxuLMvKhwFbMfNyfpCyE.png" group-title="US Webstreams",TV Delmarva Weather 14.4 Seaford DE W14DK-D4
+#EXTINF:-1 tvg-id="D_w14dk4" tvg-logo="https://cdn.titantv.com/xqfSNVwO9RiAIWLQefMDtNvBxuLMvKhwFbMfNyfpCyE.png" group-title="US Locals",TV Delmarva Weather 14.4 Seaford DE W14DK-D4
 https://2-fss-2.streamhoster.com/pl_118/204972-1954030-1/chunklist.m3u8
-#EXTINF:-1 tvg-id="D_wlvtdt" tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/e5fd2adf69_PBS39-2019-Blue.png" group-title="US Webstreams",PBS 39.1 Philadelphia PA WLVT-DT
+#EXTINF:-1 tvg-id="D_wlvtdt" tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/e5fd2adf69_PBS39-2019-Blue.png" group-title="US Locals",PBS 39.1 Philadelphia PA WLVT-DT
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="D_wpptdt" tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/5922bd4533_PBS39-EXTRA-LOGO.png" group-title="US Webstreams",PBS Extra 35.1 Philadelphia PA WPPT-DT
+#EXTINF:-1 tvg-id="D_wpptdt" tvg-logo="https://image.pbs.org/bento3-prod/wlvt2-pbs/5922bd4533_PBS39-EXTRA-LOGO.png" group-title="US Locals",PBS Extra 35.1 Philadelphia PA WPPT-DT
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="D_wpptdt2" tvg-logo="https://tvtv.us/gn/i/assets/s56725_ll_h9_aa.png" group-title="US Webstreams",PBS World 35.2 Philadelphia PA WPPT-DT2
+#EXTINF:-1 tvg-id="D_wpptdt2" tvg-logo="https://tvtv.us/gn/i/assets/s56725_ll_h9_aa.png" group-title="US Locals",PBS World 35.2 Philadelphia PA WPPT-DT2
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV St. Andrews NB
