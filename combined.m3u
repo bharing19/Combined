@@ -4960,10 +4960,10 @@ https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlis
 #EXTINF:-1 tvg-id="D_wpptdt2" tvg-logo="https://tvtv.us/gn/i/assets/s56725_ll_h9_aa.png" group-title="🇺🇸 Locals",PBS World 35.2 Philadelphia PA WPPT-DT2
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LocalProgramming" tvg-logo="https://www.bedfordnh.org/ImageRepository/Document?documentID=2064" group-title="🇺🇸 Locals",BCTV 16 Bedford NH
+#EXTINF:-1 tvg-id="BCTV_Ind" tvg-logo="https://www.bedfordnh.org/ImageRepository/Document?documentID=2064" group-title="🇺🇸 Locals",BCTV 16 Bedford NH
 https://reflect-vod-bedfordtv.cablecast.tv/live-10/live/CELL-296k-234p/CELL-296k-234p.m3u8
 
-#EXTINF:-1 tvg-id="LocalProgramming" tvg-logo="https://www.pittsfieldtv.org/wp-content/uploads/2020/03/PCTVSelect-Logo-300x300.png" group-title="🇺🇸 Locals",PCTV Select Pittsfield
+#EXTINF:-1 tvg-id="PCTVSelect_Ind" tvg-logo="https://www.pittsfieldtv.org/wp-content/uploads/2020/03/PCTVSelect-Logo-300x300.png" group-title="🇺🇸 Locals",PCTV Select Pittsfield
 https://watch.pittsfieldtv.net/live-26/live/live.m3u8
 
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇨🇦 Locals",CHCO-TV St. Andrews NB
