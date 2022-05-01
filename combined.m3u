@@ -4968,7 +4968,7 @@ https://watch.pittsfieldtv.net/live-26/live/live.m3u8
 
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇨🇦 Locals",CHCO-TV St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:-1 tvg-logo="CityTV_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇨🇦 Locals",CityNews 57.1 Toronto ON
+#EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇨🇦 Locals",CityNews Toronto ON
 https://citynewsregional-i.akamaihd.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="RogersTV_Bathurst" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Bathurst NB Cable 10
 https://5e7c60955a878.streamlock.net/rtv_live/m21_card1/playlist.m3u8
