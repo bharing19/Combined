@@ -4982,10 +4982,12 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 https://reflect-vod-bedfordtv.cablecast.tv/live-10/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 tvg-id="PCTVSelect_Ind" tvg-logo="https://www.pittsfieldtv.org/wp-content/uploads/2020/03/PCTVSelect-Logo-300x300.png" group-title="🇺🇸 Locals",PCTV Select Pittsfield
 https://watch.pittsfieldtv.net/live-26/live/live.m3u8
-
-#EXTINF:-1 tvg-id="WSTO_Ind1" tvg-logo="https://images.squarespace-cdn.com/content/v1/54fdd8f9e4b094b01781f559/9ceb0667-beb7-4dff-bdac-b82793db6c3e/WSTO+Purple+-+WOL.png?format=1500w" group-title="🇺🇸 Locals",WSTO-TV Stoughton WI Spectrum 981
+#EXTINF:-1 tvg-id="WSTO_Ind" tvg-logo="https://images.squarespace-cdn.com/content/v1/54fdd8f9e4b094b01781f559/9ceb0667-beb7-4dff-bdac-b82793db6c3e/WSTO+Purple+-+WOL.png?format=1500w" group-title="🇺🇸 Locals",WSTO-TV Stoughton WI Spectrum 981
 https://5d80890572342.streamlock.net:1936/live/wstoLive/playlist.m3u8
-
+#EXTINF:-1 tvg-id="BNNCommunityTV_Ind" tvg-logo="https://bnnmedia.org/sites/default/files/ctv-sched.jpg" group-title="🇺🇸 Locals",BNN CommunityTV Boston MA
+https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="BNNNewsInfo_Ind" tvg-logo="https://bnnmedia.org/sites/default/files/news-info-sched.jpg" group-title="🇺🇸 Locals",BNN News and Info Boston MA XF
+https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇨🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇨🇦 Locals",CityNews Toronto ON
