@@ -5004,7 +5004,8 @@ https://yorkcity.akamaized.net/5c630bc860a1fa54b4556101/live_dd6fd410687411eab22
 
 #EXTINF:-1 tvg-id="WRCT_EduGov" tvg-logo="http://wrct.duckdns.org:3002/WRCT.png" group-title="US Locals",WRCT Edu Gov York PA
 https://yorkcity.akamaized.net/5c630bc860a1fa54b4556101/live_d26fac906d4011ea8c7bc3b9bd45e6b2/playlist.m3u8
-
+#EXTINF:-1 tvg-id="PHX" tvg-logo="https://www.phoenix.gov/Style%20Library/CityOfPhx/images/logo-phxtv.png" group-title="US Locals",PHX TV Phoenix AZ
+https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/playlist.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇦 Locals",CityNews Toronto ON
