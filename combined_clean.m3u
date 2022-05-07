@@ -4954,7 +4954,7 @@ https://cloudietvus.broadcastcdn.net/AFRICAXP-AFROWOODSERIES/index.m3u8
 https://origin2.afxp.telemedia.co.za/abr_kapang/trigger/playlist.m3u8
 #EXTINF:-1 tvg-id="Kapang_Diva" tvg-logo="https://img.kapang.com/images/channel-logo/61699acf4a23360001719c33.PNG" group-title="Kapang: Selected",Diva 
 https://cloudietvus.broadcastcdn.net/AFRICAXP-DIVA/index.m3u8
-#EXTINF:-1 tvg-id="Kapang_WBCLive" tvg-logo="https://img.kapang.com/images/channel-logo/61dd4be3a43f0c0001562618.PNG" group-title="Kapang: Selected",WBC Live (Geo-US)
+#EXTINF:-1 tvg-id="Kapang_WBCLive" tvg-logo="https://img.kapang.com/images/channel-logo/61dd4be3a43f0c0001562618.PNG" group-title="Kapang: Selected",WBC Live
 https://cloudietvus.broadcastcdn.net/CLOUDIETV-WBCLIVE/index.m3u8
 #EXTINF:-1 tvg-id="Kapang_TheBoatShow" tvg-logo="https://img.kapang.com/images/channel-logo/618a3ab24a2336000172bd71.PNG" group-title="Kapang: Selected",The Boat Show
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2461&live=1&avod=1&site_page=kapang.com/tv/&site_name=kapang.com
@@ -4994,8 +4994,17 @@ https://watch.pittsfieldtv.net/live-26/live/live.m3u8
 https://5d80890572342.streamlock.net:1936/live/wstoLive/playlist.m3u8
 #EXTINF:-1 tvg-id="BNNCommunityTV_Ind" tvg-logo="https://bnnmedia.org/sites/default/files/ctv-sched.jpg" group-title="US Locals",BNN CommunityTV Boston MA
 https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
-#EXTINF:-1 tvg-id="BNNNewsInfo_Ind" tvg-logo="https://bnnmedia.org/sites/default/files/news-info-sched.jpg" group-title="US Locals",BNN News and Info Boston MA XF
+#EXTINF:-1 tvg-id="BNNNewsInfo_Ind" tvg-logo="https://bnnmedia.org/sites/default/files/news-info-sched.jpg" group-title="US Locals",BNN News and Info Boston MA 
 https://reflect-cablecast-bnn.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="AuroraTV_CC" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-auroratv-1403-300x225.jpg" group-title="US Locals",AuroraTV Aurora, CO 
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="WRCT_PublicAccess" tvg-logo="http://wrct.duckdns.org:3002/WRCT.png" group-title="US Locals",WRCT Public Access York PA
+https://yorkcity.akamaized.net/5c630bc860a1fa54b4556101/live_dd6fd410687411eab22c61925cd4a65a/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WRCT_EduGov" tvg-logo="http://wrct.duckdns.org:3002/WRCT.png" group-title="US Locals",WRCT Edu Gov York PA
+https://yorkcity.akamaized.net/5c630bc860a1fa54b4556101/live_d26fac906d4011ea8c7bc3b9bd45e6b2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇦 Locals",CityNews Toronto ON
