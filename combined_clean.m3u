@@ -5010,9 +5010,9 @@ https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/playlist.m3u8
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/franklin/live/ch1/video.m3u8
 #EXTINF:-1 tvg-id="Castus_FranklinPrideTV" tvg-logo="https://castus-vod-dev.s3.amazonaws.com/live/thumbs/61d5c56c98c2200008a35d58/thumb.jpg" group-title="US Locals",FranklinTV Pride TV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/franklin/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="CC_LowerCapePublic" tvg-logo="https://reflect-lowercape.cablecast.tv/Cablecast/WebFiles/8641/LCCAT_LOGOwithGlow.png" group-title="US Locals",Lower Cape TV Public Access Ch99
+#EXTINF:-1 tvg-id="CC_LowerCapePublic" tvg-logo="https://reflect-lowercape.cablecast.tv/Cablecast/WebFiles/8641/LCCAT_LOGOwithGlow.png" group-title="US Locals",Lower Cape TV Public Access Ch99 Orleans MA
 https://cablecast.lowercapetv.org/live-10/live/live.m3u8
-#EXTINF:-1 tvg-id="CC_LowerCapeEdu" tvg-logo="https://reflect-lowercape.cablecast.tv/Cablecast/WebFiles/8641/LCCAT_LOGOwithGlow.png" group-title="US Locals",Lower Cape TV Educational Ch22
+#EXTINF:-1 tvg-id="CC_LowerCapeEdu" tvg-logo="https://reflect-lowercape.cablecast.tv/Cablecast/WebFiles/8641/LCCAT_LOGOwithGlow.png" group-title="US Locals",Lower Cape TV Educational Ch22 Orleans MA
 https://cablecast.lowercapetv.org/live-11/live/live.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
