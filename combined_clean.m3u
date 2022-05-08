@@ -5006,6 +5006,10 @@ https://yorkcity.akamaized.net/5c630bc860a1fa54b4556101/live_dd6fd410687411eab22
 https://yorkcity.akamaized.net/5c630bc860a1fa54b4556101/live_d26fac906d4011ea8c7bc3b9bd45e6b2/playlist.m3u8
 #EXTINF:-1 tvg-id="PHX" tvg-logo="https://www.phoenix.gov/Style%20Library/CityOfPhx/images/logo-phxtv.png" group-title="US Locals",PHX TV Phoenix AZ
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/playlist.m3u8
+#EXTINF:-1 tvg-id="Castus_FranklinAllAccess" tvg-logo="https://castus-vod-dev.s3.amazonaws.com/live/thumbs/61d5c54e17292700083e39c1/thumb.jpg" group-title="US Locals",FranklinTV All Access
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/franklin/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="Castus_FranklinPrideTV" tvg-logo="https://castus-vod-dev.s3.amazonaws.com/live/thumbs/61d5c56c98c2200008a35d58/thumb.jpg" group-title="US Locals",FranklinTV Pride TV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/franklin/live/ch2/video.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇦 Locals",CityNews Toronto ON
