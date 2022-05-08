@@ -5084,4 +5084,5 @@ https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
 https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
 #EXTINF:-1 tvg-id="ParanormalTV" tvg-logo="https://images.squarespace-cdn.com/content/v1/61cc70892e2bca2f4e1b9b5c/3b586b20-1413-4f7b-bc9d-b02350e03f1a/Paranormal-TV-Nav-Bar-Logo.png" group-title="🇺🇸 Webstreams",Paranormal TV
 https://2-fss-2.streamhoster.com/pl_138/205518-2101216-1/playlist.m3u8
-
+#EXTINF:-1 tvg-id="PodTV_ProWrestlingLive" tvg-logo="https://prowrestlingtv.live/wp-content/uploads/2022/03/PWTV-Logo-3-1024x715.png" group-title="🇺🇸 Webstreams",Pro Wrestling TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
