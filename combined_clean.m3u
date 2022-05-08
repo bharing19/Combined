@@ -5086,5 +5086,5 @@ https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/205518-2101216-1/playlist.m3u8
 #EXTINF:-1 tvg-id="PodTV_ProWrestlingLive" tvg-logo="https://prowrestlingtv.live/wp-content/uploads/2022/03/PWTV-Logo-3-1024x715.png" group-title="US Webstreams",Pro Wrestling TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
-#EXTINF:-1 tvg-id=""IMDB_Buzzr" tvg-logo="https://buzzrtv.com/files/uploads/Buzzr_Bolts_Orange.jpg" group-title="US Webstreams",BUZZR
+#EXTINF:-1 tvg-id=""IMDB_Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/263px-Buzzr_logo.svg.png" group-title="US Webstreams",BUZZR (Geo-US)
 https://buzzrota-web.amagi.tv/playlist.m3u8
