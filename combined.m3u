@@ -5020,6 +5020,10 @@ https://cablecast.lowercapetv.org/live-11/live/live.m3u8
 http://tstv-stream.tsm.utexas.edu/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="CC_NVCC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Northern_Virginia_Community_College_logo.svg/480px-Northern_Virginia_Community_College_logo.svg.png" group-title="🇺🇸 Locals",Northern Virginia Community College NVCC-TV Annandale VA
 https://cs.ebmcdn.net/eastbay-live-hs-1/nvcc/mp4:nvcc/playlist.m3u8
+#EXTINF:-1 tvg-id="CC_NBTV95" tvg-logo="http://173.9.65.75/Cablecast/WebFiles/5169/PublicBug.png" group-title="🇺🇸 Locals",NBTV95 New Bedford Public Access
+http://173.9.65.76:8082/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_NBTV9" tvg-logo="http://173.9.65.75/Cablecast/WebFiles/5177/EdBug.png" group-title="🇺🇸 Locals",NBTV9 New Bedford Edu Access
+http://173.9.65.74:8081/live/live.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇨🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇨🇦 Locals",CityNews Toronto ON
