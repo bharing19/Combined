@@ -5036,7 +5036,7 @@ https://cdn.igocast.com/channel5_hls/channel5_master.m3u8
 https://cdn.igocast.com/channel7_hls/channel7_master.m3u8
 #EXTINF:-1 tvg-id="TV25_TheGrio" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/97504/s101752_h3_aa.png" group-title="US Locals - TV25",The Grio 25.8
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 tvg-id="TV25_RetroTV" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/retro-tv-us.png" group-title="US Locals - TV25",RetroTV 25.9
+#EXTINF:-1 tvg-id="TV25_Heartland" tvg-logo="https://github.com/Tapiosinn/tv-logos/raw/master/countries/united-states/heartland-us.png" group-title="US Locals - TV25",Heartland 25.9
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:-1 tvg-id="TV25_ShopLC" tvg-logo="https://i.imgur.com/UJXfOZM.png" group-title="US Locals - TV25",ShopLC 25.10
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
