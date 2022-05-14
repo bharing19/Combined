@@ -5026,6 +5026,22 @@ http://173.9.65.76:8082/live/live.m3u8
 http://173.9.65.74:8081/live/live.m3u8
 #EXTINF:-1 tvg-id="D_wdpndt8" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/upload/c_pad,h_135,q_75,w_300/v1/clients/poconos-redesign/ptn_logo_6a58ca11-bb2e-47c3-99a1-291780a960d5.png" group-title="US Locals",PTN Pocono PA WDPN-DT8 2.8
 https://wms-prod-2.wetmet.net/live/115-00-08/playlist.m3u8
+#EXTINF:-1 tvg-id="CC_WestboroughPub" tvg-logo="http://live.westboroughtv.org/Cablecast/WebFiles/8377/Westborough%20TV%20BUG2016.png" group-title="US Locals",Westborough TV Public Ch11
+http://live.westboroughtv.org/live-12/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_WestboroughEdu" tvg-logo="http://live.westboroughtv.org/Cablecast/WebFiles/8377/Westborough%20TV%20BUG2016.png" group-title="US Locals",Westborough Education Ch13
+http://live.westboroughtv.org/live-11/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_TigerTV" tvg-logo="https://reflect-smsu.cablecast.tv/Cablecast/WebFiles/94489/Tiger%20TV%20Cablecast%20Banner.png" group-title="US Locals",Tiger TV Marshall Edu
+https://reflect-smsu.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_SMSUMedia" tvg-logo="https://reflect-smsu.cablecast.tv/Cablecast/WebFiles/5549/smsuheader.png" group-title="US Locals",SMSU Media 
+https://reflect-smsu.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_DCTVPublic" tvg-logo="https://reflect-dctv-18.cablecast.tv/Cablecast/WebFiles/26017/Cablecast_LogoMark%20&%20Organization%20Name%20-%20Long.png" group-title="US Locals",DCTV Dartmouth Public Ch95
+https://reflect-dctv-18.cablecast.tv/live-9/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_DCTVEdu" tvg-logo="https://reflect-dctv-18.cablecast.tv/Cablecast/WebFiles/26009/Cablecast_LogoMark%20&%20Organization%20Name%20-%20Long.png" group-title="US Locals",DCTV Dartmouth Edu Ch9
+https://reflect-dctv-18.cablecast.tv/live-12/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_AccessSacrementoPublic" tvg-logo="https://reflect-access-sacramento.cablecast.tv/Cablecast/WebFiles/23552/Access%20Sacramento%20Signature%20Logo%20022015.png" group-title="US Locals",Access Sacremento Ch17
+https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="CC_AccessSacrementoOpen" tvg-logo="https://reflect-access-sacramento.cablecast.tv/Cablecast/WebFiles/23552/Access%20Sacramento%20Signature%20Logo%20022015.png" group-title="US Locals",Access Sacremento Open Ch18
+https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 #EXTINF:-1 tvg-id="TV25_Ace" tvg-logo="https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White-100x70.png" group-title="US Locals - TV25",ACE 25.3
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
 #EXTINF:-1 tvg-id="TV25_TheActionChannel" tvg-logo="https://tvtv.us/gn/i/assets/s100340_ll_h9_aa.png" group-title="US Locals - TV25",The Action Channel 25.4
