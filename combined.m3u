@@ -4997,6 +4997,10 @@ https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="EPlus6" tvg-logo="https://www.eplusbroadband.com/images/uploads/broadband_content_images/E+TV6.2-C_.png" group-title="🇺🇸 Locals",E+TV6 Jackson TN Cable 6
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://static.wixstatic.com/media/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png/v1/fill/w_515,h_243,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png" group-title="🇺🇸 Locals",KVVB-TV 33.1 Victorville CA
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
+#EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://static.wixstatic.com/media/132edf_a070b2a7668c4d4d805b8f206cbf3bad~mv2.png/v1/fill/w_123,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/news%20net.png" group-title="🇺🇸 Locals",NewsNet KVVB-DT3 33.3 Victorville CA
+https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNet_wybnld8" tvg-logo="https://newsnetnational.images.worldnow.com/images/22525881_G.png" group-title="🇺🇸 Locals",NewsNet National
 https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="CC_BCTV" tvg-logo="https://www.bedfordnh.org/ImageRepository/Document?documentID=2064" group-title="🇺🇸 Locals",BCTV 16 Bedford NH
