@@ -5072,29 +5072,29 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
-#EXTINF:-1 tvg-id="CBC_Calgary" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Calgary
+#EXTINF:-1 tvg-id="CBC_Calgary" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Calgary AB
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC Charlottetown" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Charlottetown
+#EXTINF:-1 tvg-id="CBC Charlottetown" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Charlottetown PE
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Edmonton" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Edmonton
+#EXTINF:-1 tvg-id="CBC_Edmonton" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Edmonton AB
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Fredericton" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Fredericton
+#EXTINF:-1 tvg-id="CBC_Fredericton" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Fredericton NB
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Halifax" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Halifax
+#EXTINF:-1 tvg-id="CBC_Halifax" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Halifax NB
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Montreal" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Montreal
+#EXTINF:-1 tvg-id="CBC_Montreal" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Montreal QC
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Regina" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Regina
+#EXTINF:-1 tvg-id="CBC_Regina" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Regina SK
 https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_StJohns" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC St Johns
+#EXTINF:-1 tvg-id="CBC_StJohns" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC St Johns NL
 https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Toronto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Toronto
+#EXTINF:-1 tvg-id="CBC_Toronto" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Toronto ON
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Vancouver" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Vancouver
+#EXTINF:-1 tvg-id="CBC_Vancouver" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Vancouver BC
 https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Winnipeg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Winnipeg
+#EXTINF:-1 tvg-id="CBC_Winnipeg" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Winnipeg MB
 https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Yellowknife" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Yellowknife
+#EXTINF:-1 tvg-id="CBC_Yellowknife" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Yellowknife NT
 https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
 #EXTINF:-1 tvg-id="CityNews_Toronto" tvg-logo="https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2021/10/17/Avatar_600x600_square_FA.png" group-title="🇦 Locals",CityNews Toronto ON
 https://citynewsregional-i.akamaihd.net/hls/live/1024052/Regional_Live_7/master.m3u8
