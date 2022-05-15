@@ -5080,7 +5080,7 @@ https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 #EXTINF:-1 tvg-id="CBC_Fredericton" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Fredericton NB
 https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC_Halifax" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Halifax NB
+#EXTINF:-1 tvg-id="CBC_Halifax" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Halifax NS
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
 #EXTINF:-1 tvg-id="CBC_Montreal" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Montreal QC
 https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
