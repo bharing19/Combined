@@ -4991,6 +4991,10 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="D_wpptdt2" tvg-logo="https://tvtv.us/gn/i/assets/s56725_ll_h9_aa.png" group-title="🇺🇸 Locals",PBS World 35.2 Philadelphia PA WPPT-DT2
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 tvg-id="D_watcdt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/WATC.png" group-title="🇺🇸 Locals",WATC57 Atlanta GA 57.1 WATC-DT
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
+#EXTINF:-1 tvg-id="D_watcdt2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/WATC.png" group-title="🇺🇸 Locals",WATC57 TOO Atlanta GA 57.2 WATC-DT2
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNet_wybnld8" tvg-logo="https://newsnetnational.images.worldnow.com/images/22525881_G.png" group-title="🇺🇸 Locals",NewsNet National
 https://newsnetnational.akamaized.net/hls/live/2031673/newsnetnational_OUT/1/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="CC_BCTV" tvg-logo="https://www.bedfordnh.org/ImageRepository/Document?documentID=2064" group-title="🇺🇸 Locals",BCTV 16 Bedford NH
