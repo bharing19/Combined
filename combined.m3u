@@ -5074,7 +5074,7 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CBC_Calgary" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Calgary AB
 https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
-#EXTINF:-1 tvg-id="CBC Charlottetown" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Charlottetown PE
+#EXTINF:-1 tvg-id="CBC_Charlottetown" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Charlottetown PE
 https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
 #EXTINF:-1 tvg-id="CBC_Edmonton" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇨🇦 Locals",CBC Edmonton AB
 https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
