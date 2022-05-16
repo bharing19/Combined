@@ -5188,3 +5188,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_275/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="🇺🇸 Webstreams",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="ShoutCult" tvg-logo="https://raw.githubusercontent.com/DeltaSr95/logos/main/shoutcult.png" group-title="🇺🇸 Webstreams",Shout! Cult
+https://837dd61e3fed471fbbe33391a57920d4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/ONO_ShoutCult/playlist.m3u8
