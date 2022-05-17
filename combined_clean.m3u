@@ -4966,7 +4966,7 @@ https://cloudietvus.broadcastcdn.net/AFRICAXP-RPM/tracks-v2a1/index.m3u8
 https://gpuserver002.broadcastcdn.net/CLOUDIETV-BITETV/index.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141127" tvg-logo="https://shoutfactorytvlive.com/userFiles/uploads/Logos/SHOUT_TV_LIVE_LOGO.png" group-title="Shout Factory TV",Shout! Factory TV
 https://shoutfactory-shoutfactory-zype.amagi.tv/playlist.m3u8
-#EXTINF:-1 #EXTINF:-1 tvg-id="ScreamFactoryTV" tvg-logo="https://www.shoutfactory.com/media_cache/userFiles/uploads/logos/max2000/logo-scream.png" group-title="Shout Factory TV",Scream! Factory TV
+#EXTINF:-1 #EXTINF:-1 tvg-id="ScreamFactoryTV" tvg-logo="https://www.shoutfactory.com/media_cache/userFiles/uploads/logos/max2000/logo-scream.png" group-title="Shout Factory TV",Scream Factory TV
 https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="ShoutCult" tvg-logo="https://raw.githubusercontent.com/DeltaSr95/logos/main/shoutcult.png" group-title="Shout Factory TV",Shout! Cult
 https://shoutfactory-shoutcult-1-us.ono.wurl.tv/playlist.m3u8
