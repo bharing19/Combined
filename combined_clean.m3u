@@ -461,13 +461,13 @@ https://knxv-syndication.ewscloud.com/out/v1/734c17b72dea4f6795efa601bbcfc82d/in
 #EXTINF:-1 tvg-id="localnow_WFTV (ABC) News 9 Orlando, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61201356c2b097359609d2c2" tvg-name="WFTV (ABC) News 9 Orlando, FL" group-title="LocalNow: Local",WFTV (ABC) News 9 Orlando FL
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KNDU (NBC) News 25 Richland, WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618443ee75850c0eeff93802" tvg-name="KNDU (NBC) News 25 Richland, WA" group-title="LocalNow: Local",KNDU (NBC) News 25 Richland WA
-http://needalink.com
+#EXTINF:-1 tvg-id="localnow_KNDU (NBC) News 25 Richland, WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6156451b3243602122285a12" tvg-name="KNDU (NBC) News 25 Richland, WA" group-title="LocalNow: Local",KNDU (NBC) News 25 Richland WA
+https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9a3541653bb5d8d5dbb96_kndu-live-1/3c6b4680-696b-41b6-aa02-8f06747874bb/0.m3u8
 
 #EXTINF:-1 tvg-id="localnow_KMGH (ABC) News 7 Denver, CO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ac1c2fac0d4b0b9306bb14" tvg-name="KMGH (ABC) News 7 Denver, CO" group-title="LocalNow: Local",KMGH (ABC) News 7 Denver CO
 https://kmgh-syndication.ewscloud.com/out/v1/54afa525bb6b4f708c89d5ad1c77b77e/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KWYB (ABC) News 18 Butte, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/618443b275850c0eeff9379a" tvg-name="KWYB (ABC) News 18 Butte, MT" group-title="LocalNow: Local",KWYB (ABC) News 18 Butte MT
+#EXTINF:-1 tvg-id="localnow_KWYB (ABC) News 18 Butte, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8c0b7dab69487879c6f3" tvg-name="KWYB (ABC) News 18 Butte, MT" group-title="LocalNow: Local",KWYB (ABC) News 18 Butte MT
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow
 
 #EXTINF:-1 tvg-id="localnow_WSOC (ABC) News 9 Charlotte, NC" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015d9763d7a427b16ef7a" tvg-name="WSOC (ABC) News 9 Charlotte, NC" group-title="LocalNow: Local",WSOC (ABC) News 9 Charlotte NC
@@ -485,7 +485,7 @@ https://kgtv-syndication.ewscloud.com/out/v1/9916f5222ae74e398263d277684b161c/in
 #EXTINF:-1 tvg-id="localnow_KOKI (FOX) News 23 Tulsa, OK" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6c46dfa92505a4b1413a2" tvg-name="KOKI (FOX) News 23 Tulsa, OK" group-title="LocalNow: Local",KOKI (FOX) News 23 Tulsa OK
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WFXT (FOX) News 25 Boston, MA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6149c3f42e50e00e3b124f27" tvg-name="WFXT (FOX) News 25 Boston, MA" group-title="LocalNow: Local",WFXT (FOX) News 25 Boston MA 
+#EXTINF:-1 tvg-id="localnow_WFXT (FOX) News 25 Boston, MA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6125408d04b7eb3ef45e0917" tvg-name="WFXT (FOX) News 25 Boston, MA" group-title="LocalNow: Local",WFXT (FOX) News 25 Boston MA 
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
 
 #EXTINF:-1 tvg-id="localnow_WPTV (NBC) News 5 West Palm Beach, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609991c3a38cf459ad06e384" tvg-name="WPTV (NBC) News 5 West Palm Beach, FL" group-title="LocalNow: Local",WPTV (NBC) News 5 West Palm Beach FL
@@ -503,8 +503,8 @@ https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
 #EXTINF:-1 tvg-id="localnow_WJAX (CBS) News 47 Jacksonville, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" tvg-name="WJAX (CBS) News 47 Jacksonville, FL" group-title="LocalNow: Local",WJAX (CBS) News 47 Jacksonville FL
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WHBQ (FOX) News 13 Memphis, TN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" tvg-name="WHBQ (FOX) News 13 Memphis, TN" group-title="LocalNow: Local",WHBQ (FOX) News 13 Memphis TN
-http://needalink.com?2
+#EXTINF:-1 tvg-id="localnow_WHBQ (FOX) News 13 Memphis, TN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6bd30283a4f149f72b562" tvg-name="WHBQ (FOX) News 13 Memphis, TN" group-title="LocalNow: Local",WHBQ (FOX) News 13 Memphis TN
+https://whbq-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6227ae82a0d7384bb13634c2_whbq-live-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_KIRO (CBS) News 7 Seattle, WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612013fb763d7a427b16ef73" tvg-name="KIRO (CBS) News 7 Seattle, WA" group-title="LocalNow: Local",KIRO (CBS) News 7 Seattle WA
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
@@ -521,11 +521,8 @@ https://waay-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6
 #EXTINF:-1 tvg-id="localnow_WPXI (NBC) News 11 Pittsburgh, PA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120151768042a4fc530f3f6" tvg-name="WPXI (NBC) News 11 Pittsburgh, PA" group-title="LocalNow: Local",WPXI (NBC) News 11 Pittsburgh PA
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WFTS (ABC) News 28 Tampa, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61f2ca9e6029bf0e6cdb7b35" tvg-name="WFTS (ABC) News 28 Tampa, FL" group-title="LocalNow: Local",WFTS (ABC) News 28 Tampa FL
-http://nolink.com/playlist.m3u8?
-
-#EXTINF:-1 tvg-id="localnow_KFBB (ABC) News 5 Great Falls/Helena, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61844367e0386111b2a183d1" tvg-name="KFBB (ABC) News 5 Great Falls/Helena, MT" group-title="LocalNow: Local",KFBB (ABC) News 5 Great Falls/Helena MT
-http://nolink.com/playlist.m3u8?2
+#EXTINF:-1 tvg-id="localnow_KFBB (ABC) News 5 Great Falls/Helena, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8b6c20130c4f15008503" tvg-name="KFBB (ABC) News 5 Great Falls/Helena, MT" group-title="LocalNow: Local",KFBB (ABC) News 5 Great Falls/Helena MT
+https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/8bb7390a-5bb6-4580-a469-f8cfd8cbd4d9/0.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Florida 24 Network, Your Florida News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61323c58c5379746bb1a5f03" tvg-name="Florida24" group-title="LocalNow: Local",Florida 24 Network - Your Florida News
 https://florida24network-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6205b2afcfe9587c2e2fdcf5_florida24network-live-1/playlist.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=14554559646497794&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-fl24&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F99.0.4844.74%20Safari%2F537.36&ads.channel_id=6205b2afcfe9587c2e2fdcf5&ads.channel_title=EPG-Florida_24_Network&ads.channel_contenttype=Shows&ads.channel_name=EPG-Florida_24_Network&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=florida-24-network&ads.content_provider=florida-24-network&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=b2c5de31-47c8-4791-a5eb-e38c110e6359&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1
@@ -533,8 +530,8 @@ https://florida24network-live.localnowlive.com/v1/master/385c85a93929f94966d0fb1
 #EXTINF:-1 tvg-id="localnow_Las Vegas Review-Journal" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620c0c979c6bd15a09478c82" group-title="LocalNow: Local",Las Vegas Review-Journal
 https://lvrjnews-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_620afa274100853d256437c5_lvrjnews-live/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8?adMethod=3&sessionId=lvrjnewslocalnow&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=3624565845293082&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fnewsy&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=620afa274100853d256437c5&ads.channel_title=EPG-LVRJ_News&ads.channel_contenttype=Shows&ads.channel_name=EPG-LVRJ_News&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=las-vegas-review-and-journal-news&ads.content_provider=las-vegas-review-and-journal-news&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=255598eb-fa52-41f9-bfe8-10ebc1f3fd4d&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=255598eb-fa52-41f9-bfe8-10ebc1f3fd4d
 
-#EXTINF:-1 tvg-id="localnow_Las Vegas Review-Journal Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b1c9cdeb3470e5a25e6eb" group-title="LocalNow: Local",Las Vegas Review-Journal Sports
-http://nolink.com/playlist.m3u8?3
+#EXTINF:-1 tvg-id="localnow_Las Vegas Review-Journal Sports" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6238f4a5aa0cbb611844d532" group-title="LocalNow: Local",Las Vegas Review-Journal Sports
+https://lasvegasreviewjournalsports-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6234e7484c0141395370c159_lasvegasreviewjournalsports-li/a1092ad7-3dcd-4401-b242-0d3821487ff6/0.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Newsy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b9ae4c0e289e72fd6d6765" tvg-name="Newsy" group-title="LocalNow: News",Newsy
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
@@ -611,23 +608,23 @@ https://urbanactionshowcasecinema-live.localnowlive.com/v1/master/385c85a93929f9
 #EXTINF:-1 tvg-id="localnow_Old West TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6217eea5d837a234ca185512" group-title="LocalNow: Action",Old West TV
 https://oldwesttv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fd71f670c089557402a113_oldwesttv-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Cowboy Classics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622781c7e260fa0ed5f36bd4" group-title="LocalNow: Action",Cowboy Classics
-http://nolink.com/playlist.m3u8?5
+#EXTINF:-1 tvg-id="localnow_Cowboy Classics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1d130edb295d102c439f" group-title="LocalNow: Action",Cowboy Classics
+https://cowboyclassics-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f315775269ed2b95267b23_cowboyclassics-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Kung Fu Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622787d44efdca0eeef60bb3" group-title="LocalNow: Action",Kung Fu Movies
-http://nolink.com/playlist.m3u8?6
+#EXTINF:-1 tvg-id="localnow_Kung Fu Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1f5ed748a01e65291fa2" group-title="LocalNow: Action",Kung Fu Movies
+https://kungfumovies-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f9beda75ae24607c1e2885_kungfumovies-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Urban Action Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622787d44efdca0eeef60bb3" group-title="LocalNow: Action",Urban Action Channel
-http://nolink.com/playlist.m3u8?7
+#EXTINF:-1 tvg-id="localnow_Urban Action Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d217c20f9a625bd757385" group-title="LocalNow: Action",Urban Action Channel
+https://urbanactionchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fd7d64e3997954db1a70b5_urbanactionchannel-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Action!!!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6239c1cc31b1cc0eb6242f7b" group-title="LocalNow: Action",Action!!!
-http://nolink.com/playlist.m3u8?8
+#EXTINF:-1 tvg-id="localnow_Action!!!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62266ee37362d74224184ee3" group-title="LocalNow: Action",Action!!!
+https://4b7166d5a45641e3af0f061846361073.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_ACTION/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Toro TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6271337107236e0e532418bb" group-title="LocalNow: Action",Toro TV
-http://nolink.com/playlist.m3u8?9
+#EXTINF:-1 tvg-id="localnow_Toro TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6269a837f5ffdc7f5357f7b8" group-title="LocalNow: Action",Toro TV
+https://torotv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6269a6fa1e54df1d3a7d653b_torotv-live/master.m3u8?channel=jun_to_ww&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzQ4ODY%3D&ads.cb=9778821276235376&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-lol&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.channel_id=
 
-#EXTINF:-1 tvg-id="localnow_LOL!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ad014a38d8c466108e97a" tvg-name="LOL!" group-title="LocalNow: Comedy",LOL!
-http://nolink.com/playlist.m3u8?10
+#EXTINF:-1 tvg-id="localnow_LOL!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6272b3981bcea52fa2304bd4" tvg-name="LOL!" group-title="LocalNow: Comedy",LOL!
+https://371f5a4f4aff4379b89601b3702dede6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_LOLNetworkDefComedyJam/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Johnny Carson TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9ad014a38d8c466108e97a" tvg-name="Johnny Carson TV" group-title="LocalNow: Comedy",Johnny Carson TV
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
@@ -644,8 +641,8 @@ https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_AFV Family" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94" tvg-name="AFV Family" group-title="LocalNow: Comedy",AFV Family
 https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Comedy Classics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6239c2ed17b5b80f04f6dc58" tvg-name="Comedy Classics" group-title="LocalNow: Comedy",Comedy Classics
-http://nolink.com/playlist.m3u8?11
+#EXTINF:-1 tvg-id="localnow_Comedy Classics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286ddaa52a00f5ec867cfe3" tvg-name="Comedy Classics" group-title="LocalNow: Comedy",Comedy Classics
+https://comedyclassics-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f312713679d507be356ee2_comedyclassics1-live/m.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Comedy Dynamics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa557dfd94e6214d2047d13" tvg-name="Comedy Dynamics" group-title="LocalNow: Comedy",Comedy Dynamics
 https://comedydynamics-localnow.cinedigm.com/playlist.m3u8
@@ -662,8 +659,8 @@ https://ov.ottera.tv/live/master.m3u8?channel=jvi_un
 #EXTINF:-1 tvg-id="localnow_The Red Green Show" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6206d5510b431454953d0a17" group-title="LocalNow: Comedy",The Red Green Show
 https://e97038ca286943df8bf2c4b4b640803d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel
 
-#EXTINF:-1 tvg-id="localnow_FailArmy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627beaa4ee3b1f0ed3831467" group-title="LocalNow: Comedy",FailArmy
-http://nolink.com/playlist.m3u8?12
+#EXTINF:-1 tvg-id="localnow_FailArmy" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627401c41f3cf427996ad5c2" group-title="LocalNow: Comedy",FailArmy
+https://failarmy-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62740037e46279618f2b5933_failarmy-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_The Dead Zone" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60edf7695a66982cab536295" tvg-name="The Dead Zone" group-title="LocalNow: Drama",The Dead Zone
 https://linear-215.frequency.stream/dist/localnow/215/hls/master/playlist.m3u8
@@ -692,14 +689,14 @@ https://filmnoirchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 #EXTINF:-1 tvg-id="localnow_Crime Stoppers: Case Files" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620c29116833de0aee6eab92" group-title="LocalNow: Drama",Crime Stoppers: Case Files
 https://crimestopperscasefiles-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_620a93eee4cc3e0cd1274f72_crimestopperscasefiles-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Moving On" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623501c3d1cbc10e46d4f5ba" group-title="LocalNow: Drama",Moving On
-http://nolink.com/playlist.m3u8?13
+#EXTINF:-1 tvg-id="localnow_Moving On" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622f889c05348800620dbda2" group-title="LocalNow: Drama",Moving On
+https://movingon-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_622f876c17f8e42207684b52_movingon-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Rotana Drama" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62699c6da7636d0ec9141339"  group-title="LocalNow: En Espanol",Rotana Drama
-http://nolink.com/playlist.m3u8?14
+#EXTINF:-1 tvg-id="localnow_Rotana Drama" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622277003d931600450722b3"  group-title="LocalNow: Drama",Rotana Drama
+https://d03ccc293cd1446da986d2dc69552a88.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaDrama/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_TWC Espanol" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626fbe226c08160ee421bed0"  group-title="LocalNow: En Espanol",TWC Espanol
-http://nolink.com/playlist.m3u8?15
+#EXTINF:-1 tvg-id="localnow_TWC Espanol" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62696ee4ecd0c619ac7f9922"  group-title="LocalNow: En Espanol",TWC Espanol
+https://twcespanol-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6266f276d322b817d80304a9_twcespanol-live/index.m3u8
 
 #EXTINF:-1 tvg-id="localnow_AFV Espanol" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b66af901c6845181f33d3" tvg-name="AFV Espanol" group-title="LocalNow: En Espanol",AFV Espanol
 https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
@@ -725,20 +722,20 @@ https://elconflicto-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc3
 #EXTINF:-1 tvg-id="localnow_LevelUp TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6206daf2f392434e3a5d8a84" group-title="LocalNow: En Espanol",LevelUp TV
 https://f6c3f25ebf224c019679e4e0a502a5a1.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_LevelUpTV/playlist.m3u8?ads.wurl_channel=927&ads.wurl_name=LevelUpTV
 
-#EXTINF:-1 tvg-id="localnow_Sun Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622787fbf5ad960ed55eedd3"  group-title="LocalNow: En Espanol",Sun Channel
-http://nolink.com/playlist.m3u8?16
+#EXTINF:-1 tvg-id="localnow_Sun Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62153d94429eb0312115cb5a"  group-title="LocalNow: En Espanol",Sun Channel
+https://sunchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62153c4bd613fc3b6f283383_sunchannel-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Box Gamers" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62278818e260fa0ed5f3a169"  group-title="LocalNow: En Espanol",Box Gamers
-http://nolink.com/playlist.m3u8?17
+#EXTINF:-1 tvg-id="localnow_Box Gamers" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6219437c4538c007c9528b9a"  group-title="LocalNow: En Espanol",Box Gamers
+https://boxgamers-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62194161bada330c212a0f42_boxgamers-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Box Playlist" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622788322e2a560ec8567a8c"  group-title="LocalNow: En Espanol",Box Playlist
-http://nolink.com/playlist.m3u8?18
+#EXTINF:-1 tvg-id="localnow_Box Playlist" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62193d7b462f855c4901c83b"  group-title="LocalNow: En Espanol",Box Playlist
+https://boxplaylist-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62193b7126c4be132057fe73_boxplaylist-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_The Spanish Family Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622788454cdcc70e426b0b43"  group-title="LocalNow: En Espanol",The Spanish Family Channel
-http://nolink.com/playlist.m3u8?19
+#EXTINF:-1 tvg-id="localnow_The Spanish Family Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d2112e7dcf9046a6f79a5"  group-title="LocalNow: En Espanol",The Spanish Family Channel
+https://thespanishfamilychannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fc5816491be606673245aa_thespanishfamilychannel-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Inti Pacha TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6273d623311d9a0ec1f90b1d"  group-title="LocalNow: En Espanol",Inti Pacha TV
-http://nolink.com/playlist.m3u8?20
+#EXTINF:-1 tvg-id="localnow_Inti Pacha TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6271773226d7ee387b0d7cdf"  group-title="LocalNow: En Espanol",Inti Pacha TV
+https://12b71fa80adc4f3ca71526d9a77d5b00.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_INTIPACHA/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Pattrn" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609aad0d2c643a24af6574e2" tvg-name="Pattrn" group-title="LocalNow: Explore",Pattrn
 https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
@@ -824,11 +821,11 @@ https://waypointtv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33
 #EXTINF:-1 tvg-id="localnow_Yebo.Live" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6217e582ff007319d6414752" group-title="LocalNow: Explore",Yebo.Live
 https://yebolive-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6220fe43a63eb901e023fb63_yebolive-live-1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_History Film Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622780e4887f6c115f4366fc" group-title="LocalNow: Explore",History Film Channel
-http://nolink.com/playlist.m3u8?21
+#EXTINF:-1 tvg-id="localnow_History Film Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1dee9427ae10c807f7ba" group-title="LocalNow: Explore",History Film Channel
+https://historyfilmchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f9b24c61cbb82fd246fa52_historyfilmchannel-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Carbon TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624d8c6cdac77e0ee8f3b968" group-title="LocalNow: Explore",Carbon TV
-http://nolink.com/playlist.m3u8?21
+#EXTINF:-1 tvg-id="localnow_Carbon TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624b6550a7315756f034d844" group-title="LocalNow: Explore",Carbon TV
+https://carbontv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_624b63c312b59736e60ca7e4_carbontv-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_PBS Digital Studios" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61bbcd546f7bad7019003366" group-title="LocalNow: Family",PBS Digital Studios
 https://pbsdigitalstudios-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b9461c09bbcb320a08607d_pbsdigitalstudios-live/playlist.m3u8?ads.tag_id=localnow&ads.aml=1
@@ -857,20 +854,17 @@ https://wildamericatv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186f
 #EXTINF:-1 tvg-id="localnow_Film Star" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6202abda06a5802c0e2725b2" group-title="LocalNow: Family",Film Star
 https://filmstar-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f8521800ec520f1846ca13_filmstar-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Christian Life" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6239c31217b5b80f04f6dd89" group-title="LocalNow: Family",Christian Life
-http://nolink.com/playlist.m3u8?22
+#EXTINF:-1 tvg-id="localnow_Christian Life" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286dd84dec7894df31aaaa9" group-title="LocalNow: Family",Christian Life
+https://christianlife-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f2fdd2806ee62bc463c7f2_christianlife-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_The Family TV Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6228096d59bedc0ec2b65962" group-title="LocalNow: Family",The Family TV Channel
-http://nolink.com/playlist.m3u8?23
+#EXTINF:-1 tvg-id="localnow_The Family TV Channel" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d2088fbf1044eeb73ceb2" group-title="LocalNow: Family",The Family TV Channel
+https://thefamilytvchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fc53d1c97eed798a2c87d8_thefamilytvchannel-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Chicken Soup for the Soul" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/625806bb0f01f90edcda2984" group-title="LocalNow: Family",Chicken Soup for the Soul
-http://nolink.com/playlist.m3u8?24
+#EXTINF:-1 tvg-id="localnow_Truli" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6255f9acbf653f635f027d14" group-title="LocalNow: Family",Truli
+https://truli-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6255f0d6fc1f7613ae14553f_truli-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Truli" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/625e9ffcf051167c409dcdca" group-title="LocalNow: Family",Truli
-http://nolink.com/playlist.m3u8?25
-
-#EXTINF:-1 tvg-id="localnow_The Pet Collective" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627beafa8d363d37ba2653cc" group-title="LocalNow: Family",The Pet Collective
-http://nolink.com/playlist.m3u8?26
+#EXTINF:-1 tvg-id="localnow_The Pet Collective" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627406569c36803a426e2c0f" group-title="LocalNow: Family",The Pet Collective
+https://thepetcollective-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_627404d795db9c7534705234_thepetcollective-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_CONtv" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa07ec3fc8cbc647f034483" tvg-name="CONtv" group-title="LocalNow: Gaming and More",CONtv
 https://contv-localnow.cinedigm.com/playlist.m3u8
@@ -920,14 +914,14 @@ https://07e18a5d08ee4b8888c4e86690085763.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="localnow_SciFi Horror Classics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6217ef4807f3d476e63cab92" group-title="LocalNow: Horror",SciFi Horror Classics
 https://scifihorrorclassics-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fd7447feb2be6593547472_scifihorrorclassics-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Dark Matter TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6233bd14f01ade2323b061f5" group-title="LocalNow: Horror",Dark Matter TV
-http://nolink.com/playlist.m3u8?27
+#EXTINF:-1 tvg-id="localnow_Dark Matter TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62339847fde37b00cd3bf9e2" group-title="LocalNow: Horror",Dark Matter TV
+https://darkmattertv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_623396a71460496bbf58eec3_darkmattertv-live/9c7d6aa0-ff8e-4658-9152-4a2afc197a1f/0.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Trailers From Hell" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b1c15deb3470e5a25e27e" group-title="LocalNow: Horror",Trailers From Hell
-http://nolink.com/playlist.m3u8?28
+#EXTINF:-1 tvg-id="localnow_Trailers From Hell" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622f9b75df342613690bad82" group-title="LocalNow: Horror",Trailers From Hell
+https://189067eb43d2471db5d0829668d625eb.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_TrailersFromHell/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_ScreamFlix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6271331666183a0e6dfeb0a8" group-title="LocalNow: Horror",ScreamFlix
-http://nolink.com/playlist.m3u8?29
+#EXTINF:-1 tvg-id="localnow_ScreamFlix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6269aa808ca015312e3f3a75" group-title="LocalNow: Horror",ScreamFlix
+https://screamflixusa-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6269a93c7467ad2c89396cd7_screamflixusa-live/8af14694-6b05-4222-8635-a4036bd905c9/0.m3u8
 
 #EXTINF:-1 tvg-id="localnow_People TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c20f530708568031c60e2" tvg-name="People TV" group-title="LocalNow: Lifestyle",People TV
 https://peopletv-localnow.akamaized.net/playlist.m3u8
@@ -986,8 +980,8 @@ https://onegetfit-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b
 #EXTINF:-1 tvg-id="localnow_SurvivorNetTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607723ec19daa1553816098b" tvg-name="SurvivorNetTV" group-title="LocalNow: Lifestyle",SurvivorNetTV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Zoomer Television" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6103e7ee4b32af4f90850466" tvg-name="Boomers TV" group-title="LocalNow: Lifestyle",Zoomer Television
-http://nolink.com/playlist.m3u8?30
+#EXTINF:-1 tvg-id="localnow_Zoomer Television" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/610027a0f3f60c2b400ce7dc" group-title="LocalNow: Lifestyle",Zoomer Television
+https://zoomertelevision-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60ca742a27efdc6a9d0afb06_zoomertelevision-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Boomers TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61bb906bb4af1336134c03c3" tvg-name="Boomers TV" group-title="LocalNow: Lifestyle",Boomers TV
 https://boomerstv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6172f9fb5b90193fbe46f494_boomerstv-live/playlist.m3u8
@@ -1013,29 +1007,29 @@ https://veentertainment-live.localnowlive.com/v1/master/385c85a93929f94966d0fb18
 #EXTINF:-1 tvg-id="localnow_Entertainment by Binge" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620d670dd3225d712819bf12" group-title="LocalNow: Lifestyle",Entertainment by Binge
 https://entertainmentbybinge-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_620d661b82b71033075e2463_entertainmentbybinge-live/m.m3u8?ads.vast_id=657338&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=13738186122349336&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-entertainment-by-binge&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=620d661b82b71033075e2463&ads.channel_title=EPG-Entertainment_by_Binge&ads.channel_contenttype=Shows&ads.channel_name=EPG-Entertainment_by_Binge&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=entertainment-by-binge&ads.content_provider=entertainment-by-binge&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=95aebebc-62c6-4e68-895d-a8e141bd6e4a&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=95aebebc-62c6-4e68-895d-a8e141bd6e4a
 
-#EXTINF:-1 tvg-id="localnow_GFN TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6239c1e3699c170ec4f9733a" group-title="LocalNow: Movies and TV",GFN TV
-http://nolink.com/playlist.m3u8?31
+#EXTINF:-1 tvg-id="localnow_GFN TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61f2dab7751e494e35577242" group-title="LocalNow: Lifestyle",GFN TV
+https://gfntv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6230d9162543e709ab167182_gfntv-live-1/169.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=6497176542321840&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-twg-arts&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.channel_id=6230d9162543e709ab167182&ads.content_custom_1_param=6230d9162543e709ab167182&ads.channel_title=EPG-GFN_TV&ads.channel_contenttype=Shows&ads.channel_name=EPG-GFN_TV&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=gfn-tv&ads.content_provider=gfn-tv&ads.ip=&ads.us_privacy=&ads.payid=&ads.SSID=&ads.hybrid=0&ads.aml=1&ads.tag_id=localnow&ads.adc_token=&user_cookieid=&ads.cust_anonymousId=&user_cookieid=
 
-#EXTINF:-1 tvg-id="localnow_More U" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6239c28b31b1cc0eb6243375"  group-title="LocalNow: Movies and TV",More U
-http://nolink.com/playlist.m3u8?32
+#EXTINF:-1 tvg-id="localnow_More U" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622682ac2a66ba1d2e54fc34"  group-title="LocalNow: Lifestyle",More U
+https://2f8b1e8f68bd4a44a58e2a30ea2e0216.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_MoreU/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_HallyPOP" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627133466e1e510ecf71d248"  group-title="LocalNow: Movies and TV",HallyPOP
-http://nolink.com/playlist.m3u8?33
+#EXTINF:-1 tvg-id="localnow_HallyPOP" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6269878aecd0c619ac7f9923"  group-title="LocalNow: Lifestyle",HallyPOP
+https://hallypopusa-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_626984ad044d1e29542d9992_hallypopusa-live/master.m3u8?channel=jun_hp&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzQ4ODY%3D&ads.cb=16416501718869720&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-twg-arts&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.channel_id=626984ad044d1e29542d9992
 
-#EXTINF:-1 tvg-id="localnow_TWG+ Arts" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62726ad926be170ef56bae3d"  group-title="LocalNow: Movies and TV",TWG+ Arts
-http://nolink.com/playlist.m3u8?34
+#EXTINF:-1 tvg-id="localnow_TWG+ Arts" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6272f8b69b7bad23b65f7e62"  group-title="LocalNow: Lifestyle",TWG+ Arts
+https://twgplusarts-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6269b3bb8c3d3d13b05ea672_twgplusarts-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Crackle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/625ea0e11fa0f00eda547118"  group-title="LocalNow: Movies and TV",Crackle
-http://nolink.com/playlist.m3u8?35
+#EXTINF:-1 tvg-id="localnow_Crackle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6255f8da38593e1fc2587d08"  group-title="LocalNow: Movies and TV",Crackle
+https://crackle-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6255ed54061f5d1aa502ddb2_crackle-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Crackle Classics TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/625ea0b41fa0f00eda546f80"  group-title="LocalNow: Movies and TV",Crackle Classics TV
-http://nolink.com/playlist.m3u8?36
+#EXTINF:-1 tvg-id="localnow_Crackle Classics TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6255f90380eb307b0c10cfd2"  group-title="LocalNow: Movies and TV",Crackle Classics TV
+https://crackleclassicstv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6255f044fc1f7613ae14553e_crackleclassicstv-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Popcorn Flix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627133466e1e510ecf71d248"  group-title="LocalNow: Movies and TV",Popcorn Flix
-http://nolink.com/playlist.m3u8?37
+#EXTINF:-1 tvg-id="localnow_Popcorn Flix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6255f947ae0fe92371245312"  group-title="LocalNow: Movies and TV",Popcorn Flix
+https://popcornflix-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6255f078c5513a466069cccb_popcornflix-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Reelz" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622809bb0a998c0ed8693205"  group-title="LocalNow: Movies and TV",Reelz
-http://nolink.com/playlist.m3u8?38
+#EXTINF:-1 tvg-id="localnow_Reelz" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6206d1c4644660266263ec14"  group-title="LocalNow: Movies and TV",Reelz
+https://reelz-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62042369f0991e3fd04c5382_reelz-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_CineLife" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a27bb62bf105667747223" tvg-name="CineLife" group-title="LocalNow: Movies and TV",CineLife
 https://cinelife-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa2d8a5705e40fc453722_cinelife-live/playlist.m3u8
@@ -1049,8 +1043,8 @@ https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="localnow_Electric Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f8b8b302ada2c2ec9112083" tvg-name="Electric Now" group-title="LocalNow: Movies and TV",Electric Now
 https://ov.ottera.tv/live/master.m3u8?channel=elec_en
 
-#EXTINF:-1 tvg-id="localnow_CinePast" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6228098159bedc0ec2b65a78" tvg-name="Electric Now" group-title="LocalNow: Movies and TV",CinePast
-http://nolink.com/playlist.m3u8?39
+#EXTINF:-1 tvg-id="localnow_CinePast" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d240e498df854750a4264" group-title="LocalNow: Movies and TV",CinePast
+https://cinepast-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f2ffd2a0b12f143e3c1812_cinepast-live/m.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Movies of the Week" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/610d8755b2d6aa31714f9a65" tvg-name="Movies of the Week" group-title="LocalNow: Movies and TV",Movies of the Week
 https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
@@ -1070,8 +1064,8 @@ https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="localnow_Christmas Classics" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61bb925413a7a02265189ac3" tvg-name="Christmas Classics" group-title="LocalNow: Movies and TV",Christmas Classics
 https://christmasclassics-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61b8bdd7b84034600d75af0e_christmasclassics-live/master.m3u8?channel=ottpri_sl_cc
 
-#EXTINF:-1 tvg-id="localnow_Hollywood Classic Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6228093725ea7e0eeea00afa" group-title="LocalNow: Movies and TV",Hollywood Classic Movies
-http://nolink.com/playlist.m3u8?40
+#EXTINF:-1 tvg-id="localnow_Hollywood Classic Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1eb6498df854750a4263" group-title="LocalNow: Movies and TV",Hollywood Classic Movies
+https://hollywoodclassicmovies-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f9b44795290a087440e9e2_hollywoodclassicmovies-live/m.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Legend Films" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6202b3e99ee10f1a84796793/100?webp=1" tvg-name="Legend Films" group-title="LocalNow: Movies and TV",Legend Films
 https://legendfilms-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61faef28372edd0c3857e983_legendfilms-live/playlist.m3u8?ads.vast_id=657344&ads.tag_id=localnow&ads.aml=1&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-legend-films&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web
@@ -1094,17 +1088,17 @@ https://inspireflix-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc3
 #EXTINF:-1 tvg-id="localnow_Streamster" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620d64c60d55363ee7186302" group-title="LocalNow: Movies and TV",Streamster
 https://streamster-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_620d63a630f2a10ff861a634_streamster-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Best TV Ever" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6239c225f2521b0e3b3e1c95" group-title="LocalNow: Movies and TV",Best TV Ever
-http://nolink.com/playlist.m3u8?41
+#EXTINF:-1 tvg-id="localnow_Best TV Ever" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62267f1aadc8f5367b79ba23" group-title="LocalNow: Movies and TV",Best TV Ever
+https://c31ffb43e46b4a1ebd5411be2bde993b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_BestEver/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Stoner TV Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6228094d25ea7e0eeea00c5a" group-title="LocalNow: Movies and TV",Stoner TV Network
-http://nolink.com/playlist.m3u8?42
+#EXTINF:-1 tvg-id="localnow_Stoner TV Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/621d1ff8a03a361db9113183" group-title="LocalNow: Movies and TV",Stoner TV Network
+https://stonertvnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fd7661ea05b40e856d3593_stonertvnetwork-live/m.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Rotana Cinema" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62699c119b90f653033eb839" group-title="LocalNow: Movies and TV",Rotana Cinema
-http://nolink.com/playlist.m3u8?43
+#EXTINF:-1 tvg-id="localnow_Rotana Cinema" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/622271be12919d4d302140c3" group-title="LocalNow: Movies and TV",Rotana Cinema
+https://81af74f07a9843399239a3f486837ee7.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaCinema/playlist.m3u8?ads.wurl_channel=1108&ads.wurl_name=RotanaCinema&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.content_id=62227030ddac60503d37ce24&ads.content_title=EPG-Rotana_Cinema&ads.cust_channeltype=Shows&ads.content_genre=Entertainment&ads.content_provider=rotana-cinema&ads.us_privacy=&lastUpdatedAt=1651001789&ads.adc_token=
 
-#EXTINF:-1 tvg-id="localnow_Rotana Classic" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62699c3df677957f312397e1" group-title="LocalNow: Movies and TV",Rotana Classic
-http://nolink.com/playlist.m3u8?44
+#EXTINF:-1 tvg-id="localnow_Rotana Classic" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6222756fbaf4cd6158133ff3" group-title="LocalNow: Movies and TV",Rotana Classic
+https://c51d842875434dfc85fd5ce343ea0469.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaClassic/playlist.m3u8?ads.wurl_channel=1107&ads.wurl_name=RotanaClassic&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.content_id=6222748b0160e054527dad83&ads.content_title=EPG-Rotana_Classic&ads.cust_channeltype=Shows&ads.content_genre=Entertainment&ads.content_provider=rotana-classic&ads.us_privacy=&lastUpdatedAt=1651001767&ads.adc_token=
 
 #EXTINF:-1 tvg-id="localnow_AXS TV Now" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bba10396351a3042dd4" tvg-name="AXS TV Now" group-title="LocalNow: Music",AXS TV Now
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
@@ -1155,7 +1149,7 @@ https://vevo2k-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431
 https://vevotrueschoolhiphop-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6201796eaafec37e186bdfa8_vevotrueschoolhiphop-live/live.m3u8?ads.cb=13354469734291352&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-vevo-true-school-hip-hop&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=6201796eaafec37e186bdfa8&ads.channel_title=EPG-Vevo_True_School_Hip_Hop&ads.channel_contenttype=Shows&ads.channel_name=EPG-Vevo_True_School_Hip_Hop&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=vevo-true-school-hiphop&ads.content_provider=vevo-true-school-hiphop&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=f512eedb-18e4-4304-9dbb-76877eadcbbf&ads.hybrid=0&ads.tag_id=localnow
 
 #EXTINF:-1 tvg-id="localnow_Vevo Retro Rock!" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62180a7b7bc6de73012225c5" group-title="LocalNow: Music",Vevo Retro Rock!
-http://nolink.com/playlist.m3u8?45
+https://vevoretrorock-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62017aaf84d98a20c43bd5a5_vevoretrorock-live/live.m3u8?ads.cb=5505230119196610&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-amusic-channel&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.channel_id=62017aaf84d98a20c43bd5a5&ads.content_custom_1_param=62017aaf84d98a20c43bd5a5&ads.channel_title=EPG-Vevo_Retro_Rock&ads.channel_contenttype=Sports&ads.channel_name=EPG-Vevo_Retro_Rock&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=3600&ads.content_livestream=1&ads.network_name=vevo-retro-rock&ads.content_provider=vevo-retro-rock&ads.ip=&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=&ads.hybrid=0&ads.tag_id=localnow&ads.adc_token=QklGQ0FEQ0JKQkpNbDAoZHNOVFQxLjtXNjt4NClBaTYoVCxsa2VHaylDLjRTLzY&user_cookieid=b8c4dd3b-1bcf-4445-ad66-742ba8b0d1df&ads.cust_anonymousId=c7e41919-3a75-4abb-a4c2-338dd46f5a13&user_cookieid=b8c4dd3b-1bcf-4445-ad66-742ba8b0d1df
 
 #EXTINF:-1 tvg-id="localnow_Party Tyme Karaoke" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d2342ce38f3335ba5f5082" tvg-name="Party Tyme Karaoke" group-title="LocalNow: Music",Party Tyme Karaoke
 https://ov.ottera.tv/live/master.m3u8?channel=ssnd_pt_us
@@ -1173,13 +1167,13 @@ https://musiclegendsnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0
 https://jaminthevan-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f9ba763ca01a021c146982_jaminthevan-live/m.m3u8?ads.vast_id=657311&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=14360713018636960&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-jam-in-the-van&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61f9ba763ca01a021c146982&ads.channel_title=EPG-Jam_in_the_Van&ads.channel_contenttype=Shows&ads.channel_name=EPG-Jam_in_the_Van&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=jam-in-the-van&ads.content_provider=jam-in-the-van&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=776f4c72-5f6a-4de4-90a1-8178d3903ee7&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1
 
 #EXTINF:-1 tvg-id="localnow_AMusic" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62154f219ff9cb0ef44b99b2" group-title="LocalNow: Music",AMusic
-http://nolink.com/playlist.m3u8?46
+https://amusicchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f1dc9206de9f4a617f5ec2_amusicchannel-live/m.m3u8
 
 #EXTINF:-1 tvg-id="localnow_OFIVE" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62155b6bcde46f3cf279fed3" group-title="LocalNow: Music",OFIVE
-http://nolink.com/playlist.m3u8?47
+https://ofive-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_621559a9d613fc3b6f28338b_ofive-live/m.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Rotana Music" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62227898edd80c60b427fb22" group-title="LocalNow: Music",Rotana Music
-http://nolink.com/playlist.m3u8?48
+https://fa1bd01ffdd94cb7971da375b2d236e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_RotanaMusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_So Real" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa0a1d994163b4d276cb845" tvg-name="So Real" group-title="LocalNow: Reality",So Real
 https://soreal-localnow.cinedigm.com/playlist.m3u8
@@ -1248,13 +1242,13 @@ https://lotus.stingray.com/manifest/naturescape-a003-losangeles/localnow/master.
 https://heritage-plus.akamaized.net/hls/live/2033560/HERITAGE-PLUS/master.m3u8
 
 #EXTINF:-1 tvg-id="localnow_S+" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62436e5e8823ae18c47727c2" tvg-name="Heritage Plus" group-title="LocalNow: Relaxation",S+
-http://nolink.com/playlist.m3u8?49
+https://splus-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61fd6571953de52e9b639903_splus-live/master.m3u8
 
 #EXTINF:-1 tvg-id="localnow_NatureStream.TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62438829ad6a6143e87f87a3" tvg-name="Heritage Plus" group-title="LocalNow: Relaxation",NatureStream.TV
-http://nolink.com/playlist.m3u8?50
+https://naturestreamtv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62740bd53f67b501e23be192_naturestreamtv-live-2/master.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Drone TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627c0069ae90fb4c741530e2" tvg-name="Heritage Plus" group-title="LocalNow: Relaxation",Drone TV
-http://nolink.com/playlist.m3u8?51
+https://c5c391eb5d6c43019e76edc4ea5c726b.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LocalNow_DroneTV/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Whistle TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607e342400bc556fa74b6bd2" group-title="LocalNow: Sports",Whistle TV
 https://whistletv-localnow.amagi.tv/playlist.m3u8
@@ -1359,7 +1353,7 @@ https://wrestlinglegendsnetwork-live.localnowlive.com/v1/master/385c85a93929f949
 https://englishfootballchannel-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61e99ecb2426857b5e0de8e4_englishfootballchannel-live/master.m3u8?channel=ve_ef&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=10997838286581888&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-wrestling-legends-network&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61e99ecb2426857b5e0de8e4&ads.channel_title=EPG-English_Football_Channel&ads.channel_contenttype=Shows&ads.channel_name=EPG-English_Football_Channel&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=english-football-channel&ads.content_provider=english-football-channel&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
 
 #EXTINF:-1 tvg-id="localnow_The Grappling Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62587ee450b0d457cb53aad3" group-title="LocalNow: Sports",The Grappling Network
-http://nolink.com/playlist.m3u8?52
+https://thegrapplingnetwork-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_62587d025d06634715394672_thegrapplingnetwork-live-1/236.m3u8
 
 #EXTINF:-1 tvg-id="localnow_VE Sports News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620e92f451ff745fc01706e8" group-title="LocalNow: Sports",VE Sports News
 https://vesportsnews-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61ef3898a3cd6a300f5d6844_vesportsnews-live/master.m3u8?channel=ve_vs&ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=6488692483063780&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-ve-sports-news&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F98.0.4758.102%20Safari%2F537.36&ads.channel_id=61ef3898a3cd6a300f5d6844&ads.channel_title=EPG-VE_Sports_News&ads.channel_contenttype=Shows&ads.channel_name=EPG-VE_Sports_News&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=ve-sports&ads.content_provider=ve-sports&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=70f2416d-b245-4673-a643-cde1d046c106&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1&user_cookieid=70f2416d-b245-4673-a643-cde1d046c106
@@ -1386,31 +1380,31 @@ https://boxingtv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b4
 https://5b14bd5e40c94f9abb43a73002bc9509.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_MavTVSelect/playlist.m3u8?ads.wurl_channel=303&ads.wurl_name=MavTV%20Select&ads.coppa=0&ads.app_bundle=%7Bapp_bundle%7D&ads.app_name=%7Bapp_name%7D&ads.app_store_url=%7Bapp_url%7D&ads.did=%7Bdevice_ifa%7D&ads.ifa_type=%7Bdevice_id_type%7D&ads.dnt=%7Bdnt%7D&ads.device_make=%7Bdevice_make%7D&ads.device_model=%7Bdevice_model%7D&ads.device_type=%7Brtb_device%7D&ads.cust_devicename=%7Bdevice_devicetype%7D&ads.ua=%7Bua%7D&ads.content_id=%7Bvideo_id%7D&ads.content_title=%7Bmedia_title%7D&ads.cust_channeltype=Shows&ads.content_genre=%7Bcontent_genre%7D&ads.content_provider=%7Bcontent_provider%7D&ads.us_privacy=%7Bccpa_us_privacy%7D&lastUpdatedAt=1647554081&user_cookieid=
 
 #EXTINF:-1 tvg-id="localnow_BritBash" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6286dd51d31ae900e14382a2" group-title="LocalNow: Sports",BritBash
-http://nolink.com/playlist.m3u8?53
+https://britbash-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61f2fbb25fa4276bbe357454_britbash-live/m.m3u8
 
 #EXTINF:-1 tvg-id="localnow_FITE 24/7" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62422c2057480e38b201ab54" group-title="LocalNow: Sports",FITE 24/7
-http://nolink.com/playlist.m3u8?54
+https://db0ae21771a14e33882128cc35889015.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_FITE247/playlist.m3u8?ads.wurl_channel=1050&ads.wurl_name=FITE247&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.content_id=62422ae2538d5764aa3b9773&ads.content_title=EPG-FITE_24_7&ads.cust_channeltype=Shows&ads.content_genre=Entertainment&ads.content_provider=fite-247&ads.us_privacy=&lastUpdatedAt=
 
 #EXTINF:-1 tvg-id="localnow_Fuel TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62422f85292a830d6773e1e5" group-title="LocalNow: Sports",Fuel TV
-http://nolink.com/playlist.m3u8?55
+https://4003d115895b4bebad408bacb8e95a7a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_FuelTV/playlist.m3u8?ads.wurl_channel=1126&ads.wurl_name=FuelTV&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.content_id=62422e907db8a41fbb04c6a7&ads.content_title=EPG-Fuel_TV&ads.cust_channeltype=Shows&ads.content_genre=Entertainment&ads.content_provider=fuel-tv&ads.us_privacy=&lastUpdatedAt=
 
 #EXTINF:-1 tvg-id="localnow_Strongman Champions Network" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/624625cd2a47cf0891683573" group-title="LocalNow: Sports",Strongman Champions Network
-http://nolink.com/playlist.m3u8?56
+https://f55973c7fde84bc997efecb5881ae365.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LocalNow_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1102&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.content_id=6246250e9bdc57543f1cfa25&ads.content_title=EPG-Strongmans_Champion_Network&ads.cust_channeltype=Shows&ads.content_genre=Entertainment&ads.content_provider=strongmans-champions-network&ads.us_privacy=&lastUpdatedAt=
 
 #EXTINF:-1 tvg-id="localnow_Sports.TV Top Flix" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6250887ff49cbe311f0c9112" group-title="LocalNow: Sports",Sports.TV Top Flix
-http://nolink.com/playlist.m3u8?57
+https://sportstvtopflicks-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6250870622f32e68a35d6d65_sportstvtopflicks-live-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Sports.TV Docs" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/62508aeb17a4a21c54185406" group-title="LocalNow: Sports",Sports.TV Docs
-http://nolink.com/playlist.m3u8?58
+https://sportstvdocs-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6250895573239876d10303c9_sportstvdocs-live-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_People Are Awesome" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6274043b7744107b933e3238" group-title="LocalNow: Sports",People Are Awesome
-http://nolink.com/playlist.m3u8?59
+https://peopleareawesome-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6274026b7152a0767d4cb783_peopleareawesome-live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="localnow_Pro Wrestling TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/628543c13e6f052071693972" group-title="LocalNow: Sports",Pro Wrestling TV
-http://nolink.com/playlist.m3u8?60
+https://prowrestlingtv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_628541a2a94c645e2831a38c_prowrestlingtv-live-1/master.m3u8?channel=ptv_pw&ads.ac.t=%3D&ads.cb=&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-jai-alai-tv&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F101.0.4951.54%20Safari%2F537.36&ads.channel_id=628541a2a94c645e2831a38c
 
 #EXTINF:-1 tvg-id="localnow_Jai Alai TV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/627c211857ca5102d32ffcb0" group-title="LocalNow: Sports",Jai Alai TV
-http://nolink.com/playlist.m3u8?61
+https://jaialaitv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_627c1ff80ea1674faa6bf26b_jaialaitv-live-1/JAIALAITV_SCTE.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Bazaar of All Nations" tvg-name="TVS Bazaar of All Nations" tvg-logo="https://www.watchyour.tv/epg/channellogos/consumer.png" group-title="WatchYour.TV",TVS Bazaar of All Nations
 https://rpn1.bozztv.com/36bay2/gusa-tvsbazaar/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Boxing Network" tvg-name="TVS Boxing Network" tvg-logo="https://www.watchyour.tv/epg/channellogos/tvs-boxing-network.png" group-title="WatchYour.TV",TVS Boxing Network
@@ -4726,7 +4720,7 @@ https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 channel-id="samsung-USBA43000017Q" tvg-id="USBA43000017Q" tvg-chno="1457" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20220330T044552.png" group-title="️SamsungUS: Movies",MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-chno="1459" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X_20220330T044535.png" group-title="️SamsungUS: Movies",FilmRise Free Movies
-https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_filmrisefreemovies_001.m3u8?ads.caid=FilmRiseFreeMovies&ads.csid=samsungtvplus_us_filmrisefreemovies_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999525&ads.xumo_imdb_genre=Drama&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid=FilmriseAction&ads.csid=samsungtvplus_us_filmriseaction_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999520&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-chno="1461" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USBA300017PK_20220330T044550.png" group-title="️SamsungUS: Movies",Pluto TV Fantastic
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-chno="1463" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/84/USBB3200020ID_20220330T044622.png" group-title="️SamsungUS: Movies",FilmRise Action
@@ -4770,16 +4764,16 @@ https://na.linear.zype.com/e92b7406-d2bb-4c1f-aa46-d5575010d9f0/feeb7c9bb5f8446c
 #EXTINF:-1 channel-id="samsung-USAJ4000011W6" tvg-id="USAJ4000011W6" tvg-chno="1517" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/41/USAJ4000011W6_20220330T044514.png" group-title="️SamsungUS: Music",Vevo Pop
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/c5e1968c592947d79609414b21abf9ff-samsung/live.m3u8?sitesection_id=vevo_linear%3A_samsungtvplus&sitesection_network_id=516283&sitesection_fallback_id=15346233&device_id=%7BPSID%7D&target_option=%7BTARGETOPT%7D&us_privacy=1YNY&app_name=%7BAPP_NAME%7D&app_domain=%7BAPP_DOMAIN%7D
 
-#EXTINF:-1 channel-id="stirr-dco" tvg-id="dco" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4369b546-cf08-44f9-9d88-c382cc13ac2e-large16x9_STIRR_0721_EPG_STIRRCity_1920x1080.png?1625858549205?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR | National
-https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",CHARGE 
-https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-10-28-2021-10-28-2021" tvg-id="externallinearfeed-10-28-2021-10-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1be0cbf7-1ca2-4564-b6dd-3170128b70fb-large16x9_STIRR_Logo_1021_ChickenSoupfortheSoul_1920x1080_EPG.png?1635799698198?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",Chicken Soup For The Soul
 https://dai.google.com/linear/hls/event/2C5P0JGUSj65s8KpeyIDcQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-21-2019-05-21-2019" tvg-id="externallinearfeed-05-21-2019-05-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/605fc5e4-f6a7-4863-b050-ed1e305325dd-large16x9_STIRR_0721_EPG_Comet_1920x1080.png?1625778767251?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-id="externallinearfeed-01-15-2020-201540715-01-15-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/48c80649-8389-4512-8af0-90119f1c4deb-large16x9_STIRR_0721_EPG_Charge_1920x1080.png?1625778767225?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",CHARGE 
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-22-2019-05-22-2019" tvg-id="externallinearfeed-05-22-2019-05-22-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4d6f1832-f55a-4d68-a274-a984e86c7a2f-large16x9_STIRR_0721_EPG_TBD_1920x1080.png?1625778768201?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",TBD
 https://dai.google.com/linear/hls/event/_xtY848OSRCm_k0veSjMHg/master.m3u8
+#EXTINF:-1 channel-id="stirr-dco" tvg-id="dco" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4369b546-cf08-44f9-9d88-c382cc13ac2e-large16x9_STIRR_0721_EPG_STIRRCity_1920x1080.png?1625858549205?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR | National
+https://dai.google.com/linear/hls/event/4aD5IJf0QgKUJwPbq2fngg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-18-2020-05-18-2020" tvg-id="externallinearfeed-05-18-2020-05-18-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5a5fb613-57d3-4c3e-8aaf-50799a508abf-large16x9_STIRR_0721_EPG_Buzzr_1920x1080.png?1625778767348?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Buzzr
 https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-09-27-2021-09-27-2021" tvg-id="externallinearfeed-09-27-2021-09-27-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/124e186c-e14f-4040-b87a-0b1e19fec0c1-large16x9_STIRR_Logo_0921_Nosey_1920x1080_EPG.png?1631648276221?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Nosey
@@ -4788,26 +4782,26 @@ https://dai.google.com/linear/hls/event/UUXi0jbTQpa0OkpheRqKJQ/master.m3u8
 https://dai.google.com/linear/hls/event/V6bPnsRPQ0K6cQr3zxjdbw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-08-2019-03-08-2019" tvg-id="externallinearfeed-03-08-2019-03-08-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/b4cfe7fb-8c1d-4a32-b5b5-cf6a0ce8fe15-large16x9_STIRR_0721_EPG_ShoutFactoryTV_1920x1080.png?1625867516430?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Shout Factory
 https://dai.google.com/linear/hls/event/JX5KKhKKRPqchP3LfXD-1A/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-08-12-2021-08-12-2021" tvg-id="externallinearfeed-08-12-2021-08-12-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f52ffa0c-2b88-4c6b-950a-95e88bf97dc2-large16x9_STIRR_0821_EPG_TheCarolBurnettShow_1920x10801.png?1628765452469?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",The Carol Burnett Show
-https://dai.google.com/linear/hls/event/P2UqOY0CSbCxXP5WHYeg4w/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-10-20-2020-10-20-2020" tvg-id="externallinearfeed-10-20-2020-10-20-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1bdd8beb-2ba5-4687-8cc2-6e05e12f439f-large16x9_STIRR_0721_EPG_JohnnyCarsonTV_1920x1080.png?1625778769867?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Johnny Carson TV
 https://dai.google.com/linear/hls/event/VY5rb91ASh26jkj60tkeNQ/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-08-12-2021-08-12-2021" tvg-id="externallinearfeed-08-12-2021-08-12-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f52ffa0c-2b88-4c6b-950a-95e88bf97dc2-large16x9_STIRR_0821_EPG_TheCarolBurnettShow_1920x10801.png?1628765452469?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",The Carol Burnett Show
+https://dai.google.com/linear/hls/event/P2UqOY0CSbCxXP5WHYeg4w/master.m3u8
 #EXTINF:-1 channel-id="stirr-stirr-classic-tv" tvg-id="stirr-classic-tv" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/16c18b31-36d6-4099-8b05-3d6c487fc7ef-large16x9_STIRR_0821_STIRRClassicTV_1920x1080_EPG.png?1627935979360?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR Classic TV
 https://dai.google.com/linear/hls/event/8JiQCLfVQw6d7uCYt0qDJg/master.m3u8
 #EXTINF:-1 channel-id="stirr-dick-cavett-08-10-2021" tvg-id="dick-cavett-08-10-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5b586227-8b5c-4d66-992e-0322ac69a05d-large16x9_STIRR_0821_DickCavett_1920x1080_EPG.png?1628197293173?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Dick Cavett
 https://dai.google.com/linear/hls/event/-NacIpMDTZ2y1bhkJN96Vg/master.m3u8
-#EXTINF:-1 channel-id="stirr-its-showtime-at-the-apollo" tvg-id="its-showtime-at-the-apollo" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/450bdf96-0e78-4794-8c23-64b54831b9f5-large16x9_STIRR_0721_EPG_ItsShowtimeattheApollo_1920x1080.png?1625778769877?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",It's Showtime at the Apollo
-https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
 #EXTINF:-1 channel-id="stirr-filmrise-classic-tv-09-27-2019" tvg-id="filmrise-classic-tv-09-27-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1ea2dfd0-9c2f-4222-a8cc-ddd1775b9591-large16x9_STIRR_0721_EPG_FilmRiseClassicTV_1920x1080.png?1625908535295?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Filmrise Classic TV
 https://dai.google.com/linear/hls/event/hW5jMh7dTRK1UXW5fTH07A/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-04-27-2020-04-27-2020" tvg-id="externallinearfeed-04-27-2020-04-27-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e459b5cc-36aa-4455-980f-2f702d9f06fa-large16x9_STIRR_0721_EPG_BobRoss_1920x1080.png?1625778766353?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The Bob Ross Channel
 https://dai.google.com/linear/hls/event/3dbJrQmVT_-psb-KBYuKQA/master.m3u8
-#EXTINF:-1 channel-id="stirr-the-tim-conway-show" tvg-id="the-tim-conway-show" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a3e52443-2f72-4097-8ea8-3a325119b67d-large16x9_STIRR_0821_TimConway_1920x1080_EPG.png?1628197293104?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The Tim Conway Show
-https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
 #EXTINF:-1 channel-id="stirr-american-classics-07-18-2019-202011476" tvg-id="american-classics-07-18-2019-202011476" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/b72b9e07-8491-42be-b9a1-43768c8a4980-large16x9_STIRR_0721_EPG_AmericanClassics_1920x1080.png?1625778764763?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",American Classics
 https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 #EXTINF:-1 channel-id="stirr-stirr-movies-wurl-external-10-06-2018" tvg-id="stirr-movies-wurl-external-10-06-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/9f55fa56-5cb6-468b-b6c9-4db4e0937ff0-large16x9_STIRR_0721_EPG_STIRRMovies_1920x1080.png?1625778768283?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR | Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1 channel-id="stirr-the-tim-conway-show" tvg-id="the-tim-conway-show" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a3e52443-2f72-4097-8ea8-3a325119b67d-large16x9_STIRR_0821_TimConway_1920x1080_EPG.png?1628197293104?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The Tim Conway Show
+https://dai.google.com/linear/hls/event/v51OvZmXQOizl-KOgpXw1Q/master.m3u8
+#EXTINF:-1 channel-id="stirr-its-showtime-at-the-apollo" tvg-id="its-showtime-at-the-apollo" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/450bdf96-0e78-4794-8c23-64b54831b9f5-large16x9_STIRR_0721_EPG_ItsShowtimeattheApollo_1920x1080.png?1625778769877?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",It's Showtime at the Apollo
+https://dai.google.com/linear/hls/event/fAFfTnCAT2K8d83sYsA-cw/master.m3u8
 #EXTINF:-1 channel-id="stirr-stirr-horror-movies-09-27-2019" tvg-id="stirr-horror-movies-09-27-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/dbd46ecd-ac8b-4386-86ea-0a94151b41ea-large16x9_STIRR_0721_EPG_STIRRHorror_1920x1080.png?1625778769330?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR Horror Movies
 https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-08-01-2019-08-01-2019" tvg-id="externallinearfeed-08-01-2019-08-01-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/ab900789-9c91-4a8b-9a51-3299877d5e75-large16x9_STIRR_0721_EPG_ComedyDynamics_1920x1080.png?1625778767600?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Comedy Dynamics
@@ -4826,24 +4820,24 @@ https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-id="externallinearfeed-01-13-2020-234138693-01-13-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/88a94aea-825e-4f97-9059-d4dcfc65f0a2-large16x9_STIRR_0721_EPG_MagellanTV_1920x1080.png?1625778769185?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",MagellanTV
 https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-07-18-2019-07-18-2019" tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/6d5f3de3-8364-4a82-aef7-0b216603329b-large16x9_STIRR_0721_EPG_TheFilmDetective_1920x1080.png?1625778767856?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Film Detective
+https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-15-2021-12-15-2021" tvg-id="externallinearfeed-12-15-2021-12-15-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/2cffbaf0-2d4e-4d65-80c3-92940634bc34-large16x9_STIRR_Logo_1221_TheArchive_1920x1080_EPG.png?1639574359915?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",The Archive
 https://dai.google.com/linear/hls/event/MdbYPXWRStmMq1DaQhsBUw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-06-03-2021-06-03-2021" tvg-id="externallinearfeed-06-03-2021-06-03-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/32dfb124-a02b-4557-9909-5beb1e814df1-large16x9_STIRR_0721_EPG_USAToday_1920x1080_1920x1080.png?1625866650393?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",USA Today
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-07-18-2019-07-18-2019" tvg-id="externallinearfeed-07-18-2019-07-18-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/6d5f3de3-8364-4a82-aef7-0b216603329b-large16x9_STIRR_0721_EPG_TheFilmDetective_1920x1080.png?1625778767856?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Film Detective
-https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-01-28-2021-01-28-2021" tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/68555dbe-f110-459a-b25f-f390d86ac735-large16x9_STIRR_0721_EPG_BloombergsQuicktake_1920x1080.png?1625871678230?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Quicktake
-https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-19-2020-12-19-2020" tvg-id="externallinearfeed-12-19-2020-12-19-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/9f3b9697-ccc9-4afc-a396-d9568dc5c95b-large16x9_STIRR_0721_EPG_BloombergTV_1920x1080.png?1625871678290?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Bloomberg TV
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-01-28-2021-01-28-2021" tvg-id="externallinearfeed-01-28-2021-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/68555dbe-f110-459a-b25f-f390d86ac735-large16x9_STIRR_0721_EPG_BloombergsQuicktake_1920x1080.png?1625871678230?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Quicktake
+https://dai.google.com/linear/hls/event/6ANW1HGeSTKzJlnAa9u1AQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-09-14-2021-09-14-2021" tvg-id="externallinearfeed-09-14-2021-09-14-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f9847bb9-d842-47e5-becb-b093ed266c3b-large16x9_STIRR_0721_EPG_FOXSoul_1920x1080.png?1631658047041?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",FOX Soul
 https://dai.google.com/linear/hls/event/XZAqu9DcTciaDqXU1TzBPg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-25-2020-174756630-05-25-2020" tvg-id="externallinearfeed-05-25-2020-174756630-05-25-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/9a6dd2f0-02f7-480e-b011-cffb8176145f-large16x9_STIRR_0721_EPG_TheFirst_1920x1080.png?1625871678441?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The First
 https://dai.google.com/linear/hls/event/nX39-giHRPuKQiVAhua0Kg/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-03-22-2019-03-22-2019" tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/34574881-5741-4c8e-ab8c-28d0d22be86a-large16x9_STIRR_0721_EPG_LawCrime_1920x1080.png?1625871678514?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Law & Crime 
-https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-09-28-2021-09-28-2021" tvg-id="externallinearfeed-09-28-2021-09-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f9245ac4-3c28-4c7f-a42a-265cf1ea122b-large16x9_STIRR_Logo_0921_News12NewYork_1920x1080_EPG1.png?1632857718236?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",News 12 New York
 https://dai.google.com/linear/hls/event/prB2uMbkRSiK1vL3Y_mHCw/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-03-22-2019-03-22-2019" tvg-id="externallinearfeed-03-22-2019-03-22-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/34574881-5741-4c8e-ab8c-28d0d22be86a-large16x9_STIRR_0721_EPG_LawCrime_1920x1080.png?1625871678514?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Law & Crime 
+https://dai.google.com/linear/hls/event/3w3PsYzZQzS8lyRfi7e4mQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-cheddar-wurl-external-10-31-2018" tvg-id="cheddar-wurl-external-10-31-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/819dfdad-4aa7-45d8-84c7-d01a7e6ecf99-large16x9_STIRR_0721_EPG_CheddarNews_1920x1080.png?1625871678424?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Cheddar
 https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
 #EXTINF:-1 channel-id="stirr-nasatv-gracenote-external-01-09-2019" tvg-id="nasatv-gracenote-external-01-09-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/8fd4675f-460e-49aa-a6bc-33f4fefe9365-large16x9_STIRR_0721_EPG_NASA_1920x1080.png?1625871678493?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",NASATV
@@ -4860,14 +4854,14 @@ https://dai.google.com/linear/hls/event/JqUO_upJSQyenPkO1OICcg/master.m3u8
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 channel-id="stirr-the-pet-collective-wurl-external-07-28-2018-025714015" tvg-id="the-pet-collective-wurl-external-07-28-2018-025714015" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/be467290-0e61-4b3f-b89b-bdcf63fa0680-large16x9_STIRR_0721_EPG_PetCollective_1920x1080.png?1625778769492?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The Pet Collective
 https://dai.google.com/linear/hls/event/q0dlRn_xSBGTZYI7vwWWJQ/master.m3u8
-#EXTINF:-1 channel-id="stirr-fail-army-wurl-external-07-28-2018" tvg-id="fail-army-wurl-external-07-28-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/51f5f766-6ecf-4435-8d39-62212d58ffd0-large16x9_STIRR_0721_EPG_FailArmy_1920x1080.png?1625778767255?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",FailArmy
-https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-11-30-2020-224017637-11-30-2020" tvg-id="externallinearfeed-11-30-2020-224017637-11-30-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f0592a48-edcb-4250-8f5c-45144198c696-large16x9_STIRR_0721_EPG_PeopleAreAwesome_1920x1080.png?1625778768640?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",People Are Awesome
 https://dai.google.com/linear/hls/event/n2b4-fFMTTKRWqvx_dxhsw/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-10-28-2020-10-28-2020" tvg-id="externallinearfeed-10-28-2020-10-28-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a0e4b00e-239d-484d-9d86-2ba28295ad94-large16x9_STIRR_0721_EPG_AmericaVsAddiction_1920x1080.png?1625778764901?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",America vs. Addiction
-https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-11-30-2020-11-30-2020" tvg-id="externallinearfeed-11-30-2020-11-30-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/edc83729-f468-454d-a6ed-a774fc218a0b-large16x9_STIRR_0721_EPG_WeatherSpy_1920x1080.png?1625778769035?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",WeatherSpy
 https://dai.google.com/linear/hls/event/vZB78SsNSXWOR63VJrNC2Q/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-10-28-2020-10-28-2020" tvg-id="externallinearfeed-10-28-2020-10-28-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a0e4b00e-239d-484d-9d86-2ba28295ad94-large16x9_STIRR_0721_EPG_AmericaVsAddiction_1920x1080.png?1625778764901?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",America vs. Addiction
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
+#EXTINF:-1 channel-id="stirr-fail-army-wurl-external-07-28-2018" tvg-id="fail-army-wurl-external-07-28-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/51f5f766-6ecf-4435-8d39-62212d58ffd0-large16x9_STIRR_0721_EPG_FailArmy_1920x1080.png?1625778767255?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",FailArmy
+https://dai.google.com/linear/hls/event/7tuuoX1wSsCTaki1HqJFYw/master.m3u8
 #EXTINF:-1 channel-id="stirr-stirr-family" tvg-id="stirr-family" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/152a4f21-0f03-4d21-b72a-76f4c35913d7-large16x9_STIRR_0821_STIRRFamily_1920x1080_EPG.png?1627935979254?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR Family
 https://playoutengine.sinclairstoryline.com/playout/242b1153-0129-484e-8ec8-378edd691537.m3u8
 #EXTINF:-1 channel-id="stirr-stirr-pd" tvg-id="stirr-pd" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/ba560e85-9b04-4fd4-bdca-f02d44b8b905-large16x9_STIRR_0821_STIRRPD_1920x1080_EPG.png?1627935979303?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR P.D.
@@ -4876,70 +4870,70 @@ https://dai.google.com/linear/hls/event/dKG_ZFd_S82FPgNxHmhdJw/master.m3u8
 https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=stirr_testing
 #EXTINF:-1 channel-id="stirr-externallinearfeed-06-25-2020-191519528-06-25-2020" tvg-id="externallinearfeed-06-25-2020-191519528-06-25-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/ef9cf235-7c30-4b3c-813f-833336ee734c-large16x9_STIRR_0721_EPG_DealorNoDeal_1920x1080.png?1625778767938?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Deal or No Deal
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-06-25-2020-213812110-06-25-2020" tvg-id="externallinearfeed-06-25-2020-213812110-06-25-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f4c42287-6080-4f57-8bbc-f226a494fb3a-large16x9_STIRR_0721_EPG_WipeoutXtra_1920x1080.png?1625778768288?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Wipeout Xtra
-https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-06-29-2020-06-29-2020" tvg-id="externallinearfeed-06-29-2020-06-29-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a698b4f4-44d7-4078-bc3d-e42611772e21-large16x9_STIRR_Logo_0322_Dust_1920x1080_EPG.png?1647468111582?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",DUST
 https://dust-stirr.amagi.tv/index.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-06-25-2020-213812110-06-25-2020" tvg-id="externallinearfeed-06-25-2020-213812110-06-25-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/f4c42287-6080-4f57-8bbc-f226a494fb3a-large16x9_STIRR_0721_EPG_WipeoutXtra_1920x1080.png?1625778768288?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Wipeout Xtra
+https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-24-2022-03-24-2022" tvg-id="externallinearfeed-03-24-2022-03-24-2022" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/15e357a7-632c-454c-a21f-8fa58878991b-large16x9_STIRR_Logo_0322_ALTER_1920x1080_EPG2ALTERFINAL.png?1648117751854?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",Alter
 https://dai.google.com/linear/hls/event/m8v8NmeOSAGo1rZqjCpdtA/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-20-2020-03-20-2020" tvg-id="externallinearfeed-03-20-2020-03-20-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/81d5ab63-70d0-4b91-ab96-a7858b7d78ff-large16x9_STIRR_0721_EPG_MysteryScienceTheater3000_1920x1080.png?1625778767844?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Mystery Science Theater 3000
 https://dai.google.com/linear/hls/event/rmBGeSwhQEG64TrT0_JO2A/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e3dc9f24-24d1-439b-a44a-7500e70c66a9-large16x9_STIRR_0721_EPG_MidnightPulp_1920x1080.png?1625778768218?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Midnight Pulp
-https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-01-28-2021-210659535-01-28-2021" tvg-id="externallinearfeed-01-28-2021-210659535-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/947c21dd-ce6d-445e-b9b6-f6fab3e328b0-large16x9_STIRR_0721_EPG_CONtv_1920x1080.png?1625778766516?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",CONtv
 https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-07-01-2020-07-01-2020" tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/c1f1ab2e-3556-474a-bbf9-8717d224f3f5-large16x9_STIRR_0721_EPG_Retrocrush_1920x1080.png?1625778768083?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",RetroCrush
-https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-id="externallinearfeed-06-26-2020-193305392-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e3dc9f24-24d1-439b-a44a-7500e70c66a9-large16x9_STIRR_0721_EPG_MidnightPulp_1920x1080.png?1625778768218?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Midnight Pulp
+https://dai.google.com/linear/hls/event/1fO2zbpBRyy6S5yve_fnaw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-03-13-2020-03-13-2020" tvg-id="externallinearfeed-03-13-2020-03-13-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/aca38644-33c9-44be-8410-ea5bd9dea7c7-large16x9_STIRR_0721_EPG_LiveXLive_1920x1080.png?1625778768438?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",LiveXLive
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-02-04-2020-02-04-2020" tvg-id="externallinearfeed-02-04-2020-02-04-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/8db5f417-bafa-4df8-9ee7-61eb1093f62b-large16x9_STIRR_0721_EPG_Revry_1920x1080.png?1625778767966?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Revry
-https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-07-01-2020-07-01-2020" tvg-id="externallinearfeed-07-01-2020-07-01-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/c1f1ab2e-3556-474a-bbf9-8717d224f3f5-large16x9_STIRR_0721_EPG_Retrocrush_1920x1080.png?1625778768083?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",RetroCrush
+https://dai.google.com/linear/hls/event/7LAMGFcmQN6iFJjNoHWXrg/master.m3u8
 #EXTINF:-1 channel-id="stirr-space-1999-11-21-2019" tvg-id="space-1999-11-21-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/44c23faf-62d0-4c5b-8f1d-0e15dcd219be-large16x9_STIRR_0721_EPG_Space1999_1920x1080.png?1625778768020?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Space 1999
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-02-04-2020-02-04-2020" tvg-id="externallinearfeed-02-04-2020-02-04-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/8db5f417-bafa-4df8-9ee7-61eb1093f62b-large16x9_STIRR_0721_EPG_Revry_1920x1080.png?1625778767966?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Revry
+https://linear-5.frequency.stream/dist/stirr/5/hls/master/playlist.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-09-26-2019-09-26-2019" tvg-id="externallinearfeed-09-26-2019-09-26-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1dc8ed79-89b1-4fac-934f-c21844fed370-large16x9_STIRR_0721_EPG_PeopleTV_1920x1080.png?1625778766954?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",People TV
 https://dai.google.com/linear/hls/event/Fe9LYYCFR5Csif-I5dyMHg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-id="externallinearfeed-01-28-2021-184530260-01-28-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/8a4aeb1a-48f6-42f4-89b2-99cddfdc2068-large16x9_STIRR_0721_EPG_DoveChannel_1920x1080.png?1625778769137?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Dove
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-06-26-2020-193146397-06-26-2020" tvg-id="externallinearfeed-06-26-2020-193146397-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/54318633-b7a6-4343-9e5a-6d8a028cefc2-large16x9_STIRR_0721_EPG_EVRGRN_1920x1080.png?1625778768506?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",EVRGRN
-https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-07-20-2021-07-20-2021" tvg-id="externallinearfeed-07-20-2021-07-20-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/80649ccc-b800-4e1a-894f-ef9d1bdadc05-large16x9_TCNStirr_EPG.png?1626911261621?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",The Country Network
 https://dai.google.com/linear/hls/event/3EEsfZhASryigfuSpHdfKg/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-02-13-2020-02-13-2020" tvg-id="externallinearfeed-02-13-2020-02-13-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/51747549-6231-4e02-833a-bc738324a328-large16x9_STIRR_0721_EPG_PopStarTV_1920x1080.png?1626458019698?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Popstar! TV
-https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-06-26-2020-193146397-06-26-2020" tvg-id="externallinearfeed-06-26-2020-193146397-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/54318633-b7a6-4343-9e5a-6d8a028cefc2-large16x9_STIRR_0721_EPG_EVRGRN_1920x1080.png?1625778768506?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",EVRGRN
+https://dai.google.com/linear/hls/event/TDUiZE57Q3-CS7Its4kLDQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-stirr-westerns" tvg-id="stirr-westerns" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/477d258e-b0e4-4f32-adc1-b563a89bc6ca-large16x9_STIRR_0721_EPG_STIRRWesterns_1920x1080.png?1625778769467?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",STIRR Westerns
 https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4ffa88d4-88e0-439d-9932-4d86fcdd2b77-large16x9_STIRR_0721_EPG_Naturescape_1920x1080.png?1625778767989?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Ambiance
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-07-30-2020-07-30-2020" tvg-id="externallinearfeed-07-30-2020-07-30-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/ed3ca362-6a8a-44c3-ac58-a48c36fd8d57-large16x9_STIRR_0721_EPG_BspokeTV_1920x1080.png?1625778765606?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",BspokeTV
-https://dai.google.com/linear/hls/event/f3uG6WJHTFi7wnsaH59Stg/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-02-13-2020-02-13-2020" tvg-id="externallinearfeed-02-13-2020-02-13-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/51747549-6231-4e02-833a-bc738324a328-large16x9_STIRR_0721_EPG_PopStarTV_1920x1080.png?1626458019698?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Popstar! TV
+https://dai.google.com/linear/hls/event/cJFuxTLzQUqbGGrqTMBJuw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-09-12-2019-09-12-2019" tvg-id="externallinearfeed-09-12-2019-09-12-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/08f7045d-c71f-4a16-a358-92e6c09cf9ea-large16x9_STIRR_0721_EPG_GlewedTV_1920x1080.png?1625778768029?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Glewed TV
 https://dai.google.com/linear/hls/event/ChWV1GupQOWE92uG4DvbkQ/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-10-29-2021-10-29-2021" tvg-id="externallinearfeed-10-29-2021-10-29-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/36570b37-419a-478a-9d29-7f1471d3ad09-large16x9_AccuWeather.png?1635537563067?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",AccuWeather
-https://dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-07-30-2020-07-30-2020" tvg-id="externallinearfeed-07-30-2020-07-30-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/ed3ca362-6a8a-44c3-ac58-a48c36fd8d57-large16x9_STIRR_0721_EPG_BspokeTV_1920x1080.png?1625778765606?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",BspokeTV
+https://dai.google.com/linear/hls/event/f3uG6WJHTFi7wnsaH59Stg/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-id="externallinearfeed-11-06-2019-184659187-11-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4ffa88d4-88e0-439d-9932-4d86fcdd2b77-large16x9_STIRR_0721_EPG_Naturescape_1920x1080.png?1625778767989?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Ambiance
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-26-2020-05-26-2020" tvg-id="externallinearfeed-05-26-2020-05-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/3efa93d6-7a6a-44c6-865e-130a71cda317-large16x9_STIRR_0721_EPG_QVC_1920x1080.png?1625778769143?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",QVC
 https://dai.google.com/linear/hls/event/roEbn_l7Tzezwy22F1NSfA/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-id="externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/9ab3061f-b149-4ae9-8884-e503b74f58b7-large16x9_STIRR_0721_EPG_BigLife_1920x1080.png?1626458019494?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Big Life 
+https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-10-29-2021-10-29-2021" tvg-id="externallinearfeed-10-29-2021-10-29-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/36570b37-419a-478a-9d29-7f1471d3ad09-large16x9_AccuWeather.png?1635537563067?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",AccuWeather
+https://dai.google.com/linear/hls/event/HD_ys6igSayIiNXKl9nTrQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-08-27-2021-08-27-2021" tvg-id="externallinearfeed-08-27-2021-08-27-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/fe0ffa19-5915-42f7-9de0-69d9a2eadab0-large16x9_STIRR_Logo_0821_ONTV4U_1920x1080_EPG.png?1630107817575?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",ONTV4U
 https://dai.google.com/linear/hls/event/571lW-W1Th6Go5EV3Qa19Q/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-06-26-2020-185414162-06-26-2020" tvg-id="externallinearfeed-06-26-2020-185414162-06-26-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e8b96e1a-be6a-44b3-928b-bdf95f30d77a-large16x9_STIRR_0721_EPG_HSN_1920x1080.png?1625778767904?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",HSN
 https://dai.google.com/linear/hls/event/akursTHNTo6qGf1TtlHNsw/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-09-16-2021-09-16-2021" tvg-id="externallinearfeed-09-16-2021-09-16-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/d11a94fb-3ea2-414a-8cdb-333ca43cbab0-large16x9_STIRR_Logo_0921_ShopLC_1920x1080_EPG.png?1631794668088?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",Shop LC
 https://dai.google.com/linear/hls/event/9WYzyYxrRvafiVxUGKV2OA/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-id="externallinearfeed-03-06-2019-235515534-03-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/9ab3061f-b149-4ae9-8884-e503b74f58b7-large16x9_STIRR_0721_EPG_BigLife_1920x1080.png?1626458019494?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Big Life 
-https://dai.google.com/linear/hls/event/qnfB93O0RVGrVBYwNjk8Zw/master.m3u8
 #EXTINF:-1 channel-id="stirr-soar-11-20-2019-200325249" tvg-id="soar-11-20-2019-200325249" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5beb961c-bed5-4178-a15b-a4c4329760ef-large16x9_STIRR_0721_EPG_SoarTV_1920x1080.png?1625778768093?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",SOAR
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 #EXTINF:-1 channel-id="stirr-stadium" tvg-id="stadium" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/52d98c60-8eaa-4a8c-83e7-979be8489efb-large16x9_STIRR_0721_EPG_Stadium_1920x1080.png?1625778768845?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stadium 
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-09-02-2021-09-02-2021" tvg-id="externallinearfeed-09-02-2021-09-02-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a92044b2-7b13-40c7-8d7d-a52921ed006f-large16x9_STIRR_Logo_0921_beINSportsXtra_1920x1080_EPG.png?1630540122666?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",beIN Sports Xtra
-https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-#EXTINF:-1 channel-id="stirr-free-07-26-2018" tvg-id="free-07-26-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5061106a-02fd-48e0-a5e4-2bf0070ed125-large16x9_STIRR_0721_EPG_TheT_1920x1080.png?1625778768170?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The T
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/2f0abfb6-0a02-4c75-adc4-62b437f2330d-large16x9_STIRR_0721_EPG_ACCDigitalNetwork_1920x1080.png?1625778764807?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",ACCDN
-https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-07-10-2021-07-10-2021" tvg-id="externallinearfeed-07-10-2021-07-10-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/b20b4a70-4d28-4777-8a41-5253f3a3963b-large16x9_STIRR_0721_EPG_Sportswire_1920x1080.png?1625778769306?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Sportswire
 https://dai.google.com/linear/hls/event/8R__yZf7SR6yMb-oTXgbEQ/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-id="externallinearfeed-10-28-2020-232939597-10-28-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/2f0abfb6-0a02-4c75-adc4-62b437f2330d-large16x9_STIRR_0721_EPG_ACCDigitalNetwork_1920x1080.png?1625778764807?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",ACCDN
+https://dai.google.com/linear/hls/event/2vLw_L-5RoOIGNDRpMFgQQ/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-09-02-2021-09-02-2021" tvg-id="externallinearfeed-09-02-2021-09-02-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/a92044b2-7b13-40c7-8d7d-a52921ed006f-large16x9_STIRR_Logo_0921_beINSportsXtra_1920x1080_EPG.png?1630540122666?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR",beIN Sports Xtra
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-id="externallinearfeed-11-06-2019-182505306-11-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5939216b-3d66-4965-9d86-5c63fe87cd7f-large16x9_STIRR_0721_EPG_SportsGrid_1920x1080.png?1625778767036?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",SportsGrid
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+#EXTINF:-1 channel-id="stirr-free-07-26-2018" tvg-id="free-07-26-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5061106a-02fd-48e0-a5e4-2bf0070ed125-large16x9_STIRR_0721_EPG_TheT_1920x1080.png?1625778768170?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",The T
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-04-23-2020-04-23-2020" tvg-id="externallinearfeed-04-23-2020-04-23-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/0cba1f7e-d48c-49bf-9b95-77b015672062-large16x9_STIRR_Logo_0122_WPT_1920x1080_EPG.png?1643389297698?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",World Poker Tour
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-195208364-12-04-2019" tvg-id="externallinearfeed-12-04-2019-195208364-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4b1328f1-3a9d-423a-b539-c7871b6f19a9-large16x9_STIRR_0721_EPG_WhistleTV_1920x1080.png?1625778767723?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Whistle TV
@@ -4948,22 +4942,22 @@ https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 https://dai.google.com/linear/hls/event/KQw4tzC3Sf6n9rV_MuJbjg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-04-21-2020-213519853-04-21-2020" tvg-id="externallinearfeed-04-21-2020-213519853-04-21-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/5086119a-3424-4a9d-afc9-07cdcd962d4b-large16x9_STIRR_0721_EPG_MavTV_1920x1080.png?1625778769447?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",MavTv
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
+#EXTINF:-1 channel-id="stirr-outdoor-america-wurl-external-12-21-2018" tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7ab65545-5400-4f5e-b1eb-2258eebc0486-large16x9_STIRR_0721_EPG_OutdoorAmerica_1920x1080.png?1625778769484?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Outdoor America
+https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-05-30-2019-05-30-2019" tvg-id="externallinearfeed-05-30-2019-05-30-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/b7f2d08e-6fa5-4d42-8d22-7aefad474886-large16x9_STIRR_0721_EPG_OutsideTV_1920x1080.png?1625856135175?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Outside TV
+https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-04-16-2020-04-16-2020" tvg-id="externallinearfeed-04-16-2020-04-16-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1583e4c7-51fc-43f3-ad4e-46f59bb9d68b-large16x9_STIRR_0721_EPG_Waypoint_1920x1080.png?1625778768980?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Waypoint
 https://dai.google.com/linear/hls/event/im0MqOKRTHy9nVa1sirQSg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-id="externallinearfeed-07-01-2020-225307685-07-01-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/d5a1cc64-9505-4d80-a73c-53a17ff51d90-large16x9_STIRR_0721_EPG_Pursuit_1920x1080.png?1625778769222?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",PursuitUp
 https://dai.google.com/linear/hls/event/NpkpFaFVRqaQwSkpPdramg/master.m3u8
-#EXTINF:-1 channel-id="stirr-outdoor-america-wurl-external-12-21-2018" tvg-id="outdoor-america-wurl-external-12-21-2018" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/7ab65545-5400-4f5e-b1eb-2258eebc0486-large16x9_STIRR_0721_EPG_OutdoorAmerica_1920x1080.png?1625778769484?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Outdoor America
-https://dai.google.com/linear/hls/event/WB-7LjdsRVm0wVoLZjR8mA/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-11-06-2019-11-06-2019" tvg-id="externallinearfeed-11-06-2019-11-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e6870e9b-2381-4d93-9e82-eae182774da6-large16x9_STIRR_0721_EPG_InsightTV_1920x1080.png?1625778768035?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Insight TV
-https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-06-24-2021-06-24-2021" tvg-id="externallinearfeed-06-24-2021-06-24-2021" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/2003d52b-a728-43ff-a0ef-dbc980cbef44-large16x9_STIRR_0721_EPG_Unbeaten_1920x1080.png?1625778768585?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Unbeaten
 https://dai.google.com/linear/hls/event/QjDVfzVNRba77CS-LcVTmg/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-05-30-2019-05-30-2019" tvg-id="externallinearfeed-05-30-2019-05-30-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/b7f2d08e-6fa5-4d42-8d22-7aefad474886-large16x9_STIRR_0721_EPG_OutsideTV_1920x1080.png?1625856135175?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Outside TV
-https://dai.google.com/linear/hls/event/HJAq3zH1SUy_B6fb1j80_Q/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-12-06-2019-12-06-2019" tvg-id="externallinearfeed-12-06-2019-12-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4aa30134-ce80-4bbf-8237-1b2baef4afd7-large16x9_STIRR_0721_EPG_StingrayHitList_1920x1080.png?1625778769339?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Hit List
-https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-11-06-2019-11-06-2019" tvg-id="externallinearfeed-11-06-2019-11-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/e6870e9b-2381-4d93-9e82-eae182774da6-large16x9_STIRR_0721_EPG_InsightTV_1920x1080.png?1625778768035?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Insight TV
+https://dai.google.com/linear/hls/event/KAfBFcVrQgKmHhpzvkEn9A/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-173904669-12-04-2019" tvg-id="externallinearfeed-12-04-2019-173904669-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/929100ed-4d94-4457-8f06-49dc03ea0b3a-large16x9_STIRR_0721_EPG_StingrayGreatestHolidayHits_1920x1080.png?1625778768726?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Greatest Hits
 https://dai.google.com/linear/hls/event/_2NUNA_qTSyd70FTD_lqyw/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-12-06-2019-12-06-2019" tvg-id="externallinearfeed-12-06-2019-12-06-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/4aa30134-ce80-4bbf-8237-1b2baef4afd7-large16x9_STIRR_0721_EPG_StingrayHitList_1920x1080.png?1625778769339?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Hit List
+https://dai.google.com/linear/hls/event/Hz2x5xc5TSaJ4NzV-AUcEg/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-id="externallinearfeed-12-04-2019-192438503-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/60923a0a-414b-4635-968d-4d8be76f6f50-large16x9_STIRR_0721_EPG_StingrayClassicRock_1920x1080.png?1625778767623?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Classic Rock
 https://dai.google.com/linear/hls/event/vlqVJJSkQKW6IB7bQSGZ5A/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-id="externallinearfeed-12-04-2019-190935337-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/066abb90-0cc1-43e8-9c62-e8064b215a9e-large16x9_STIRR_0721_EPG_StingrayRockAlternative_1920x1080.png?1625778768910?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Rock Alternative
@@ -4972,18 +4966,18 @@ https://dai.google.com/linear/hls/event/k446WemXQgSbP0IsuZrM7w/master.m3u8
 https://dai.google.com/linear/hls/event/rJ3187-VT6GIl-XUZTbX6w/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-id="externallinearfeed-12-04-2019-175616790-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/341125c5-449e-4073-a0e4-363d71621381-large16x9_STIRR_0721_EPG_StingrayUrbanBeats_1920x1080.png?1625778769081?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Urban Beats
 https://dai.google.com/linear/hls/event/tNflj2YMTfCWowqDM1Ej6A/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-id="externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/073769f0-260b-4951-925b-0074ff4469e7-large16x9_STIRR_0721_EPG_StingrayQello_1920x1080.png?1625778769189?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Qello
-https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
-#EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-large16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Flashback 70s
-https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-id="externallinearfeed-12-04-2019-185914490-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/16d2600d-49bc-405f-8866-7fbb2c88b788-large16x9_STIRR_0721_EPG_StingrayHotCountry_1920x1080.png?1625778767500?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Hot Country
 https://dai.google.com/linear/hls/event/SgCez41rR36rmiw8Odu8FA/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-id="externallinearfeed-12-04-2019-185615218-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/1e10006e-3cb9-4686-88ca-8bd03c32af06-large16x9_STIRR_0721_EPG_StingrayFlashback70s_1920x1080.png?1625778767220?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Flashback 70s
+https://dai.google.com/linear/hls/event/Y3O1azbASfKxO4gdleMbmQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-id="externallinearfeed-12-04-2019-184749725-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/c3b3a7cb-b27b-4879-97ca-00afa9ea1c7a-large16x9_STIRR_0721_EPG_StingrayRemember80s_1920x1080.png?1625778768861?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Everything 80s
 https://dai.google.com/linear/hls/event/XiPZx9vFS8i6lgkNnprjtQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-12-04-2019" tvg-id="externallinearfeed-12-04-2019-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/20829d5d-c438-4307-b6d4-5b728eda4d52-large16x9_STIRR_0721_EPG_StingrayTodaysLatinPop_1920x1080.png?1625857051321?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Stingray Today's Latin Pop
 https://dai.google.com/linear/hls/event/M-6M5FGMRUegPLdsgkF7KA/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-12-11-2019-12-11-2019" tvg-id="externallinearfeed-12-11-2019-12-11-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/85c97778-93cf-470f-89cd-044fc0be979c-large16x9_STIRR_0721_EPG_StingrayKaraoke_1920x1080.png?1625778768019?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Karaoke
 https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+#EXTINF:-1 channel-id="stirr-externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-id="externallinearfeed-12-04-2019-193009840-12-04-2019" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/073769f0-260b-4951-925b-0074ff4469e7-large16x9_STIRR_0721_EPG_StingrayQello_1920x1080.png?1625778769189?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Qello
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-05-25-2020-05-25-2020" tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/af55e317-30ff-4d8d-bcfb-a66f3b68288b-large16x9_STIRR_0721_EPG_StingrayClassica_1920x1080.png?1625778768091?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",Classica
 https://dai.google.com/linear/hls/event/AaFxJXOhQl-BsTVC9OCunQ/master.m3u8
 #EXTINF:-1 channel-id="stirr-externallinearfeed-10-06-2020-10-06-2020" tvg-id="externallinearfeed-10-06-2020-10-06-2020" tvg-logo="https://3gz8cg829c.execute-api.us-west-2.amazonaws.com/prod/image-renderer/16x9/full/600/center/90/6e42e1df-81d8-4c18-85bb-1bf67091ff0f-large16x9_STIRR_0721_EPG_StingrayDJazz_1920x1080.png?1625778767559?cb=c4ca4238a0b923820dcc509a6f75849b" group-title="STIRR",DJAZZ
