@@ -5279,3 +5279,5 @@ https://buzzrota-web.amagi.tv/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="BingeTV" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/92183/bingetv.png" group-title="🇺🇸 Webstreams",BingeTV
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Dabl" tvg-logo="https://tvtv.us/gn/i/assets/s112157_ll_h9_aa.png" group-title="🇺🇸 Webstreams",Dabl
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
