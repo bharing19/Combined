@@ -5283,5 +5283,25 @@ https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
 #EXTINF:-1 tvg-id="RogersTV_Woodstock" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇨🇦 Locals",RogersTV Woodstock Region ON Cable 13
 https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="KnowledgeNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/390px-Knowledge_Network_2012.svg.png" group-title="🇨🇦 Webstreams",Knowledge Network
+#EXTINF:-1 tvg-id="KnowledgeNetwork" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/knowledge-network-icon-ca.png" group-title="🇨🇦 Webstreams",Knowledge Network
 https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-id="NTVPlus" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV St John's Harbour NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1330900-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Quidi Vidi Lake St John's NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1288230-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Downtown St John's NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1336964-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Pub Cam George Street St John's NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1336960-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Corner Brook NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1288232-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Grand Falls-Windsor NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1330902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Quidi Vidi Gut St John's NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1529822-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV St. Philips NL
+https://2-fss-2.streamhoster.com/pl_126/201748-1298538-1/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Logy Bay Road St John's NL
+https://2-fss-2.streamhoster.com/pl_126/201748-2266290-1/playlist.m3u8
