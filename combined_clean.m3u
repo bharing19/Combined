@@ -5274,3 +5274,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
 https://buzzrota-web.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_275/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="US Webstreams",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="BingeTV" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/92183/bingetv.png" group-title="US Webstreams",BingeTV
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
