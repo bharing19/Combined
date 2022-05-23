@@ -5169,6 +5169,20 @@ https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
 #EXTINF:-1 tvg-id="TV25_JTV" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/114802/s16604_h3_aa.png" group-title="US Locals - TV25",JTV 25.12
 https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
+#EXTINF:-1 tvg-id="ParanormalTV" tvg-logo="https://images.squarespace-cdn.com/content/v1/61cc70892e2bca2f4e1b9b5c/3b586b20-1413-4f7b-bc9d-b02350e03f1a/Paranormal-TV-Nav-Bar-Logo.png" group-title="US Webstreams",Paranormal TV
+https://2-fss-2.streamhoster.com/pl_138/205518-2101216-1/playlist.m3u8 
+#EXTINF:-1 tvg-id="PodTV_ProWrestlingLive" tvg-logo="https://prowrestlingtv.live/wp-content/uploads/2022/03/PWTV-Logo-3-1024x715.png" group-title="US Webstreams",Pro Wrestling TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
+#EXTINF:-1 tvg-id="IMDB_Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/263px-Buzzr_logo.svg.png" group-title="US Webstreams",BUZZR (Geo-US)
+https://buzzrota-web.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_275/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="US Webstreams",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="BingeTV" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/92183/bingetv.png" group-title="US Webstreams",BingeTV
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Dabl" tvg-logo="https://tvtv.us/gn/i/assets/s112157_ll_h9_aa.png" group-title="US Webstreams",Dabl
+https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
+
+
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CBC_Calgary" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Calgary AB
@@ -5269,15 +5283,5 @@ https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m25_card1/playlist.m3u8
 https://livedrm-i.akamaihd.net/hls/live/1021686/rtv/m19_card4/playlist.m3u8
 #EXTINF:-1 tvg-id="RogersTV_Woodstock" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/rogers.png" group-title="🇦 Locals",RogersTV Woodstock Region ON Cable 13
 https://5e7c60955a878.streamlock.net/rtv_live/m20_card2/playlist.m3u8
-#EXTINF:-1 tvg-id="ParanormalTV" tvg-logo="https://images.squarespace-cdn.com/content/v1/61cc70892e2bca2f4e1b9b5c/3b586b20-1413-4f7b-bc9d-b02350e03f1a/Paranormal-TV-Nav-Bar-Logo.png" group-title="US Webstreams",Paranormal TV
-https://2-fss-2.streamhoster.com/pl_138/205518-2101216-1/playlist.m3u8 
-#EXTINF:-1 tvg-id="PodTV_ProWrestlingLive" tvg-logo="https://prowrestlingtv.live/wp-content/uploads/2022/03/PWTV-Logo-3-1024x715.png" group-title="US Webstreams",Pro Wrestling TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2527
-#EXTINF:-1 tvg-id="IMDB_Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/263px-Buzzr_logo.svg.png" group-title="US Webstreams",BUZZR (Geo-US)
-https://buzzrota-web.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedBullTV" tvg-logo="https://img.redbull.com/images/w_275/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv" group-title="US Webstreams",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="BingeTV" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/92183/bingetv.png" group-title="US Webstreams",BingeTV
-https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Dabl" tvg-logo="https://tvtv.us/gn/i/assets/s112157_ll_h9_aa.png" group-title="US Webstreams",Dabl
-https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
+#EXTINF:-1 tvg-id="KnowledgeNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Knowledge_Network_2012.svg/390px-Knowledge_Network_2012.svg.png" group-title="🇦 Webstreams",Knowledge Network
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
