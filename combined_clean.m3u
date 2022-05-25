@@ -451,82 +451,82 @@ https://localnowsyracuse-live.localnowlive.com/v1/master/385c85a93929f94966d0fb1
 #EXTINF:-1 tvg-id="localnow_localwashingtonpark" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61ba36d439c2b075a07d6132" group-title="LocalNow: Local",Local Now Washington Park
 https://localnowwashingtonpark-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61ba338a5806832f845aa582_localnowwashingtonpark-live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_localnow_KSHB (NBC) News 41 Kansas City, MO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b684904fcc8c629d172d36" tvg-name="KSHB (NBC) News 41 Kansas City, MO" group-title="LocalNow: Local",KSHB (NBC) News 41 Kansas City MO
+#EXTINF:-1 tvg-id="localnow_localnow_KSHB (NBC) News 41 Kansas City MO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60b684904fcc8c629d172d36" group-title="LocalNow: Local",KSHB (NBC) News 41 Kansas City MO
 https://kshb-syndication.ewscloud.com/out/v1/4368cbfbec0541f8b78f762adbb6fccd/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KSTU (FOX) News 13 Salt Lake City, UT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a4214d9496824f24028664" group-title="LocalNow: Local",KSTU (FOX) News 13 Salt Lake City UT
+#EXTINF:-1 tvg-id="localnow_KSTU (FOX) News 13 Salt Lake City UT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a4214d9496824f24028664" group-title="LocalNow: Local",KSTU (FOX) News 13 Salt Lake City UT
 https://kstu-syndication.ewscloud.com/out/v1/976723f64a494176bce4131e668621aa/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KNXV (ABC) News 15 Phoenix, AZ" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60998f54c3f1d1019654fe72" tvg-name="KNXV (ABC) News 15 Phoenix, AZ" group-title="LocalNow: Local",KNXV (ABC) News 15 Phoenix AZ
+#EXTINF:-1 tvg-id="localnow_KNXV (ABC) News 15 Phoenix AZ" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60998f54c3f1d1019654fe72" group-title="LocalNow: Local",KNXV (ABC) News 15 Phoenix AZ
 https://knxv-syndication.ewscloud.com/out/v1/734c17b72dea4f6795efa601bbcfc82d/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WFTV (ABC) News 9 Orlando, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61201356c2b097359609d2c2" tvg-name="WFTV (ABC) News 9 Orlando, FL" group-title="LocalNow: Local",WFTV (ABC) News 9 Orlando FL
+#EXTINF:-1 tvg-id="localnow_WFTV (ABC) News 9 Orlando FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61201356c2b097359609d2c2" group-title="LocalNow: Local",WFTV (ABC) News 9 Orlando FL
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wjaxtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KNDU (NBC) News 25 Richland, WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6156451b3243602122285a12" tvg-name="KNDU (NBC) News 25 Richland, WA" group-title="LocalNow: Local",KNDU (NBC) News 25 Richland WA
+#EXTINF:-1 tvg-id="localnow_KNDU (NBC) News 25 Richland WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6156451b3243602122285a12" group-title="LocalNow: Local",KNDU (NBC) News 25 Richland WA
 https://kndu-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9a3541653bb5d8d5dbb96_kndu-live-1/3c6b4680-696b-41b6-aa02-8f06747874bb/0.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KMGH (ABC) News 7 Denver, CO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ac1c2fac0d4b0b9306bb14" tvg-name="KMGH (ABC) News 7 Denver, CO" group-title="LocalNow: Local",KMGH (ABC) News 7 Denver CO
+#EXTINF:-1 tvg-id="localnow_KMGH (ABC) News 7 Denver CO" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60ac1c2fac0d4b0b9306bb14" group-title="LocalNow: Local",KMGH (ABC) News 7 Denver CO
 https://kmgh-syndication.ewscloud.com/out/v1/54afa525bb6b4f708c89d5ad1c77b77e/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KWYB (ABC) News 18 Butte, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8c0b7dab69487879c6f3" tvg-name="KWYB (ABC) News 18 Butte, MT" group-title="LocalNow: Local",KWYB (ABC) News 18 Butte MT
+#EXTINF:-1 tvg-id="localnow_KWYB (ABC) News 18 Butte MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8c0b7dab69487879c6f3" group-title="LocalNow: Local",KWYB (ABC) News 18 Butte MT
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow
 
-#EXTINF:-1 tvg-id="localnow_WSOC (ABC) News 9 Charlotte, NC" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015d9763d7a427b16ef7a" tvg-name="WSOC (ABC) News 9 Charlotte, NC" group-title="LocalNow: Local",WSOC (ABC) News 9 Charlotte NC
+#EXTINF:-1 tvg-id="localnow_WSOC (ABC) News 9 Charlotte NC" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015d9763d7a427b16ef7a" tvg-name="WSOC (ABC) News 9 Charlotte, NC" group-title="LocalNow: Local",WSOC (ABC) News 9 Charlotte NC
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsoctv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KTMF (ABC) News 23 Missoula, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/614ba9d77e5bcd3829214332" group-title="LocalNow: Local",KTMF (ABC) News 23 Missoula MT
+#EXTINF:-1 tvg-id="localnow_KTMF (ABC) News 23 Missoula MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/614ba9d77e5bcd3829214332" group-title="LocalNow: Local",KTMF (ABC) News 23 Missoula MT
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow
 
-#EXTINF:-1 tvg-id="localnow_News 12, New York" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" tvg-name="News 12, New York" group-title="LocalNow: Local",News 12 New York
+#EXTINF:-1 tvg-id="localnow_News 12 New York" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f9c57ad92cd1774a1091752" group-title="LocalNow: Local",News 12 New York
 https://livestream.chdrstatic.com/2272f9cc29d3f9e812a3b4cacbd767bf69c95a59434c3f482606a67962a0dd5e/localnow/n12nyLocalNow/news12newyork/primary/index.m3u8
 
 #EXTINF:-1 tvg-id="localnow_ABC 10 News San Diego KGTV" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609317c2fab766667a2221b2" tvg-name="ABC 10 News San Diego KGTV"  group-title="LocalNow: Local",ABC 10 News San Diego KGTV
 https://kgtv-syndication.ewscloud.com/out/v1/9916f5222ae74e398263d277684b161c/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KOKI (FOX) News 23 Tulsa, OK" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6c46dfa92505a4b1413a2" tvg-name="KOKI (FOX) News 23 Tulsa, OK" group-title="LocalNow: Local",KOKI (FOX) News 23 Tulsa OK
+#EXTINF:-1 tvg-id="localnow_KOKI (FOX) News 23 Tulsa OK" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6c46dfa92505a4b1413a2" group-title="LocalNow: Local",KOKI (FOX) News 23 Tulsa OK
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kokitv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WFXT (FOX) News 25 Boston, MA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6125408d04b7eb3ef45e0917" tvg-name="WFXT (FOX) News 25 Boston, MA" group-title="LocalNow: Local",WFXT (FOX) News 25 Boston MA 
+#EXTINF:-1 tvg-id="localnow_WFXT (FOX) News 25 Boston MA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6125408d04b7eb3ef45e0917" group-title="LocalNow: Local",WFXT (FOX) News 25 Boston MA 
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftxtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WPTV (NBC) News 5 West Palm Beach, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609991c3a38cf459ad06e384" tvg-name="WPTV (NBC) News 5 West Palm Beach, FL" group-title="LocalNow: Local",WPTV (NBC) News 5 West Palm Beach FL
+#EXTINF:-1 tvg-id="localnow_WPTV (NBC) News 5 West Palm Beach FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/609991c3a38cf459ad06e384" group-title="LocalNow: Local",WPTV (NBC) News 5 West Palm Beach FL
 https://wptv-syndication.ewscloud.com/out/v1/0619fb38917e4d868b3ef71ab02d826b/index.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KHQ (NBC) News 6 Spokane, WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f8e8ae19ce20303a7019" tvg-name="KHQ (NBC) News 6 Spokane, WA" group-title="LocalNow: Local",KHQ (NBC) News 6 Spokane WA
+#EXTINF:-1 tvg-id="localnow_KHQ (NBC) News 6 Spokane WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f8e8ae19ce20303a7019" group-title="LocalNow: Local",KHQ (NBC) News 6 Spokane WA
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow
 
-#EXTINF:-1 tvg-id="localnow_Plymouth Rock TV, The Best of New England" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e9a0b9efbbf1df63f4065" group-title="LocalNow: Local",Plymouth Rock TV The Best of New England
+#EXTINF:-1 tvg-id="localnow_Plymouth Rock TV The Best of New England" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/619e9a0b9efbbf1df63f4065" group-title="LocalNow: Local",Plymouth Rock TV The Best of New England
 https://plymouthrocktv-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_619d4e09cdaf6e2f432a5bf9_plymouthrocktv-live/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WHIO Dayton" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120147a629c31538d231077" tvg-name="WHIO (CBS) News 7 Dayton, OH" group-title="LocalNow: Local",WHIO (CBS) News 7 Dayton OH
+#EXTINF:-1 tvg-id="localnow_WHIO (CBS) News 7 Dayton OH" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120147a629c31538d231077" group-title="LocalNow: Local",WHIO (CBS) News 7 Dayton OH
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-whiodaitv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WJAX (CBS) News 47 Jacksonville, FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" tvg-name="WJAX (CBS) News 47 Jacksonville, FL" group-title="LocalNow: Local",WJAX (CBS) News 47 Jacksonville FL
+#EXTINF:-1 tvg-id="localnow_WJAX (CBS) News 47 Jacksonville FL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612014ce5614eb2ec81f7c63" group-title="LocalNow: Local",WJAX (CBS) News 47 Jacksonville FL
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftvtv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WHBQ (FOX) News 13 Memphis, TN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6bd30283a4f149f72b562" tvg-name="WHBQ (FOX) News 13 Memphis, TN" group-title="LocalNow: Local",WHBQ (FOX) News 13 Memphis TN
+#EXTINF:-1 tvg-id="localnow_WHBQ (FOX) News 13 Memphis TN" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60a6bd30283a4f149f72b562" group-title="LocalNow: Local",WHBQ (FOX) News 13 Memphis TN
 https://whbq-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6227ae82a0d7384bb13634c2_whbq-live-3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KIRO (CBS) News 7 Seattle, WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612013fb763d7a427b16ef73" tvg-name="KIRO (CBS) News 7 Seattle, WA" group-title="LocalNow: Local",KIRO (CBS) News 7 Seattle WA
+#EXTINF:-1 tvg-id="localnow_KIRO (CBS) News 7 Seattle WA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612013fb763d7a427b16ef73" group-title="LocalNow: Local",KIRO (CBS) News 7 Seattle WA
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-kirotv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KULR (NBC) News 8 Billings, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f97bc2865b7eb86296ab" tvg-name="KULR (NBC) News 8 Billings, MT" group-title="LocalNow: Local",KULR (NBC) News 8 Billings MT
+#EXTINF:-1 tvg-id="localnow_KULR (NBC) News 8 Billings MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6144f97bc2865b7eb86296ab" group-title="LocalNow: Local",KULR (NBC) News 8 Billings MT
 https://fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow
 
-#EXTINF:-1 tvg-id="localnow_WSB (ABC) News 2 Atlanta, GA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015626ae54e0a6732b715" tvg-name="WSB (ABC) News 2 Atlanta, GA" group-title="LocalNow: Local",WSB (ABC) News 2 Atlanta GA
+#EXTINF:-1 tvg-id="localnow_WSB (ABC) News 2 Atlanta GA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612015626ae54e0a6732b715" group-title="LocalNow: Local",WSB (ABC) News 2 Atlanta GA
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wsbtvnow-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WAAY (ABC) News 31 Huntsville, AL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61687973def9912f866507ed" tvg-name="WAAY (ABC) News 31 Huntsville, AL" group-title="LocalNow: Local",WAAY (ABC) News 31 Huntsville AL
+#EXTINF:-1 tvg-id="localnow_WAAY (ABC) News 31 Huntsville AL" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61687973def9912f866507ed" group-title="LocalNow: Local",WAAY (ABC) News 31 Huntsville AL
 https://waay-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_615b79802c42e276926e8e15_waay-live/6b3399b8-0ab2-48ee-b0c7-8d69722a6a29.m3u8
 
-#EXTINF:-1 tvg-id="localnow_WPXI (NBC) News 11 Pittsburgh, PA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120151768042a4fc530f3f6" tvg-name="WPXI (NBC) News 11 Pittsburgh, PA" group-title="LocalNow: Local",WPXI (NBC) News 11 Pittsburgh PA
+#EXTINF:-1 tvg-id="localnow_WPXI (NBC) News 11 Pittsburgh PA" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6120151768042a4fc530f3f6" group-title="LocalNow: Local",WPXI (NBC) News 11 Pittsburgh PA
 https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wpxitv-hls-v3/live.m3u8
 
-#EXTINF:-1 tvg-id="localnow_KFBB (ABC) News 5 Great Falls/Helena, MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8b6c20130c4f15008503" tvg-name="KFBB (ABC) News 5 Great Falls/Helena, MT" group-title="LocalNow: Local",KFBB (ABC) News 5 Great Falls/Helena MT
+#EXTINF:-1 tvg-id="localnow_KFBB (ABC) News 5 Great Falls/Helena MT" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/623b8b6c20130c4f15008503" group-title="LocalNow: Local",KFBB (ABC) News 5 Great Falls/Helena MT
 https://kfbb-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_60f9b05e1bdb905c0636aaa2_kfbb-live/8bb7390a-5bb6-4580-a469-f8cfd8cbd4d9/0.m3u8
 
-#EXTINF:-1 tvg-id="localnow_Florida 24 Network, Your Florida News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61323c58c5379746bb1a5f03" tvg-name="Florida24" group-title="LocalNow: Local",Florida 24 Network - Your Florida News
+#EXTINF:-1 tvg-id="localnow_Florida 24 Network Your Florida News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/61323c58c5379746bb1a5f03" group-title="LocalNow: Local",Florida 24 Network - Your Florida News
 https://florida24network-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6205b2afcfe9587c2e2fdcf5_florida24network-live-1/playlist.m3u8?ads.ac.t=aHR0cHM6Ly92aWQuc3ByaW5nc2VydmUuY29tL3J0LzIzMjU%3D&ads.cb=14554559646497794&ads.w=370&ads.h=208&ads.url=https%3A%2F%2Flocalnow.com%2Fchannels%2Fepg-fl24&ads.app_bundle=&ads.app_name=&ads.app_store_url=&ads.app_version=&ads.pos=mid&ads.did=&ads.ifa_type=&ads.dnt=0&ads.device_make=&ads.device_model=&ads.device_type=&ads.cust_devicename=desktop_web&ads.ua=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F99.0.4844.74%20Safari%2F537.36&ads.channel_id=6205b2afcfe9587c2e2fdcf5&ads.channel_title=EPG-Florida_24_Network&ads.channel_contenttype=Shows&ads.channel_name=EPG-Florida_24_Network&ads.channel_genre=Entertainment&ads.channel_rating=&ads.channel_language=&ads.channel_contentlen=1800&ads.content_livestream=1&ads.network_name=florida-24-network&ads.content_provider=florida-24-network&ads.us_privacy=&ads.payid=6ec8debb969b70cf&ads.SSID=b2c5de31-47c8-4791-a5eb-e38c110e6359&ads.hybrid=0&ads.tag_id=localnow&ads.aml=1
 
 #EXTINF:-1 tvg-id="localnow_Las Vegas Review-Journal" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/620c0c979c6bd15a09478c82" group-title="LocalNow: Local",Las Vegas Review-Journal
