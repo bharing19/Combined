@@ -5153,6 +5153,8 @@ https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8
 http://24.157.46.150/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="BEK_KNDBDT" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/beksports.png" group-title="US Locals",BEK Sports Bismarck ND KNDB-DT 26.1
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://wccatv.com/images/wcca-mobile.png" group-title="US Locals",WCCA TV Worcester MA
+https://worcester.vod.castus.tv/live/ch1.m3u8
 
 #EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://ualruniversitytelevision.viebit.com/custom/site_images/MobileHeader50x50.png" group-title="US Locals",UALR University Television
 https://vblive-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
@@ -5189,7 +5191,8 @@ https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
 https://siloh.pluto.tv/lilo/production/DABL/master.m3u8
 #EXTINF:-1 tvg-id="FreeSpeechTV" tvg-logo="https://freespeech.org/wp-content/uploads/2021/02/FSTVLogo.png" group-title="US Webstreams",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
-
+#EXTINF:-1 tvg-id="RetroStrangeTV" tvg-logo="https://retrostrange.com/wp-content/uploads/2021/11/cropped-Channel-Thumb.png" group-title="US Webstreams",RetroStrange TV
+https://live.retrostrange.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="CHCO" tvg-logo="https://i.imgur.com/41QeftS.jpg" group-title="🇦 Locals",CHCO-TV 26.1 St. Andrews NB
 https://lin10.isilive.ca/live/CHCOTV/live/index.m3u8
 #EXTINF:-1 tvg-id="CBC_Calgary" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/cbc-identity-ca.png" group-title="🇦 Locals",CBC Calgary AB
