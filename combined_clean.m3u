@@ -2024,7 +2024,8 @@ https://rebroadcast.mytvtogo.net/mytvtogo/exercise4u/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/livingoutdoors/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTvToGo_Classic Arts Showcase" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicArtsShowcase-196x126.jpg" group-title="MyTvToGo: Select",Classic Arts Showcase
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8#EXTINF:-1 tvg-id="AnthymTV_911 NETWORK" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/f0e01b3f-a406-4949-9215-a85dd757240c-300.jpg" group-title="AnthymTV",911 Network
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8
+#EXTINF:-1 tvg-id="AnthymTV_911 NETWORK" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/f0e01b3f-a406-4949-9215-a85dd757240c-300.jpg" group-title="AnthymTV",911 Network
 https://bk7l2w4nlx53-hls-live.5centscdn.com/XPD/ba50d07d532990bcd7c359a1087d85af.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AnthymTV_PAWN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_311a780cca2245fdb351c5b9c221a292~mv2.jpg" group-title="AnthymTV",Pawn
