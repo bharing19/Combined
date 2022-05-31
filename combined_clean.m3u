@@ -2024,7 +2024,77 @@ https://rebroadcast.mytvtogo.net/mytvtogo/exercise4u/playlist.m3u8
 https://rebroadcast.mytvtogo.net/mytvtogo/livingoutdoors/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MyTvToGo_Classic Arts Showcase" tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_ClassicArtsShowcase-196x126.jpg" group-title="MyTvToGo: Select",Classic Arts Showcase
-https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastclassicartsshowcase/playlist.m3u8#EXTINF:-1 tvg-name="AnthymTV_PAWN" tvg-logo="https://static.wixstatic.com/media/b3bfbd_311a780cca2245fdb351c5b9c221a292~mv2.jpg" group-title="AnthymTV",Pawn
+https://bk7l2w4nlx53-hls-live.5centscdn.com/PawnStars/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_COPS" tvg-logo="https://static.wixstatic.com/media/b3bfbd_1820d5b9b8094d8892049182321e66e1~mv2.jpg" group-title="AnthymTV",Cops
+https://bk7l2w4nlx53-hls-live.5centscdn.com/LivePD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_TRUE CRIME" tvg-logo="https://static.wixstatic.com/media/b3bfbd_81094a39f8b542199cfaa5ce2826e000~mv2.jpg" group-title="AnthymTV",True Crime
+https://bk7l2w4nlx53-hls-live.5centscdn.com/CRIME/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_JERRY" tvg-logo="https://static.wixstatic.com/media/b3bfbd_11b16ee7980844afbf8b332fb98cd58b~mv2.jpg" group-title="AnthymTV",Jerry
+https://bk7l2w4nlx53-hls-live.5centscdn.com/JERRY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_FOOD" tvg-logo="https://static.wixstatic.com/media/b3bfbd_8bdfcebeac9248b18cf31beeb9785325~mv2.jpg" group-title="AnthymTV",Food
+https://bk7l2w4nlx53-hls-live.5centscdn.com/FOOD/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_HOME" tvg-logo="https://static.wixstatic.com/media/b3bfbd_aecf802f86704516bfc04bacbb19b861~mv2.jpg" group-title="AnthymTV",Home
+https://bk7l2w4nlx53-hls-live.5centscdn.com/House/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_GEARHEAD" tvg-logo="https://static.wixstatic.com/media/b3bfbd_a521be1f8df441108570ca7dec6756fd~mv2.jpg" group-title="AnthymTV",GearHead
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Chassy/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_OUTDOORS" tvg-logo="https://static.wixstatic.com/media/b3bfbd_a537452e66eb4b29bf957f1c791d3fc3~mv2.jpg" group-title="AnthymTV",Outdoors
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Outdoors/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_SWAMP" tvg-logo="https://static.wixstatic.com/media/b3bfbd_061da2f2ffe84e13937d499218961c7f~mv2.jpg" group-title="AnthymTV",Swamp
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Duck/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_CABLE HITS" tvg-logo="https://static.wixstatic.com/media/b3bfbd_58a49c5072ea4b34b3df29e5363a2109~mv2.jpg" group-title="AnthymTV",Cable Hits
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_LIFESTYLE" tvg-logo="https://static.wixstatic.com/media/b3bfbd_c59ce31a424f4eb29db3bbcaa258e310~mv2.jpg" group-title="AnthymTV",Lifestyle
+https://bk7l2w4nlx53-hls-live.5centscdn.com/TLC/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_WILD WEST" tvg-logo="https://static.wixstatic.com/media/b3bfbd_364cfa20ef4b45f9847d41ad4d43521b~mv2.jpg" group-title="AnthymTV",Wild West
+https://bk7l2w4nlx53-hls-live.5centscdn.com/WildWest/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_AMERICANA" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/c9a2bff9-80b6-4770-8836-e5b2f82fb83d-384.jpg" group-title="AnthymTV",Americana Classics
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Classics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_HISTORY" tvg-logo="https://static.wixstatic.com/media/b3bfbd_9118b9b6fbd04bf68adb23515a1df21b~mv2.jpg" group-title="AnthymTV",History
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_TRAVEL" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/channels/160175/images/c3c3cb83-1159-443b-b395-cead139d98f5-384.jpg" group-title="AnthymTV",Travel
+https://bk7l2w4nlx53-hls-live.5centscdn.com/TRAVEL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_COMEDY" tvg-logo="https://static.wixstatic.com/media/b3bfbd_f897f58d39ca420d95b8bd4132c9ae1a~mv2.jpg" group-title="AnthymTV",Comedy 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/SNL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_GAME SHOW" tvg-logo="https://static.wixstatic.com/media/b3bfbd_4d56450a88f6422cb2c533d5dc261bb5~mv2.jpg" group-title="AnthymTV",Game Show 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/GAMESHOW/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_DISCOVER" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/channels/160175/images/90671543-7c4f-4b11-ba24-ea434cce1303-384.png" group-title="AnthymTV",Discover 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Discover/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_ANIMAL" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/d2e0ac50-ba57-4c02-a7a1-159733ed60c4-384.jpg" group-title="AnthymTV",Animals 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/ANIMAL/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_FIGHT NIGHT" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/7b9beca3-e2bb-4a47-a35a-e32f6c984eab-384.jpg" group-title="AnthymTV",Fight Night 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Fight/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_SPORTS" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/fc13fb75-8fbe-4c56-b812-678e58f4bc62-384.jpg" group-title="AnthymTV",Sports Talk 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/SportsCenter/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_POLITICS" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/6a54d7b3-2fb6-4eae-9554-807469ed0552-384.jpg" group-title="AnthymTV",Politics 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/Politics/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_HOLLYWOOD" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/84b14004-7816-4c6c-a74d-650d5e4847f3-384.jpg" group-title="AnthymTV",Hollywood 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/POP/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AnthymTV_WALL STREET" tvg-logo="https://resources.mazsystems.com/feeds/production/comboapp/2780/lists/bf6e0f7c-9f97-4de4-9d52-d8feab6ec515-384.jpg" group-title="AnthymTV",Wall Street
+https://bk7l2w4nlx53-hls-live.5centscdn.com/BUSINESS/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Veely_EPGReal Stories" tvg-name="Real Stories" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1050.png?width=700&lang=en" group-title="Veely",Real Stories
 https://lds-realstories-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstoriessimplestream/CDN/master.m3u8
 #EXTINF:-1 tvg-id="Veely_EPGReal Crime" tvg-name="Real Crime" tvg-logo="https://thumbnails.simplestreamcdn.com/veely/channel_logos/1067.png?width=700&lang=en" group-title="Veely",Real Crime
@@ -4986,7 +5056,7 @@ https://dqvu8d0acm4xt.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 channel-id="samsung-USBA43000017Q" tvg-id="USBA43000017Q" tvg-chno="1457" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/07/USBA43000017Q_20220330T044552.png" group-title="️SamsungUS: Movies",MovieSphere
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-moviesphere-samsung-samsungus/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-chno="1459" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/08/78/USAJ40000072X_20220330T044535.png" group-title="️SamsungUS: Movies",FilmRise Free Movies
-https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_filmriseaction_001.m3u8?ads.caid=FilmriseAction&ads.csid=samsungtvplus_us_filmriseaction_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999520&ads.xumo_imdb_genre=Action&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
+https://dqgmxyaqqrria.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-ams/samsungtvplus_us_filmrisefreemovies_001.m3u8?ads.caid=FilmRiseFreeMovies&ads.csid=samsungtvplus_us_filmrisefreemovies_ssai&ads.os=Tizen&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=pg-13&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.xumo_channelId=9999525&ads.xumo_imdb_genre=Drama&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
 #EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-chno="1461" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/75/USBA300017PK_20220330T044550.png" group-title="️SamsungUS: Movies",Pluto TV Fantastic
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus
 #EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-chno="1463" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/84/USBB3200020ID_20220330T044622.png" group-title="️SamsungUS: Movies",FilmRise Action
