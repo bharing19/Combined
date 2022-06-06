@@ -5503,7 +5503,7 @@ https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlis
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PBSKids_WCIQ-DT2_BirmiAL" tvg-logo="https://tvtv.us/gn/i/assets/s101364_ll_h15_ab.png" group-title="🇺🇸 Locals",PBS Kids 7.2 Birmingham AL WCIQ-DT2
-https://kids.video.cdn.pbs.org/videos/dots-spot/fa5fbcc2-2876-4a47-8996-149e516b79b6/2000010016/hd-16x9-mezzanine-1080p/ok6sbwjn_pbs_kids_c-together60_proreshq_20170616-16x9-720p_764.m3u8
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1 tvg-id="Create_WCIQ-DT3_BirmiAL" tvg-logo="https://tvtv.us/gn/i/assets/s48990_ll_h15_aa.png" group-title="🇺🇸 Locals",Create 7.3 Birmingham AL WCIQ-DT3 https://cs.ebmcdn.net/eastbay-live-hs-1/apt-3hrgycr8cz/apt-create/playlist.m3u8
 #EXTINF:-1 tvg-id="World_WCIQ-DT4_BirmiAL" tvg-logo="https://tvtv.us/gn/i/assets/s56725_ll_h9_aa.png" group-title="🇺🇸 Locals",World 7.4 Birmingham AL WCIQ-DT4
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
