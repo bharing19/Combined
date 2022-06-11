@@ -5556,8 +5556,7 @@ https://worcester.vod.castus.tv/live/ch1.m3u8
 
 #EXTINF:-1 tvg-id="CC_HPAT" tvg-logo="https://static.wixstatic.com/media/1596ca_73bef149d85a4e7d9497a802fa619c19~mv2.png/v1/fill/w_141,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/HPAT.png" group-title="🇺🇸 PEG",HPAT Hibbing MN
 https://reflect-hpat.cablecast.tv/live-9/live/live.m3u8
-#EXTINF:-1 tvg-id="GC_WR-CMTV" tvg-logo="
-https://www.wr-cm.org/uploads/1/0/3/3/103347874/published/tom-loucks-main-01.png" group-title="🇺🇸 PEG",Wisconsin Rapids Community Media
+#EXTINF:-1 tvg-id="GC_WR-CMTV" tvg-logo="https://www.wr-cm.org/uploads/1/0/3/3/103347874/published/tom-loucks-main-01.png" group-title="🇺🇸 PEG",Wisconsin Rapids Community Media
 http://link.frontlayer.com/services/hls2/fl817532/index.m3u8
 
 #EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://ualruniversitytelevision.viebit.com/custom/site_images/MobileHeader50x50.png" group-title="🇺🇸 Locals",UALR University Television
