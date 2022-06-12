@@ -5593,6 +5593,313 @@ https://reflect-hpat.cablecast.tv/live-9/live/live.m3u8
 #EXTINF:-1 tvg-id="GC_WR-CMTV" tvg-logo="https://www.wr-cm.org/uploads/1/0/3/3/103347874/published/tom-loucks-main-01.png" group-title="🇺🇸 PEG",WRCM Wisconsin Rapids WI
 http://link.frontlayer.com/services/hls2/fl817532/index.m3u8
 
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://bcmtv.org/templates/icons/logo.png" group-title="🇺🇸 PEG",BCM Berkeley Community Media Berkeley CA Ch28
+https://reflect-bcm.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://delmar.12milesout.com/static/logo-green.png" group-title="🇺🇸 PEG",DMTV Live Del Mar CA
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-watchkfon-fontana.cablecast.tv/Cablecast/WebFiles/2449/KFON%20Cablecast%20Site%20Logo.png" group-title="🇺🇸 PEG",KFONTV Fontana CA
+https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://cmac.tv/wp-content/uploads/2021/09/CMAC-Logo.png" group-title="🇺🇸 PEG",CMAC1 Public Fresno CA
+https://reflect-vod-cmac.cablecast.tv/live-11/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://cmac.tv/wp-content/uploads/2021/09/CMAC-Logo.png" group-title="🇺🇸 PEG",CMAC2 Education Ch94 Fresno CA
+https://reflect-vod-cmac.cablecast.tv/live-12/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://cmac.tv/wp-content/uploads/2021/09/CMAC-Logo.png" group-title="🇺🇸 PEG",CMAC3 Government Ch96 Fresno CA
+https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/b1ceb5_dcaedaa73297446387cf63be72b8af51~mv2.png/v1/fill/w_975,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/NEW%20LOGO.png" group-title="🇺🇸 PEG",KCAT Hacienda Heights CA Ch15
+https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",PADNET Long Beach CA Ch32
+https://reflect-padnet-live.cablecast.tv/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsImNkOGYyZjcwLWNlZTUtMDEzMy1mMWJjLTAwMjU5MGYwMDg1Yy92b2RfcGxheWVycy9vcmctbG9nby0xNDk2MTM5OTMwLmpwZyJdXQ?sha=40b6a143954074af" group-title="🇺🇸 PEG",PCT Pacific Coast TV CA
+https://pacifica-ca.secure.footprint.net/egress/bhandler/pacificaca/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="🇺🇸 PEG",Midpen Media Center CA Ch26 Government CA
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="🇺🇸 PEG",Midpen Media Center Bay Voice TV Regional Ch27 CA
+https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="🇺🇸 PEG",Midpen Media Center Youth Edu and Sports Ch28 CA
+https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="🇺🇸 PEG",Midpen Media Center Government Etc Ch29 CA
+https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="🇺🇸 PEG",Midpen Media Center Arts Issues Lifestyles Ch30 CA
+https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://midpenmedia.org/wp-content/themes/mpm/images/logo-mpm.png" group-title="🇺🇸 PEG",Midpen Media Center Diversity and Culture Ch75 CA
+https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="🇺🇸 PEG",CTV YouDotGov Ch25 Santa Cruz CA
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",CTV Cruz TV Ch26 Santa Cruz CA
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamb/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",CTV SC Currents Ch27 Santa Cruz CA
+https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Santa Maria Ch23 Gov Santa Maria CA
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Santa Maria Ch24 Education Santa Maria CA
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Santa Maria Ch25 Public Access Santa Maria CA
+https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.uctv.tv/images/UCTV-logo-header.png" group-title="🇺🇸 PEG",UCTV University of California
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/168f1d_c7214d9878d04fa58dcc141242cfe9fd~mv2.png/v1/fill/w_133,h_135,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/168f1d_c7214d9878d04fa58dcc141242cfe9fd~mv2.png" group-title="🇺🇸 PEG",SBTV-3 Seal Beach Community CA
+http://link.frontlayer.com/services/hls2/fl640718/index.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.torranceca.gov/Project/Contents/CitiCABLE/_gfx/cmn/mobile/mobile_header.png" group-title="🇺🇸 PEG",Torrance CitiCABLE Torrance CA
+https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://vcat.tv/wp-content/uploads/elementor/thumbs/VCAT-Logo-Stacked-Bug-1-ovd0ldzv08bewob6hhznir0fwnfbxqynla8c0bdp66.png" group-title="🇺🇸 PEG",VCAT Community Access Vallejo CA 
+https://vallejo.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/7405cf_8afff69ed8004ed095757f6c6693e3c8~mv2.png/v1/fill/w_214,h_214,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/GRTV%20Logo%201_5_21.png" group-title="🇺🇸 PEG",GrassRoots TV Aspen CO
+https://reflect-live-grassrootstv.cablecast.tv/live-16/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/619407_a3a13a6e876e4f00bd29826d623b0c3d~mv2.png/v1/fill/w_134,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FCPM%202022%20Logo.png" group-title="🇺🇸 PEG",FC Public Media Fort Collins CO
+https://reflect-fcpublicmedia.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Aurora TV Aurora CO
+https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://bolton.vod.castus.tv/live/ch1/thumb.png" group-title="🇺🇸 PEG",CVC Community Voice Public Bolton CT
+https://bolton.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://bolton.vod.castus.tv/live/ch2/thumb.png" group-title="🇺🇸 PEG",CVC Community Voice Education Bolton CT
+https://bolton.vod.castus.tv/live/ch2.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://bolton.vod.castus.tv/live/ch3/thumb.png" group-title="🇺🇸 PEG",CVC Community Voice Gov Bolton CT
+https://bolton.vod.castus.tv/live/ch3.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://soundviewtv.org/wp-content/uploads/2015/03/logo1.png" group-title="🇺🇸 PEG",SVCM Sound View Community Media Public Bridgeport CT
+https://t07288-lh.akamaihd.net/i/t07288a_1@792851/master.m3u8?set-akamai-hls-revision=5&set-cc-attribute=none
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Cox Meriden Public Access Ch15 Cheshire CT
+http://98.186.26.254/live-2/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Cox Enfield Public Access Ch15 Enfield CT
+http://184.177.41.241/live-10/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://184.185.89.35/Cablecast/WebFiles/12877/2022%20MRC%20TRMS%20Public%20Site%20Header.png" group-title="🇺🇸 PEG",Cox Manchester Public Access CT
+http://184.185.89.35/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.nctv.org/wp-content/uploads/2016/08/Logo-for-Website-Header-2016-08-13.png" group-title="🇺🇸 PEG",NCTV Newington Community TV Ch14 CT
+https://newington.vod.castus.tv/live/ch1.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.nctv.org/wp-content/uploads/2016/08/Logo-for-Website-Header-2016-08-13.png" group-title="🇺🇸 PEG",NCTV Newington Government TV Ch16 CT
+https://newington.vod.castus.tv/live/ch2.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.pinellascounty.org/images/pchome.gif" group-title="🇺🇸 PEG",PCC-TV Pinellas County Clearwater FL
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/pinellas/G1551_004/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Olelo Focus Ch49 HI
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_009/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Olelo Ch55 Oahu HI 
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_013/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.cantv.org/wp-content/themes/cantv/library/images/logo.png" group-title="🇺🇸 PEG",CANTV One Ch19 Chicago IL 
+https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/60a7c6ec21194f608452d73514239c49/index.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.cantv.org/wp-content/themes/cantv/library/images/logo.png" group-title="🇺🇸 PEG",CANTV Three Ch27 Chicago IL 
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/6f3d03ed20654f3ba9495f7108b4142e/index.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.cedarfalls.com/ImageRepository/Document?documentID=6331" group-title="🇺🇸 PEG",Cedar Falls Iowa Ch15 
+https://vblive-c.viebit.com/3666443c-3b31-4c25-b992-22b0f5193165/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://tbnk.vod.castus.tv/live/ch1/thumb" group-title="🇺🇸 PEG",TBNK Latonia KY Gov1
+https://tbnk.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://tbnk.vod.castus.tv/live/ch2/thumb" group-title="🇺🇸 PEG",TBNK Northern Kentucky Gov2
+https://tbnk.vod.castus.tv/live/ch2.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://tbnk.vod.castus.tv/live/ch3/thumb" group-title="🇺🇸 PEG",TBNK Northern Kentucky Main Event
+https://tbnk.vod.castus.tv/live/ch3.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://images.squarespace-cdn.com/content/v1/56ccbd0c3c44d8670dbd272d/1584133605417-KJMRXZ35CZDU0LOMQ9TY/AOC_logo_full_color_Outline-01.png" group-title="🇺🇸 PEG",AOC Community Media Ch1 Lafayette LO
+https://connect.telvue.com/dynamicthumb/W1siZiIsImVlYWRmZTIwLWZhY2YtMDEzMS0xMzM4LTUyNTQwMDQ3MTQ4ZS9zdHJlYW1zL3RodW1iLTE1MzM1NjgyNjMuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIl1d?sha=2e7469ca41bab520
+https://acadiana-la.secure.footprint.net/egress/bhandler/acadianala/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://images.squarespace-cdn.com/content/v1/56ccbd0c3c44d8670dbd272d/1584133605417-KJMRXZ35CZDU0LOMQ9TY/AOC_logo_full_color_Outline-01.png" group-title="🇺🇸 PEG",AOC Community Media Ch2 Lafayette LO
+https://connect.telvue.com/dynamicthumb/W1siZiIsImVlYWRmZTIwLWZhY2YtMDEzMS0xMzM4LTUyNTQwMDQ3MTQ4ZS9zdHJlYW1zL3RodW1iLTE1MzM1NjgyODAuanBnIl0sWyJwIiwidGh1bWIiLCI2NDB4NjQwIl1d?sha=b78537b8fdedffbf
+https://acadiana-la.secure.footprint.net/egress/bhandler/acadianala/streamb/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",GOCAT-TV3 GGETV Gov Edu TV Ch3 Gorham ME
+https://stream2.earthchannel.com/GorhamMELIVE/_definst_/GorhamMELIVE.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsIjMwOTU1NGQwLTZlM2MtMDEzMC0zYTM2LTUyNTQwMDQ3MTQ4ZS92b2RfcGxheWVycy9vcmctbG9nby0xNTA5NTQyODAyLnBuZyJdXQ?sha=8430b6c62281578b" group-title="🇺🇸 PEG",SPC-TV Gov Edu South Portland ME
+https://sportlandtv.secure.footprint.net/egress/bhandler/sportlandtv/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",SPPA-TV Public Access South Portland ME
+https://sportlandtv.secure.footprint.net/egress/bhandler/sportlandtv/streamb/manifest.m3u8
+
+https://reflect-montgomerycommunitymedia.cablecast.tv/Cablecast/WebFiles/873/channel%2019.fw.png
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",MontgomeryMD Ch19 
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-montgomerycommunitymedia.cablecast.tv/Cablecast/WebFiles/869/channel%2021%20trms.fw.png" group-title="🇺🇸 PEG",MCT Montgomery MD Ch21
+https://reflect-montgomerycommunitymedia.cablecast.tv/live-11/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://localeyz-web-platform.s3.amazonaws.com/organization/rc-upload-1636498485110-30-footer%203.png" group-title="🇺🇸 PEG",PAC14 Salisbury MD Ch14
+https://pac14.secure.footprint.net/egress/bhandler/pac14/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://amherstmedia.org/sites/default/files/AM-logo-wide.png" group-title="🇺🇸 PEG",Amherst Media MA Ch15
+https://cablecast.amherstmedia.org/live-12/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://amherstmedia.org/sites/default/files/AM-logo-wide.png" group-title="🇺🇸 PEG",Amherst Media Gov MA Ch17 
+https://cablecast.amherstmedia.org/live-10/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://amherstmedia.org/sites/default/files/AM-logo-wide.png" group-title="🇺🇸 PEG",Amherst Media Public MA Ch12
+https://cablecast.amherstmedia.org/live-11/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Belmont MA Gov/Ed TV
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streamb/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Belmont MA Public TV
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Belmont MA Info TV
+https://belmontmedia.secure.footprint.net/egress/bhandler/belmontmedia/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-billerica.cablecast.tv/Cablecast/WebFiles/589/PublicSiteBannerCh.png" group-title="🇺🇸 PEG",BATV's Public Ch8 Billerica MA
+https://reflect-billerica.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-billerica.cablecast.tv/Cablecast/WebFiles/9115/EduSiteBanner.png" group-title="🇺🇸 PEG",BATV Edu Ch22 Billerica MA
+https://reflect-billerica.cablecast.tv/live-7/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-billerica.cablecast.tv/Cablecast/WebFiles/9119/GovSiteBanner.png" group-title="🇺🇸 PEG",BATV Gov Ch99 Billerica MA
+https://reflect-billerica.cablecast.tv/live-8/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://btvaccess.com/media/uploads/9e/36/9e36c834-8f34-4e2a-b60a-36c00a398ea4.jpg" group-title="🇺🇸 PEG",BTV9 Community Bridgewater MA Ch9
+https://vblive-c.viebit.com/6cd14156-d2a6-49e9-806d-296873c432fb/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-brookline-interactive-group.cablecast.tv/Cablecast/WebFiles/31533/BIG_logo.png" group-title="🇺🇸 PEG",BIG Brookline MA Interactive Comm
+https://reflect-brookline-interactive-group.cablecast.tv/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",BIG Brookline MA Interactive Civic
+https://reflect-brookline-interactive-group.cablecast.tv/live-5/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.chelmsfordtv.org/sites/default/files/CTM%20Logo%20Transparent.png" group-title="🇺🇸 PEG",CTM Community Chelmsford MA Ch8
+https://chelmsford-ma.secure.footprint.net/egress/bhandler/chelmsfordma/streamb/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.chelmsfordtv.org/sites/default/files/CTM%20Logo%20Transparent.png" group-title="🇺🇸 PEG",CTM Gov Chelmsford MA Ch99
+https://chelmsford-ma.secure.footprint.net/egress/bhandler/chelmsfordma/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.chelmsfordtv.org/sites/default/files/CTM%20Logo%20Transparent.png" group-title="🇺🇸 PEG",CTM Edu Chelmsford MA
+https://chelmsford-ma.secure.footprint.net/egress/bhandler/chelmsfordma/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://images.squarespace-cdn.com/content/v1/58211522414fb52a34ef47c8/1491496233542-J4UANGII7FHAHECV4H8P/New_FATV_Logo_HiRes-2.png" group-title="🇺🇸 PEG",FATV Pub Fitchburg MA 
+https://fitchburg-ma.secure.footprint.net/egress/bhandler/fitchburgma/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://images.squarespace-cdn.com/content/v1/58211522414fb52a34ef47c8/1491496233542-J4UANGII7FHAHECV4H8P/New_FATV_Logo_HiRes-2.png" group-title="🇺🇸 PEG",FATV Edu Fitchburg MA 
+https://fitchburg-ma.secure.footprint.net/egress/bhandler/fitchburgma/streamb/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://images.squarespace-cdn.com/content/v1/58211522414fb52a34ef47c8/1491496233542-J4UANGII7FHAHECV4H8P/New_FATV_Logo_HiRes-2.png" group-title="🇺🇸 PEG",FATV Gov Fitchburg MA 
+https://fitchburg-ma.secure.footprint.net/egress/bhandler/fitchburgma/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://accessfram.tv/sites/default/files/aftv-logo-wide-faded-31.png" group-title="🇺🇸 PEG",AFTV Framingham MA Ch9
+https://accframingham.secure.footprint.net/egress/bhandler/accessframingham/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.leominster.tv/SiteAssets/ch8_logo.gif" group-title="🇺🇸 PEG",LTV Pub Leominster MA Ch8
+http://pub.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.leominster.tv/SiteAssets/ch9_logo.gif" group-title="🇺🇸 PEG",LTV Edu Leominster MA Ch9
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.leominster.tv/SiteAssets/ch99_logo.gif" group-title="🇺🇸 PEG",LTV Gov Leominster MA Ch99
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.lexmedia.org/wp-content/uploads/2018/11/logo.jpg" group-title="🇺🇸 PEG",LPTV Pub Lexington MA
+https://lexmedia.secure.footprint.net/egress/bhandler/lexmedia/streamc/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.lexmedia.org/wp-content/uploads/2018/11/logo.jpg" group-title="🇺🇸 PEG",LPTV Edu Lexington MA
+https://lexmedia.secure.footprint.net/egress/bhandler/lexmedia/streamb/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.lexmedia.org/wp-content/uploads/2018/11/logo.jpg" group-title="🇺🇸 PEG",LPTV Gov Lexington MA
+https://lexmedia.secure.footprint.net/egress/bhandler/lexmedia/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.ltc.org/wp-content/themes/cosmic_bones/library/images/site-logo-sm.png" group-title="🇺🇸 PEG",LTC Pub Lowell MA Ch8
+https://lowelltel-ma.secure.footprint.net/egress/bhandler/lowelltelma/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.ltc.org/wp-content/themes/cosmic_bones/library/images/site-logo-sm.png" group-title="🇺🇸 PEG",LTC Global Lowell MA Ch95
+https://lowelltel-ma.secure.footprint.net/egress/bhandler/lowelltelma/streamb/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.ltc.org/wp-content/themes/cosmic_bones/library/images/site-logo-sm.png" group-title="🇺🇸 PEG",LTC Gov Lowell MA Ch99
+https://lowelltel-ma.secure.footprint.net/egress/bhandler/lowelltelma/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://mvtv.vod.castus.tv/vodi/mvtv.headlogo.png" group-title="🇺🇸 PEG",MYTV Pub Martha's Vineyard MA
+https://s3-us-west-2.amazonaws.com/mvtv.castus-vod/live/ch1/video.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://mvtv.vod.castus.tv/vodi/mvtv.headlogo.png" group-title="🇺🇸 PEG",MYTV Edu Martha's Vineyard MA
+https://s3-us-west-2.amazonaws.com/mvtv.castus-vod/live/ch2/video.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://mvtv.vod.castus.tv/vodi/mvtv.headlogo.png" group-title="🇺🇸 PEG",MYTV Gov Martha's Vineyard MA
+https://s3-us-west-2.amazonaws.com/mvtv.castus-vod/live/ch3/video.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://149539144.v2.pressablecdn.com/wp-content/uploads/2021/04/mcs-logo_700x230.png" group-title="🇺🇸 PEG",MCS Pub Methuen MA
+https://5a5c57d042315.streamlock.net/live1003/public/playlist.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://149539144.v2.pressablecdn.com/wp-content/uploads/2021/04/mcs-logo_700x230.png" group-title="🇺🇸 PEG",MCS Gov Methuen MA
+https://5a5c57d042315.streamlock.net/live1003/government/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://assets.website-files.com/62252e007e7fc10bbd8f4fff/6226520306588ed71e12f913_NCTV-404-logo-300x81.png" group-title="🇺🇸 PEG",NCTV-18 Nantucket MA
+https://nantucketcmttv.secure.footprint.net/egress/bhandler/nantucket/streamb/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png" group-title="🇺🇸 PEG",Natick Pegasus Pub Natick MA
+https://natickpegasus.secure.footprint.net/egress/bhandler/natickpegasus/streamb/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png" group-title="🇺🇸 PEG",Natick Pegasus Gov Natick MA
+https://natickpegasus.secure.footprint.net/egress/bhandler/natickpegasus/streamc/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.natickpegasus.org/uploads/5/0/2/1/50218995/1430105267.png" group-title="🇺🇸 PEG",Natick Pegasus Edu Natick MA
+https://natickpegasus.secure.footprint.net/egress/bhandler/natickpegasus/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsIjEyMmYxYmEyLWIxMDQtNDg4Mi05YWFhLTY0ZTdjZWYzOWE4Ny92b2RfcGxheWVycy9vcmctbG9nby0xNTQ5OTA3NzYyLmpwZyJdXQ?sha=bff53ebb894af00d" group-title="🇺🇸 PEG",TNC Pub Needham MA
+https://needhamcmttv.secure.footprint.net/egress/bhandler/needhamcmttv/streama/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.northtv.net/assets/Uploads/Community-Channel-Logo5.jpg" group-title="🇺🇸 PEG",NorthTV Community North Attleborough MA
+https://reflect-northtv-community.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.northtv.net/assets/Uploads/Education-Channel-Logo2.jpg" group-title="🇺🇸 PEG",NorthTV Edu North Attleborough MA
+https://reflect-northtv-education.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",NorthTV Gov North Attleborough MA
+https://reflect-northtv-government.cablecast.tv/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",NorthTV Plainville Ch North Attleborough MA
+https://reflect-northtv-plainsville.cablecast.tv/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.norwoodcommunitymedia.org/wp-content/uploads/2018/03/NCM_Logo_White.png" group-title="🇺🇸 PEG",NCM Pub Norwood MA
+https://reflect-npa.cablecast.tv/live-6/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.norwoodcommunitymedia.org/wp-content/uploads/2018/03/NCM_Logo_White.png" group-title="🇺🇸 PEG",NCM Gov Norwood MA
+https://reflect-npa.cablecast.tv/live-8/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.norwoodcommunitymedia.org/wp-content/uploads/2018/03/NCM_Logo_White.png" group-title="🇺🇸 PEG",NCM Bulletin Board Norwood MA
+https://reflect-npa.cablecast.tv/live-9/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="
+https://www.pactv.org/hubfs/pactv2021/Bug%20Community%20Channel.webp" group-title="🇺🇸 PEG",PACTV Prime Plymouth MA
+https://pactv.secure.footprint.net/egress/bhandler/pactv/streama/manifest.m3u8
+
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://randolphcommunitytv.srvr.media3.us/wp-content/uploads/2020/06/Public-button_1.jpg" group-title="🇺🇸 PEG",Randolph Pub TV Randolph MA
+http://108.20.229.83/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://randolphcommunitytv.srvr.media3.us/wp-content/uploads/2020/06/Education-button_1.jpg" group-title="🇺🇸 PEG",Randolph Edu TV Randolph MA
+http://108.20.229.83/live-3/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://randolphcommunitytv.srvr.media3.us/wp-content/uploads/2020/06/Government-button_1.jpg" group-title="🇺🇸 PEG",Randolph Gov TV Randolph MA
+http://108.20.229.83/live-4/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",SCTV Pub Sandwich MA Ch13
+https://sandwichcmttv.secure.footprint.net/egress/bhandler/sandwichcmttv/streama/manifest.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",SCTV Gov Sandwich MA Ch15
+https://sandwichcmttv.secure.footprint.net/egress/bhandler/sandwichcmttv/streamc/manifest.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://sharontv.com/wp-content/uploads/2020/02/SHARON-TV-Logo-2.png" group-title="🇺🇸 PEG",SharonTV Pub Sharon MA Ch22
+https://reflect-sharoncommunity-live.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://capemedia.org/wp-content/uploads/2020/10/CapeMediaCenterLogo-300x232.png" group-title="🇺🇸 PEG",C3TV CapeMedia Cape Cod MA
+https://reflect-watch-capemedia.cablecast.tv/live-6/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-watertown.cablecast.tv/Cablecast/WebFiles/50318/PUB.png" group-title="🇺🇸 PEG",WCA-TV Pub Watertown MA
+https://reflect-watertown.cablecast.tv/live-5/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-watertown.cablecast.tv/Cablecast/WebFiles/50302/EDU.png" group-title="🇺🇸 PEG",WCA-TV Edu Watertown MA
+https://reflect-watertown.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://reflect-watertown.cablecast.tv/Cablecast/WebFiles/50310/GOV.png" group-title="🇺🇸 PEG",WCA-TV Gov Watertown MA
+https://reflect-watertown.cablecast.tv/live-3/live/live.m3u8
+
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.willinet.org/wp-content/uploads/2018/04/willinet-logo.png" group-title="🇺🇸 PEG",WilliNet Williamstown MA Ch1303
+https://reflect-willinet.cablecast.tv/live-12/live/live.m3u8
+
 #EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://ualruniversitytelevision.viebit.com/custom/site_images/MobileHeader50x50.png" group-title="🇺🇸 Locals",UALR University Television
 https://vblive-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV25_Ace" tvg-logo="https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White-100x70.png" group-title="🇺🇸 Locals - TV25",ACE 25.3
