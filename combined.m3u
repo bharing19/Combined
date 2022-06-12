@@ -5666,13 +5666,10 @@ https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://vcat.tv/wp-content/uploads/elementor/thumbs/VCAT-Logo-Stacked-Bug-1-ovd0ldzv08bewob6hhznir0fwnfbxqynla8c0bdp66.png" group-title="🇺🇸 PEG",VCAT Community Access Vallejo CA 
 https://vallejo.cablecast.tv/live-3/live/live.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/7405cf_8afff69ed8004ed095757f6c6693e3c8~mv2.png/v1/fill/w_214,h_214,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/GRTV%20Logo%201_5_21.png" group-title="🇺🇸 PEG",GrassRoots TV Aspen CO
+#EXTINF:-1 tvg-id="CC_GRTV" tvg-logo="https://static.wixstatic.com/media/7405cf_8afff69ed8004ed095757f6c6693e3c8~mv2.png/v1/fill/w_214,h_214,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/GRTV%20Logo%201_5_21.png" group-title="🇺🇸 PEG",GrassRoots TV Aspen CO
 https://reflect-live-grassrootstv.cablecast.tv/live-16/live/live.m3u8
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/619407_a3a13a6e876e4f00bd29826d623b0c3d~mv2.png/v1/fill/w_134,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/FCPM%202022%20Logo.png" group-title="🇺🇸 PEG",FC Public Media Fort Collins CO
 https://reflect-fcpublicmedia.cablecast.tv/live-3/live/live.m3u8
-
-#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="🇺🇸 PEG",Aurora TV Aurora CO
-https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8
 
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://bolton.vod.castus.tv/live/ch1/thumb.png" group-title="🇺🇸 PEG",CVC Community Voice Public Bolton CT
 https://bolton.vod.castus.tv/live/ch1.m3u8
