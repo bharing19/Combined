@@ -5667,10 +5667,10 @@ https://newington.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.pinellascounty.org/images/pchome.gif" group-title="US PEG",PCC-TV Pinellas County Clearwater FL
 https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/pinellas/G1551_004/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/uploads/2022/05/21_Olelo49-transparent-center.png" group-title="US PEG",Olelo Focus Ch49 HI
+#EXTINF:-1 tvg-id="Olelo49" tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/uploads/2022/05/21_Olelo49-transparent-center.png" group-title="US PEG",Olelo Focus Ch49 HI
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_009/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/uploads/2022/05/21_Olelo55-transparent-center.png" group-title="US PEG",Olelo Ch55 Oahu HI 
+#EXTINF:-1 tvg-id="Olelo55" tvg-logo="https://149469871.v2.pressablecdn.com/wp-content/uploads/2022/05/21_Olelo55-transparent-center.png" group-title="US PEG",Olelo Ch55 Oahu HI 
 https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/olelo/G0125_013/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.cantv.org/wp-content/themes/cantv/library/images/logo.png" group-title="US PEG",CANTV One Ch19 Chicago IL 
