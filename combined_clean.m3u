@@ -5612,7 +5612,7 @@ https://reflect-vod-cmac.cablecast.tv/live-13/live/live.m3u8
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://static.wixstatic.com/media/b1ceb5_dcaedaa73297446387cf63be72b8af51~mv2.png/v1/fill/w_975,h_225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/NEW%20LOGO.png" group-title="US PEG",KCAT Hacienda Heights CA Ch15
 https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://padnet.tv/wp-content/themes/padnet-custom-theme/src/img/padnet_logo.png" group-title="US PEG",PADNET Long Beach CA Ch32
+#EXTINF:-1 tvg-id="CC_PADNET" tvg-logo="https://padnet.tv/wp-content/themes/padnet-custom-theme/src/img/padnet_logo.png" group-title="US PEG",PADNET Long Beach CA Ch32
 https://reflect-padnet-live.cablecast.tv/live/live.m3u8
 
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsImNkOGYyZjcwLWNlZTUtMDEzMy1mMWJjLTAwMjU5MGYwMDg1Yy92b2RfcGxheWVycy9vcmctbG9nby0xNDk2MTM5OTMwLmpwZyJdXQ?sha=40b6a143954074af" group-title="US PEG",PCT Pacific Coast TV CA
