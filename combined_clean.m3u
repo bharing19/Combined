@@ -5890,6 +5890,9 @@ https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
 
 #EXTINF:-1 tvg-id="TWiT_Stream" tvg-logo="https://wiki.twit.tv/w/images/f/f8/TWiT_minilogo.png" group-title="US Webstreams",TWiT
 http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="GlobalPremiumNetwork" tvg-logo="http://img1.wsimg.com/isteam/ip/0b87ca5b-aad7-4e2d-bdc8-7e5cb8e07777/favicon/df4d9074-cd5d-47e4-84b6-1c7c97852ae1.png" group-title="US Webstreams",Global Premium Network
+#EXTINF:-1 tvg-id="GlobalPremiumNetwork" tvg-logo="http://img1.wsimg.com/isteam/ip/0b87ca5b-aad7-4e2d-bdc8-7e5cb8e07777/favicon/df4d9074-cd5d-47e4-84b6-1c7c97852ae1.png" group-title="US Webstreams",Global Premium Network
+https://tvstartup2-hls.secdn.net/tvstartup2-channel/live/mp4:gpnedge/playlist.m3u8
 #EXTINF:-1 tvg-id="ParanormalTV" tvg-logo="https://images.squarespace-cdn.com/content/v1/61cc70892e2bca2f4e1b9b5c/3b586b20-1413-4f7b-bc9d-b02350e03f1a/Paranormal-TV-Nav-Bar-Logo.png" group-title="US Webstreams",Paranormal TV
 https://2-fss-2.streamhoster.com/pl_138/205518-2101216-1/playlist.m3u8 
 #EXTINF:-1 tvg-id="PodTV_ProWrestlingLive" tvg-logo="https://prowrestlingtv.live/wp-content/uploads/2022/03/PWTV-Logo-3-1024x715.png" group-title="US Webstreams",Pro Wrestling TV
