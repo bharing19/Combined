@@ -5639,19 +5639,19 @@ https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="US PEG",CTV YouDotGov Ch25 Santa Cruz CA
 https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streama/manifest.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="US PEG",CTV Cruz TV Ch26 Santa Cruz CA
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="US PEG",CTV Cruz TV Ch26 Santa Cruz CA
 https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamb/manifest.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="US PEG",CTV SC Currents Ch27 Santa Cruz CA
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.communitytv.org/wp-content/uploads/2015/07/CTV-Logosmall.jpg" group-title="US PEG",CTV SC Currents Ch27 Santa Cruz CA
 https://tvsantacruz.secure.footprint.net/egress/bhandler/tvsantacruz/streamc/manifest.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="US PEG",Santa Maria Ch23 Gov Santa Maria CA
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsImNkMDRkNWIwLTA0YmQtNGVmOC05ODEyLWY2ZDZkN2FlYTA3MC92b2RfcGxheWVycy9vcmctbG9nby0xNTgxMDMyODAyLmpwZyJdXQ?sha=756a42c905d84d87" group-title="US PEG",Santa Maria Ch23 Gov Santa Maria CA
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streama/manifest.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="US PEG",Santa Maria Ch24 Education Santa Maria CA
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsImNkMDRkNWIwLTA0YmQtNGVmOC05ODEyLWY2ZDZkN2FlYTA3MC92b2RfcGxheWVycy9vcmctbG9nby0xNTgxMDMyODAyLmpwZyJdXQ?sha=756a42c905d84d87" group-title="US PEG",Santa Maria Ch24 Education Santa Maria CA
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/manifest.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="" group-title="US PEG",Santa Maria Ch25 Public Access Santa Maria CA
+#EXTINF:-1 tvg-id="PEG" tvg-logo="https://connect.telvue.com/dynamicthumb/W1siZiIsImNkMDRkNWIwLTA0YmQtNGVmOC05ODEyLWY2ZDZkN2FlYTA3MC92b2RfcGxheWVycy9vcmctbG9nby0xNTgxMDMyODAyLmpwZyJdXQ?sha=756a42c905d84d87" group-title="US PEG",Santa Maria Ch25 Public Access Santa Maria CA
 https://santamariactv.secure.footprint.net/egress/bhandler/santamariactv/streamc/manifest.m3u8
 
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.uctv.tv/images/UCTV-logo-header.png" group-title="US PEG",UCTV University of California
