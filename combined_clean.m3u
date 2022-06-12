@@ -5519,7 +5519,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 #EXTINF:-1 tvg-id="D_watcdt2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/WATC.png" group-title="US Locals",WATC57 TOO Atlanta GA 57.2 WATC-DT2
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
-#EXTINF:-1 tvg-id="TheWalk" tvg-logo="https://thewalk.tv/wp-content/uploads/2021/03/WalkHEader-300x153-1.png" group-title="US Locals",The Walk Greensville SC 16.11 WGGS-DT11
+#EXTINF:-1 tvg-id="TheWalk" tvg-logo="https://tvtv.us/gn/i/assets/s70730_ll_h15_ab.png" group-title="US Locals",The Walk Greensville SC 16.11 WGGS-DT11
 https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
 #EXTINF:-1 tvg-id="EPlus6" tvg-logo="https://www.eplusbroadband.com/images/uploads/broadband_content_images/E+TV6.2-C_.png" group-title="US Locals",E+TV6 Jackson TN Cable 6
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
