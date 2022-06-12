@@ -5687,11 +5687,11 @@ https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/6f3d03ed206
 #EXTINF:-1 tvg-id="PEG" tvg-logo="http://www.cedarfalls.com/ImageRepository/Document?documentID=6331" group-title="US PEG",Cedar Falls Iowa Ch15 
 https://vblive-c.viebit.com/3666443c-3b31-4c25-b992-22b0f5193165/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://tbnk.vod.castus.tv/live/ch1/thumb" group-title="US PEG",TBNK Latonia KY Gov1
+#EXTINF:-1 tvg-id="TBNK1_Gov" tvg-logo="https://tbnk.vod.castus.tv/live/ch1/thumb" group-title="US PEG",TBNK Latonia KY Gov1
 https://tbnk.vod.castus.tv/live/ch1.m3u8
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://tbnk.vod.castus.tv/live/ch2/thumb" group-title="US PEG",TBNK Northern Kentucky Gov2
+#EXTINF:-1 tvg-id="TBNK2_Gov" tvg-logo="https://tbnk.vod.castus.tv/live/ch2/thumb" group-title="US PEG",TBNK Northern Kentucky Gov2
 https://tbnk.vod.castus.tv/live/ch2.m3u8
-#EXTINF:-1 tvg-id="PEG" tvg-logo="https://tbnk.vod.castus.tv/live/ch3/thumb" group-title="US PEG",TBNK Northern Kentucky Main Event
+#EXTINF:-1 tvg-id="TBNK3_MainEvents" tvg-logo="https://tbnk.vod.castus.tv/live/ch3/thumb" group-title="US PEG",TBNK Northern Kentucky Main Events
 https://tbnk.vod.castus.tv/live/ch3.m3u8
 
 #EXTINF:-1 tvg-id="PEG" tvg-logo="http://images.squarespace-cdn.com/content/v1/56ccbd0c3c44d8670dbd272d/1584133605417-KJMRXZ35CZDU0LOMQ9TY/AOC_logo_full_color_Outline-01.png" group-title="US PEG",AOC Community Media Ch1 Lafayette LO
