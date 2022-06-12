@@ -5758,3 +5758,8 @@ https://2-fss-2.streamhoster.com/pl_126/201748-1529822-1/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_126/201748-1298538-1/playlist.m3u8
 #EXTINF:-1 tvg-id="NTVCam" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/canada/ntv-cjon-dt-ca.png" group-title="🇨🇦 Webstreams",NTV Logy Bay Road St John's NL
 https://2-fss-2.streamhoster.com/pl_126/201748-2266290-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Ch31 Adelaide" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/media/3bfc79dd-ce3d-4bd8-b3da-009425faa4cb.png" group-title="🇦🇺 Public",Channel 44 Adelaide
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="Ch31 Melbourne" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/media/3f296222-c42b-4bf3-a57c-c4af4ea87be0.png" group-title="🇦🇺 Public",C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
