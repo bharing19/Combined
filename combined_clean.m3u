@@ -5532,9 +5532,10 @@ https://ctntv.getstreamhosting.com:1936/WCLF/WCLF/playlist.m3u8
 https://ctntv.getstreamhosting.com:1936/WVLR/WVLR/playlist.m3u8
 #EXTINF:-1 tvg-id="PittsFaithandFamily" tvg-logo="https://tvtv.us/gn/i/assets/s112193_ll_h9_aa.png" group-title="US Locals",Pittsburgh Faith & Family Pittsburgh PA 40.6 WPCB-DT6 tvtv112193
 https://cdn-media9-truegod.r.worldssl.net/faithfamilylive/smil:faithfamily.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="YTA Pittsburgh PA" tvg-logo="https://tvtv.us/gn/i/assets/s10982_ll_h15_ab.png" group-title="US Locals",YTA Pittsburgh PA 49 WLLS-LP
+#EXTINF:-1 tvg-id="YTA Pittsburgh" tvg-logo="https://tvtv.us/gn/i/assets/s10982_ll_h15_ab.png" group-title="US Locals",YTA Pittsburgh PA 49 WLLS-LP
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-
+#EXTINF:-1 tvg-id="NTD Pittsburgh" tvg-logo="https://www.ntd.com/assets/themes/ntd/images/NTD_logo.png" group-title="US Locals",NTD Pittsburgh PA 69.2 WPTG-DT2
+https://ntd02.akamaized.net/NTDA/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="EPlus6" tvg-logo="https://www.eplusbroadband.com/images/uploads/broadband_content_images/E+TV6.2-C_.png" group-title="US Locals",E+TV6 Jackson TN Cable 6
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
 #EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://static.wixstatic.com/media/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png/v1/fill/w_515,h_243,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png" group-title="US Locals",KVVB-TV 33.1 Victorville CA
