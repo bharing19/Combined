@@ -5521,6 +5521,20 @@ https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
 https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-id="TheWalk" tvg-logo="https://tvtv.us/gn/i/assets/s70730_ll_h15_ab.png" group-title="US Locals",The Walk Greensville SC 16.11 WGGS-DT11
 https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
+
+#EXTINF:-1 tvg-id="ClassicArtsShowcase" tvg-logo="https://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="US Locals",Classic Arts Showcase New York NY 25.3 WYNE-DT3
+https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
+#EXTINF:-1 tvg-id="Cornerstone Greensburg PA" tvg-logo="https://tvtv.us/gn/i/assets/s14355_ll_h15_aa.png " group-title="US Locals",Cornerstone TV Greensburg PA 40.1 WPCB-DT
+https://cdn-media9-truegod.r.worldssl.net/ctvnlive/smil:ctvn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN Largo FL" tvg-logo="https://tvtv.us/gn/i/assets/s49128_ll_h9_aa.png" group-title="US Locals",CTN Largo FL WCLF-DT
+https://ctntv.getstreamhosting.com:1936/WCLF/WCLF/playlist.m3u8
+#EXTINF:-1 tvg-id="CTN Knoxville TN" tvg-logo="https://tvtv.us/gn/i/assets/s49128_ll_h9_aa.png" group-title="US Locals",CTN Knoxville TN 48.1 WVLR-DT
+https://ctntv.getstreamhosting.com:1936/WVLR/WVLR/playlist.m3u8
+#EXTINF:-1 tvg-id="PittsFaithandFamily" tvg-logo="https://tvtv.us/gn/i/assets/s112193_ll_h9_aa.png" group-title="US Locals",Pittsburgh Faith & Family Pittsburgh PA 40.6 WPCB-DT6 tvtv112193
+https://cdn-media9-truegod.r.worldssl.net/faithfamilylive/smil:faithfamily.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="YTA Pittsburgh PA" tvg-logo="https://tvtv.us/gn/i/assets/s10982_ll_h15_ab.png" group-title="US Locals",YTA Pittsburgh PA 49 WLLS-LP
+https://thegateway.app/YouToo/YTamerica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="EPlus6" tvg-logo="https://www.eplusbroadband.com/images/uploads/broadband_content_images/E+TV6.2-C_.png" group-title="US Locals",E+TV6 Jackson TN Cable 6
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
 #EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://static.wixstatic.com/media/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png/v1/fill/w_515,h_243,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png" group-title="US Locals",KVVB-TV 33.1 Victorville CA
