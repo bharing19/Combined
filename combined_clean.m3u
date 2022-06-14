@@ -5550,7 +5550,8 @@ https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266905/live.m3u8
 #EXTINF:-1 tvg-id="PosiTiV" tvg-logo="https://tvtv.us/gn/i/assets/s34169_ll_h15_ad.png" group-title="US Locals",PosiTiV New York NY 54.4 WTBY-DT4
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
-
+#EXTINF:-1 tvg-id="ClassicRerunsTV tvg-logo="https://tvtv.us/gn/i/assets/s118608_ll_h15_aa.png" group-title="US Locals",Classic Reruns TV Winter Park FL WOFT-LD5
+https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
 #EXTINF:-1 tvg-id="EPlus6" tvg-logo="https://www.eplusbroadband.com/images/uploads/broadband_content_images/E+TV6.2-C_.png" group-title="US Locals",E+TV6 Jackson TN Cable 6
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
 #EXTINF:-1 tvg-id="PHX" tvg-logo="https://www.phoenix.gov/Style%20Library/CityOfPhx/images/logo-phxtv.png" group-title="US Locals",PHX TV Phoenix AZ
