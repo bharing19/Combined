@@ -5550,7 +5550,7 @@ https://api.new.livestream.com/accounts/27460990/events/8266916/live.m3u8
 https://api.new.livestream.com/accounts/27460990/events/8266905/live.m3u8
 #EXTINF:-1 tvg-id="PosiTiV" tvg-logo="https://tvtv.us/gn/i/assets/s34169_ll_h15_ad.png" group-title="US Locals",PosiTiV New York NY 54.4 WTBY-DT4
 https://api.new.livestream.com/accounts/27460990/events/8973036/live.m3u8
-#EXTINF:-1 tvg-id="ClassicRerunsTV tvg-logo="https://tvtv.us/gn/i/assets/s118608_ll_h15_aa.png" group-title="US Locals",Classic Reruns TV Winter Park FL WOFT-LD5
+#EXTINF:-1 tvg-id="ClassicRerunsTV tvg-logo="https://classicreruns.com/wp-content/uploads/2021/01/CRTV-1024x1024-logo-nobkg-e1629529582672.png" group-title="US Locals",Classic Reruns TV Winter Park FL WOFT-LD5
 https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.m3u8
 #EXTINF:-1 tvg-id="EPlus6" tvg-logo="https://www.eplusbroadband.com/images/uploads/broadband_content_images/E+TV6.2-C_.png" group-title="US Locals",E+TV6 Jackson TN Cable 6
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
@@ -5568,7 +5568,7 @@ http://pegstudio.dyndns.tv/live-11/live/live.m3u8
 https://reflect-vod-bedfordtv.cablecast.tv/live-10/live/CELL-296k-234p/CELL-296k-234p.m3u8
 #EXTINF:-1 tvg-id="CC_PCTVSelect" tvg-logo="https://www.pittsfieldtv.org/wp-content/uploads/2020/03/PCTVSelect-Logo-300x300.png" group-title="US PEG",PCTV Select Pittsfield
 https://watch.pittsfieldtv.net/live-26/live/live.m3u8
-#EXTINF:-1 tvg-id="WSTO_Ind" tvg-logo="https://images.squarespace-cdn.com/content/v1/54fdd8f9e4b094b01781f559/9ceb0667-beb7-4dff-bdac-b82793db6c3e/WSTO+Purple+-+WOL.png?format=1500w" group-title="US Locals",WSTO-TV Stoughton WI Spectrum 981
+#EXTINF:-1 tvg-id="WSTO_Ind" tvg-logo="https://images.squarespace-cdn.com/content/v1/54fdd8f9e4b094b01781f559/9ceb0667-beb7-4dff-bdac-b82793db6c3e/WSTO+Purple+-+WOL.png?format=1500w" group-title="US PEG",WSTO-TV Stoughton WI Spectrum 981
 https://5d80890572342.streamlock.net:1936/live/wstoLive/playlist.m3u8
 #EXTINF:-1 tvg-id="CC_BNNCommunity" tvg-logo="https://bnnmedia.org/sites/default/files/ctv-sched.jpg" group-title="US PEG",BNN CommunityTV Boston MA
 https://reflect-cablecast-bnn.cablecast.tv/live-6/live/live.m3u8
@@ -5600,7 +5600,7 @@ http://173.9.65.74:8081/live/live.m3u8
 http://live.westboroughtv.org/live-12/live/live.m3u8
 #EXTINF:-1 tvg-id="CC_WestboroughEdu" tvg-logo="http://live.westboroughtv.org/Cablecast/WebFiles/8377/Westborough%20TV%20BUG2016.png" group-title="US PEG",Westborough Education Ch13
 http://live.westboroughtv.org/live-11/live/live.m3u8
-#EXTINF:-1 tvg-id="CC_TigerTV" tvg-logo="https://reflect-smsu.cablecast.tv/Cablecast/WebFiles/94489/Tiger%20TV%20Cablecast%20Banner.png" group-title="US Locals",Tiger TV Marshall Edu
+#EXTINF:-1 tvg-id="CC_TigerTV" tvg-logo="https://reflect-smsu.cablecast.tv/Cablecast/WebFiles/94489/Tiger%20TV%20Cablecast%20Banner.png" group-title="US PEG",Tiger TV Marshall Edu
 https://reflect-smsu.cablecast.tv/live-6/live/live.m3u8
 #EXTINF:-1 tvg-id="CC_SMSUMedia" tvg-logo="https://reflect-smsu.cablecast.tv/Cablecast/WebFiles/5549/smsuheader.png" group-title="US PEG",SMSU Media 
 https://reflect-smsu.cablecast.tv/live-5/live/live.m3u8
@@ -5932,7 +5932,7 @@ https://reflect-watertown.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1 tvg-id="PEG" tvg-logo="https://www.willinet.org/wp-content/uploads/2018/04/willinet-logo.png" group-title="US PEG",WilliNet Williamstown MA Ch1303
 https://reflect-willinet.cablecast.tv/live-12/live/live.m3u8
 
-#EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://ualruniversitytelevision.viebit.com/custom/site_images/MobileHeader50x50.png" group-title="US Locals",UALR University Television
+#EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://ualruniversitytelevision.viebit.com/custom/site_images/MobileHeader50x50.png" group-title="US PEG",UALR University Television
 https://vblive-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/chunklist.m3u8
 #EXTINF:-1 tvg-id="TV25_Ace" tvg-logo="https://www.acetelevisionnetwork.com/wp-content/uploads/2021/09/ACE_Logo_Medium_White-100x70.png" group-title="US Locals - TV25",ACE 25.3
 https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
