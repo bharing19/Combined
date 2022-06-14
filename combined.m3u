@@ -5556,7 +5556,7 @@ https://brklynmedia.secure.footprint.net/egress/chandler/brklynmedia/crr1/index.
 https://jacksonenergy.secure.footprint.net/egress/bhandler/jacksonenergy/streama/manifest.m3u8
 #EXTINF:-1 tvg-id="PHX" tvg-logo="https://www.phoenix.gov/Style%20Library/CityOfPhx/images/logo-phxtv.png" group-title="🇺🇸 Locals",PHX TV Phoenix AZ
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_002/playlist.m3u8
-#EXTINF:-1 tvg-id="EPGComingSoon" tvg-logo="https://static.wixstatic.com/media/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png/v1/fill/w_515,h_243,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png" group-title="🇺🇸 Locals",KVVB-TV 33.1 Victorville CA
+#EXTINF:-1 tvg-id="YTA Pittsburgh" tvg-logo="https://static.wixstatic.com/media/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png/v1/fill/w_515,h_243,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/132edf_bc133a1899a94276b5e29f4f6411a242~mv2.png" group-title="🇺🇸 Locals",KVVB-TV 33.1 Victorville CA
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsNet_wybnld8" tvg-logo="https://static.wixstatic.com/media/132edf_a070b2a7668c4d4d805b8f206cbf3bad~mv2.png/v1/fill/w_123,h_39,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/news%20net.png" group-title="🇺🇸 Locals",NewsNet KVVB-DT3 33.3 Victorville CA
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8
